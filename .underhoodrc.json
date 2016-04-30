@@ -1,0 +1,26 @@
+{
+  "underhood": "ceounderhood",
+  "underhoodDesc": "Коллективный твиттер для тех, кто хочет создать свой бизнес или только начал, от тех, кто уже в деле. Новый автор каждую неделю.",
+  "underhoodSite": "ceounderhood.ru",
+  "githubUser": "memphys",
+  "githubRepo": "ceounderhood",
+  "curatorEmail": "roman.lapin@gmail.com",
+  "curatorTwitter": "memphys",
+  "creatorTwitter": "iamstarkov",
+  "gauges": "56742cb6c88d9046da0016f5",
+  "googleAnalytics": "UA-77112067-1",
+  "yandexMetric": "37108500",
+  "creatorCreds": "iamstarkov@gmail.com (Vladimir Starkov)",
+  "underhoodVersion": "0.1.2",
+  "site": {
+    "title": "Сайт @ceounderhood",
+    "description": "Коллективный твиттер для тех, кто хочет создать свой бизнес или только начал, от тех, кто уже в деле. Новый автор каждую неделю.",
+    "feed_url": "https://ceounderhood.ru/rss.xml",
+    "site_url": "https://ceounderhood.ru/",
+    "managingEditor": "iamstarkov@gmail.com (Vladimir Starkov)",
+    "webMaster": "iamstarkov@gmail.com (Vladimir Starkov)",
+    "copyright": "MIT",
+    "language": "ru",
+    "categories": [ "twitter" ]
+  }
+}
