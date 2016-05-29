@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 19,
+  "followers_count": 21,
   "friends_count": 0,
   "listed_count": 0,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
@@ -46,36 +46,37 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1,
+  "statuses_count": 6,
   "lang": "en",
   "status": {
-    "created_at": "Sun May 29 18:33:21 +0000 2016",
-    "id": 736988819715678200,
-    "id_str": "736988819715678208",
-    "text": "Всем привет. Меня зовут Кирилл, я гендиректор \"Бумаги Медиа\". Вот наш сайт- визитка в модном стиле минимализм: https://t.co/14GZQK7VCz.",
+    "created_at": "Sun May 29 18:51:22 +0000 2016",
+    "id": 736993353464746000,
+    "id_str": "736993353464745984",
+    "text": "@abroadunderhood *пропустил два слова во фразе \"мой старый друг Рома\", хаха",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/14GZQK7VCz",
-          "expanded_url": "http://paperpaper.media",
-          "display_url": "paperpaper.media",
+          "screen_name": "abroadunderhood",
+          "name": "Эброд Андэрхуд",
+          "id": 3955812173,
+          "id_str": "3955812173",
           "indices": [
-            111,
-            134
+            0,
+            16
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 736992028249231400,
+    "in_reply_to_status_id_str": "736992028249231360",
+    "in_reply_to_user_id": 718365702420328400,
+    "in_reply_to_user_id_str": "718365702420328450",
+    "in_reply_to_screen_name": "ceounderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -85,7 +86,6 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
