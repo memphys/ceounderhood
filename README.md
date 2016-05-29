@@ -36,3 +36,5 @@
 * `static/` — статические файлы для сайта
 * `pages/` — маркдаун страницы на сайте
 * `migration/` — миграции для старых проектов
+
+[![Build Status](https://travis-ci.org/memphys/ceounderhood.svg?branch=master)](https://travis-ci.org/memphys/ceounderhood)
