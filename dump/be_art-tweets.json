@@ -3246,6 +3246,431 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 01 06:26:04 +0000 2016",
+      "id": 737892956934398000,
+      "id_str": "737892956934397952",
+      "text": "Доброе утро, сегодня, пожалуй, будет день фотографий, правда, на связь выйду вечером, а пока всех с первым днём лета https://t.co/uDzZfPt960",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 737892935220498400,
+            "id_str": "737892935220498432",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cj2Ftw4WkAAn9sI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cj2Ftw4WkAAn9sI.jpg",
+            "url": "https://t.co/uDzZfPt960",
+            "display_url": "pic.twitter.com/uDzZfPt960",
+            "expanded_url": "http://twitter.com/ceounderhood/status/737892956934397952/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 365,
+                "h": 577,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 365,
+                "h": 577,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 537,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 737892935220498400,
+            "id_str": "737892935220498432",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cj2Ftw4WkAAn9sI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cj2Ftw4WkAAn9sI.jpg",
+            "url": "https://t.co/uDzZfPt960",
+            "display_url": "pic.twitter.com/uDzZfPt960",
+            "expanded_url": "http://twitter.com/ceounderhood/status/737892956934397952/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 365,
+                "h": 577,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 365,
+                "h": 577,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 537,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 01 06:29:20 +0000 2016",
+      "id": 737893777960996900,
+      "id_str": "737893777960996864",
+      "text": "Ох, самое главное — локальные медиа невозможно масштабировать (разные ценности и интересы читателей) https://t.co/k5NWmtjFSP",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/k5NWmtjFSP",
+            "expanded_url": "https://twitter.com/swinopass/status/737868003405094912",
+            "display_url": "twitter.com/swinopass/stat…",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 737868003405094900,
+      "quoted_status_id_str": "737868003405094912",
+      "quoted_status": {
+        "created_at": "Wed Jun 01 04:46:55 +0000 2016",
+        "id": 737868003405094900,
+        "id_str": "737868003405094912",
+        "text": "@ceounderhood почему тогда работаете исключительно в России? Почему не попробовать замахнуться на другие страны? :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 737201418407448600,
+        "in_reply_to_status_id_str": "737201418407448576",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 307012428,
+          "id_str": "307012428"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 01 06:31:02 +0000 2016",
+      "id": 737894205956182000,
+      "id_str": "737894205956182016",
+      "text": "То есть это надо делать глобальный продукт, а это огромные инвестиции. Бывшие петербуржцы, впрочем, читают нас из самых разных стран.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 737893777960996900,
+      "in_reply_to_status_id_str": "737893777960996864",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 01 06:31:53 +0000 2016",
+      "id": 737894418510958600,
+      "id_str": "737894418510958592",
+      "text": "Знакомьтесь, Женя, наш литературный редактор. Женя, как и многие, часто работает из дома, так как в офисе тесновато  https://t.co/3DL8s8udzF",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3DL8s8udzF",
+            "expanded_url": "https://twitter.com/jenja_z/status/737725905083195393",
+            "display_url": "twitter.com/jenja_z/status…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 737725905083195400,
+      "quoted_status_id_str": "737725905083195393",
+      "quoted_status": {
+        "created_at": "Tue May 31 19:22:16 +0000 2016",
+        "id": 737725905083195400,
+        "id_str": "737725905083195393",
+        "text": "@solovievv @ceounderhood мне понравилось про тесную работу редакции и отдела спецпроектов",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "solovievv",
+              "name": "Никита",
+              "id": 86606368,
+              "id_str": "86606368",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                11,
+                24
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 86606368,
+        "in_reply_to_user_id_str": "86606368",
+        "in_reply_to_screen_name": "solovievv",
+        "user": {
+          "id": 179890298,
+          "id_str": "179890298"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 01 06:34:46 +0000 2016",
+      "id": 737895142376517600,
+      "id_str": "737895142376517634",
+      "text": "Недавно получили официальную претензию от фотографа, чью фотографию случайно украли в 2013-м. Извинились, заплатили. https://t.co/KVAlAeJ9Mk",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KVAlAeJ9Mk",
+            "expanded_url": "https://twitter.com/mrzff/status/737894702113034241",
+            "display_url": "twitter.com/mrzff/status/7…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 737894702113034200,
+      "quoted_status_id_str": "737894702113034241",
+      "quoted_status": {
+        "created_at": "Wed Jun 01 06:33:01 +0000 2016",
+        "id": 737894702113034200,
+        "id_str": "737894702113034241",
+        "text": "@ceounderhood были ли проблемы с авторским правом? кто-то жаловался? как решали?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 737894205956182000,
+        "in_reply_to_status_id_str": "737894205956182016",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 42192853,
+          "id_str": "42192853"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
