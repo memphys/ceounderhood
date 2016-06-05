@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 68,
+  "followers_count": 69,
   "friends_count": 0,
   "listed_count": 0,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
@@ -46,37 +46,26 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 74,
+  "statuses_count": 109,
   "lang": "en",
   "status": {
-    "created_at": "Thu Jun 02 08:37:25 +0000 2016",
-    "id": 738288399929466900,
-    "id_str": "738288399929466880",
-    "text": "@5an мой основной!",
+    "created_at": "Sun Jun 05 12:25:56 +0000 2016",
+    "id": 739433070869254100,
+    "id_str": "739433070869254144",
+    "text": "А также о том, что в стартап нужны люди, которые хотят и умеют делать «всё», а в какую-никакую компанию нужны более-менее узкие специалисты",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "5an",
-          "name": "Alexandr Kim",
-          "id": 9398162,
-          "id_str": "9398162",
-          "indices": [
-            0,
-            4
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 738288063982403600,
-    "in_reply_to_status_id_str": "738288063982403585",
-    "in_reply_to_user_id": 9398162,
-    "in_reply_to_user_id_str": "9398162",
-    "in_reply_to_screen_name": "5an",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 739426656612405200,
+    "in_reply_to_status_id_str": "739426656612405248",
+    "in_reply_to_user_id": 718365702420328400,
+    "in_reply_to_user_id_str": "718365702420328450",
+    "in_reply_to_screen_name": "ceounderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
