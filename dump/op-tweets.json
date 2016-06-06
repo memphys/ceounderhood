@@ -1,0 +1,513 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jun 06 07:49:22 +0000 2016",
+      "id": 739725855505666000,
+      "id_str": "739725855505666048",
+      "text": "Стартую CEO-вахту. Начну с вранья. Я — совладелец @sobakapav, а вовсе не гендир. Главный, но не executive. Ох уж эти термины.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sobakapav",
+            "name": "Собака Павлова",
+            "id": 1452931902,
+            "id_str": "1452931902",
+            "indices": [
+              50,
+              60
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 07:59:40 +0000 2016",
+      "id": 739728449909186600,
+      "id_str": "739728449909186560",
+      "text": "20% времени уходит на прокачку команды. Вот и сегодня — начинаю день с того, что передаю копирайтеру ссылку https://t.co/4eBsMAMo7g",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4eBsMAMo7g",
+            "expanded_url": "http://www.cinemotionlab.com/novosti/02641-sozdanie_scenariev__sovremennaya_forma_shamanizma_koldovstvo_v_chistom_vide_liliya_kim_o_krupneyshem_v_mire_sobranii_scenaristov_story_expo/",
+            "display_url": "cinemotionlab.com/novosti/02641-…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 08:02:13 +0000 2016",
+      "id": 739729093231542300,
+      "id_str": "739729093231542272",
+      "text": ".@5an Основной бизнес @sobakapav — аутсорс продуктовых компетенций в IT-проектах.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "5an",
+            "name": "Alexandr Kim",
+            "id": 9398162,
+            "id_str": "9398162",
+            "indices": [
+              1,
+              5
+            ]
+          },
+          {
+            "screen_name": "sobakapav",
+            "name": "Собака Павлова",
+            "id": 1452931902,
+            "id_str": "1452931902",
+            "indices": [
+              22,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 739728165841444900,
+      "in_reply_to_status_id_str": "739728165841444864",
+      "in_reply_to_user_id": 9398162,
+      "in_reply_to_user_id_str": "9398162",
+      "in_reply_to_screen_name": "5an",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 08:06:57 +0000 2016",
+      "id": 739730282450980900,
+      "id_str": "739730282450980864",
+      "text": "А вот и почта. Тэглайн прислал длиннющий запрос на комментарий про что-то второстепенное. Отвечу после 16:00, когда мозг выключится.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 08:11:13 +0000 2016",
+      "id": 739731357849522200,
+      "id_str": "739731357849522176",
+      "text": "Прошлые комменты Тэглайну — про скучнющую тему выбора системы управления задачами: https://t.co/AwdsaOfGv2 — все серьёзные такие :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AwdsaOfGv2",
+            "expanded_url": "http://tagline.ru/task-bug-tracking-services-rating",
+            "display_url": "tagline.ru/task-bug-track…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 08:50:12 +0000 2016",
+      "id": 739741168615981000,
+      "id_str": "739741168615981057",
+      "text": "В офисе первым делом — small talk. Сегодня — с настоящим CEO (гендиром) про её воскресный бадминтон. Компьютеры и дела подождут.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 08:51:56 +0000 2016",
+      "id": 739741601363333100,
+      "id_str": "739741601363333120",
+      "text": "А вторым делом — Slack. Наши каналы: bizbiz, cases, firstyle, offtopic, projects, sales, show, site, study и tools. Вроде понятно, где что?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Jun 06 08:59:38 +0000 2016",
+      "id": 739743538951389200,
+      "id_str": "739743538951389184",
+      "text": "Рабочее место выглядит не так изящно, как рекомендуют нам бизнес-тренеры. Зато есть персональная корзина для мусора! https://t.co/BSIElp2VnR",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 739743519791669200,
+            "id_str": "739743519791669248",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkQYz9oUYAAnpyL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkQYz9oUYAAnpyL.jpg",
+            "url": "https://t.co/BSIElp2VnR",
+            "display_url": "pic.twitter.com/BSIElp2VnR",
+            "expanded_url": "http://twitter.com/ceounderhood/status/739743538951389184/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 896,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 508,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1530,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 739743519791669200,
+            "id_str": "739743519791669248",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkQYz9oUYAAnpyL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkQYz9oUYAAnpyL.jpg",
+            "url": "https://t.co/BSIElp2VnR",
+            "display_url": "pic.twitter.com/BSIElp2VnR",
+            "expanded_url": "http://twitter.com/ceounderhood/status/739743538951389184/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 896,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 508,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1530,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 09:03:44 +0000 2016",
+      "id": 739744572679585800,
+      "id_str": "739744572679585792",
+      "text": "В офисе, напичканном гениями, должно быть зеркало. Большое. Потому что каждый сам себе звезда! И никаких портретов. https://t.co/bSSCMKsBeB",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 739744540802834400,
+            "id_str": "739744540802834436",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkQZvZMWYAQ6UP8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkQZvZMWYAQ6UP8.jpg",
+            "url": "https://t.co/bSSCMKsBeB",
+            "display_url": "pic.twitter.com/bSSCMKsBeB",
+            "expanded_url": "http://twitter.com/ceounderhood/status/739744572679585792/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 508,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1530,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 896,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 739744540802834400,
+            "id_str": "739744540802834436",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkQZvZMWYAQ6UP8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkQZvZMWYAQ6UP8.jpg",
+            "url": "https://t.co/bSSCMKsBeB",
+            "display_url": "pic.twitter.com/bSSCMKsBeB",
+            "expanded_url": "http://twitter.com/ceounderhood/status/739744572679585792/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 508,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1530,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 896,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
