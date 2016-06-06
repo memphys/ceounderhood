@@ -37,62 +37,43 @@
     }
   },
   "protected": false,
-  "followers_count": 77,
+  "followers_count": 83,
   "friends_count": 0,
-  "listed_count": 0,
+  "listed_count": 1,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
   "favourites_count": 0,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 138,
+  "statuses_count": 144,
   "lang": "en",
   "status": {
-    "created_at": "Sun Jun 05 21:25:22 +0000 2016",
-    "id": 739568824287121400,
-    "id_str": "739568824287121410",
-    "text": "Паблик \"Бумаги\" вк https://t.co/sfsfZdOnWt в фб https://t.co/rzgAcl7rVi и твиттер @paperpaper_ru",
+    "created_at": "Mon Jun 06 05:37:19 +0000 2016",
+    "id": 739692626014769200,
+    "id_str": "739692626014769152",
+    "text": "Всем пока, спасибо вам и Роме @memphys, сдаю регу.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "paperpaper_ru",
-          "name": "Газета «Бумага»",
-          "id": 205430752,
-          "id_str": "205430752",
+          "screen_name": "memphys",
+          "name": "Roma Lapin",
+          "id": 17266543,
+          "id_str": "17266543",
           "indices": [
-            82,
-            96
+            30,
+            38
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/sfsfZdOnWt",
-          "expanded_url": "https://vk.com/paperpaper_ru",
-          "display_url": "vk.com/paperpaper_ru",
-          "indices": [
-            19,
-            42
-          ]
-        },
-        {
-          "url": "https://t.co/rzgAcl7rVi",
-          "expanded_url": "http://facebook.com/paperpaper.ru",
-          "display_url": "facebook.com/paperpaper.ru",
-          "indices": [
-            48,
-            71
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 739568608825737200,
-    "in_reply_to_status_id_str": "739568608825737216",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 739564850347708400,
+    "in_reply_to_status_id_str": "739564850347708417",
     "in_reply_to_user_id": 718365702420328400,
     "in_reply_to_user_id_str": "718365702420328450",
     "in_reply_to_screen_name": "ceounderhood",
@@ -105,7 +86,6 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
