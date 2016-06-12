@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 107,
+  "followers_count": 109,
   "friends_count": 0,
   "listed_count": 1,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
@@ -46,19 +46,29 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 198,
+  "statuses_count": 203,
   "lang": "en",
   "status": {
-    "created_at": "Fri Jun 10 20:01:45 +0000 2016",
-    "id": 741359718984241200,
-    "id_str": "741359718984241153",
-    "text": "А легенды, как обычно, гласят, что трудно делегировать свои сильные компетенции. И в который раз — врут легенды, ой, врут.",
+    "created_at": "Sun Jun 12 07:01:04 +0000 2016",
+    "id": 741888028059242500,
+    "id_str": "741888028059242496",
+    "text": "Ликбез дня в тему — почитайте про схему Суворова: https://t.co/pjv1I7mRkw — так просто на словах, но не по-суворовски мы живём. А надо.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/pjv1I7mRkw",
+          "expanded_url": "http://abireg.ru/sb/print/n_150.html",
+          "display_url": "abireg.ru/sb/print/n_150…",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
     "in_reply_to_status_id": null,
@@ -72,9 +82,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,

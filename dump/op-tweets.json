@@ -2180,6 +2180,193 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 11 10:01:05 +0000 2016",
+      "id": 741570945941438500,
+      "id_str": "741570945941438464",
+      "text": "Про выученную беспомощность бизнеса: https://t.co/yoFGrjqhRm (как обычно, есть смысл примерять на себя, а не рассуждать вообще).",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yoFGrjqhRm",
+            "expanded_url": "https://people.onliner.by/category/opinions/2016/05/03/mnenie-438",
+            "display_url": "people.onliner.by/category/opini…",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 12 06:53:49 +0000 2016",
+      "id": 741886205160226800,
+      "id_str": "741886205160226820",
+      "text": "15 минут слушала, как унылый «эффективный менеджер» рассказывает: руководить — это поставить задачу и требовать исполнения. Аж растерялась.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 12 06:56:09 +0000 2016",
+      "id": 741886791528091600,
+      "id_str": "741886791528091648",
+      "text": "Наше бизнес-общество увлечено войной за право ставить задачи. Так оно понимает власть и управление. Я бы застрелилась с тоски в этой войне.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 12 06:57:50 +0000 2016",
+      "id": 741887214393688000,
+      "id_str": "741887214393688064",
+      "text": "По мне так задачи ставит тот, кому нужен результат и кто готов к нему вести людей, если они вдруг сами не могут. Это не всегда руководитель.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 12 07:01:04 +0000 2016",
+      "id": 741888028059242500,
+      "id_str": "741888028059242496",
+      "text": "Ликбез дня в тему — почитайте про схему Суворова: https://t.co/pjv1I7mRkw — так просто на словах, но не по-суворовски мы живём. А надо.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pjv1I7mRkw",
+            "expanded_url": "http://abireg.ru/sb/print/n_150.html",
+            "display_url": "abireg.ru/sb/print/n_150…",
+            "indices": [
+              50,
+              73
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
