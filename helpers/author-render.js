@@ -40,16 +40,18 @@ const prevAuthor = author => {
 };
 
 const d = input => moment(new Date(input)).format('D MMMM YYYY');
+const gd = input => moment(new Date(input)).format('YYYY-MM-DD');
 const tweetsUnit = numd('твит', 'твита', 'твитов');
 const capitalize = converge(concat, [pipe(head, toUpper), tail]);
 const filterTimeline = item => (item.text[0] !== '@') || (item.text.indexOf(`@${underhood}`) === 0);
 const prepareTweets = pipe(
   filter(filterTimeline),
-  groupBy(pipe(prop('created_at'), weekday)),
+  groupBy(pipe(prop('created_at'), gd)),
   ungroupInto('weekday', 'tweets'));
 
 export default {
   d,
+  weekday,
   prepareTweets,
   capitalize,
   tweetsUnit,
