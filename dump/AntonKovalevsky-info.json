@@ -46,13 +46,13 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 255,
+  "statuses_count": 257,
   "lang": "en",
   "status": {
-    "created_at": "Fri Jun 17 07:29:21 +0000 2016",
-    "id": 743707084932276200,
-    "id_str": "743707084932276225",
-    "text": "Как вариант да, но для меня это сложноватые материи. Проще делегировать и быть уверенным, что с государством все ок https://t.co/QsW0aHaaqZ",
+    "created_at": "Fri Jun 17 12:08:24 +0000 2016",
+    "id": 743777311145791500,
+    "id_str": "743777311145791488",
+    "text": "Ребята из \"Бла Бла Бла\" https://t.co/jbBeyjIDSR. Настоятельно рекомендую, за 1,5 месяца прокачивают https://t.co/4avQNgahKM",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -60,12 +60,21 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/QsW0aHaaqZ",
-          "expanded_url": "https://twitter.com/memphys/status/743706367777595392",
-          "display_url": "twitter.com/memphys/status…",
+          "url": "https://t.co/jbBeyjIDSR",
+          "expanded_url": "http://www.blaschool.com",
+          "display_url": "blaschool.com",
           "indices": [
-            116,
-            139
+            24,
+            47
+          ]
+        },
+        {
+          "url": "https://t.co/4avQNgahKM",
+          "expanded_url": "https://twitter.com/SobolevSergej/status/743775247447523328",
+          "display_url": "twitter.com/SobolevSergej/…",
+          "indices": [
+            100,
+            123
           ]
         }
       ]
@@ -80,8 +89,8 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 743706367777595400,
-    "quoted_status_id_str": "743706367777595392",
+    "quoted_status_id": 743775247447523300,
+    "quoted_status_id_str": "743775247447523328",
     "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
