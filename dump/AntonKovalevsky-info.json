@@ -46,13 +46,13 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 229,
+  "statuses_count": 255,
   "lang": "en",
   "status": {
-    "created_at": "Thu Jun 16 13:22:02 +0000 2016",
-    "id": 743433453996220400,
-    "id_str": "743433453996220416",
-    "text": "На следующую неделю нужен автор, давайте поддержим проект.  https://t.co/NIOHnMbFiw",
+    "created_at": "Fri Jun 17 07:29:21 +0000 2016",
+    "id": 743707084932276200,
+    "id_str": "743707084932276225",
+    "text": "Как вариант да, но для меня это сложноватые материи. Проще делегировать и быть уверенным, что с государством все ок https://t.co/QsW0aHaaqZ",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -60,17 +60,17 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/NIOHnMbFiw",
-          "expanded_url": "https://twitter.com/memphys/status/743361948817850369",
+          "url": "https://t.co/QsW0aHaaqZ",
+          "expanded_url": "https://twitter.com/memphys/status/743706367777595392",
           "display_url": "twitter.com/memphys/status…",
           "indices": [
-            60,
-            83
+            116,
+            139
           ]
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -80,11 +80,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 743361948817850400,
-    "quoted_status_id_str": "743361948817850369",
+    "quoted_status_id": 743706367777595400,
+    "quoted_status_id_str": "743706367777595392",
     "is_quote_status": true,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
