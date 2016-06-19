@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 127,
+  "followers_count": 128,
   "friends_count": 0,
   "listed_count": 2,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
@@ -46,32 +46,31 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 259,
+  "statuses_count": 268,
   "lang": "en",
   "status": {
-    "created_at": "Fri Jun 17 20:24:01 +0000 2016",
-    "id": 743902038640078800,
-    "id_str": "743902038640078848",
-    "text": "Работаете по ночам? Еще год назад я бы сказал, что это лучшее время. А сейчас согласен с @op - высыпаться это важно (но не всегда возможно)",
+    "created_at": "Sun Jun 19 10:31:40 +0000 2016",
+    "id": 744477745426628600,
+    "id_str": "744477745426628608",
+    "text": "Именно! И не бояться этим правом пользоваться. Важно не сколько раз упал, а сколько раз поднялся :) https://t.co/3Xe5XjwHWx",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "op",
-          "name": "Olga Pavlova",
-          "id": 3992541,
-          "id_str": "3992541",
+          "url": "https://t.co/3Xe5XjwHWx",
+          "expanded_url": "https://twitter.com/memphys/status/744477498327601153",
+          "display_url": "twitter.com/memphys/status…",
           "indices": [
-            89,
-            92
+            100,
+            123
           ]
         }
-      ],
-      "urls": []
+      ]
     },
-    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -81,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 744477498327601200,
+    "quoted_status_id_str": "744477498327601153",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
