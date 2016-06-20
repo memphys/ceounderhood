@@ -46,19 +46,29 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 273,
+  "statuses_count": 283,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jun 20 08:16:04 +0000 2016",
-    "id": 744806008850001900,
-    "id_str": "744806008850001922",
-    "text": "Разгребаем почту, письма, звонки, сообщения, собираемся в офисе, пьем кофе, «как выходные?» и погнали",
+    "created_at": "Mon Jun 20 12:23:17 +0000 2016",
+    "id": 744868220172120000,
+    "id_str": "744868220172120064",
+    "text": "Кстати, в этот четверг будем проводить один ивент - E-commerce: design update. Вход бесплатный, если че https://t.co/mTuIc9xKOP",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/mTuIc9xKOP",
+          "expanded_url": "https://specia-events.timepad.ru/event/341926/?utm_source=facebook.com&utm_medium=social&utm_campaign=segodnya-startuet-st.-petersburg-digital",
+          "display_url": "specia-events.timepad.ru/event/341926/?…",
+          "indices": [
+            104,
+            127
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -69,12 +79,15 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      232843330
+    ],
     "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
