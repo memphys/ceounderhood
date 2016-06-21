@@ -1064,6 +1064,632 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 21 09:32:17 +0000 2016",
+      "id": 745187574159908900,
+      "id_str": "745187574159908864",
+      "text": "Рабочее место сегодня. Иногда я сижу на самом стремном месте при входе. Лучшее ребятам, а я и на окне посижу если че https://t.co/BGwlQT1CPG",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 745186837887590400,
+            "id_str": "745186837887590400",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CldvexuWIAAWkA6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CldvexuWIAAWkA6.jpg",
+            "url": "https://t.co/BGwlQT1CPG",
+            "display_url": "pic.twitter.com/BGwlQT1CPG",
+            "expanded_url": "http://twitter.com/ceounderhood/status/745187574159908864/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1632,
+                "h": 1224,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 745186837887590400,
+            "id_str": "745186837887590400",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CldvexuWIAAWkA6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CldvexuWIAAWkA6.jpg",
+            "url": "https://t.co/BGwlQT1CPG",
+            "display_url": "pic.twitter.com/BGwlQT1CPG",
+            "expanded_url": "http://twitter.com/ceounderhood/status/745187574159908864/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1632,
+                "h": 1224,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        232843330
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 21 10:03:15 +0000 2016",
+      "id": 745195367722029000,
+      "id_str": "745195367722029056",
+      "text": "Банально, но воистину. Люди – самое главное, что есть в вашей компании (после бизнес-модели).",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        232843330
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 21 10:07:36 +0000 2016",
+      "id": 745196460904452100,
+      "id_str": "745196460904452096",
+      "text": "И в самом начале эти люди – ты сам и партнер/ы – это точка кристаллизации. А потом ищешь лучших. Гораздо лучше тебя. Отдаешь и не лезишь",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        232843330
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 21 10:13:18 +0000 2016",
+      "id": 745197896698585100,
+      "id_str": "745197896698585088",
+      "text": "Уточню слово \"лучших\". Для меня это недораскрытый потенциал, талант, незашоренность, способность сделать какую-то вещь лучше чем окружающие",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        232843330
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 21 10:20:43 +0000 2016",
+      "id": 745199761913937900,
+      "id_str": "745199761913937921",
+      "text": "Про \"лезешь\" тоже пару слов. Отдавать сложно, потом легче. Когда команда больше - еще легче.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        232843330
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 21 10:24:00 +0000 2016",
+      "id": 745200592126091300,
+      "id_str": "745200592126091264",
+      "text": "Это вопрос доверия к тем кому отдаешь И к себе – а того ли ты взял. Конструкция должна стоять на нескольких опорах. Не замыкайте все на себя",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        232843330
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 21 13:48:22 +0000 2016",
+      "id": 745252021255704600,
+      "id_str": "745252021255704576",
+      "text": "внезапно решили что нам надо сделать наклеек под ивент в четверг, сделали, выбрали, решили. Ответ 10 типографий: \"ну неее, от трех дней\"",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        232843330
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 21 15:57:11 +0000 2016",
+      "id": 745284439069044700,
+      "id_str": "745284439069044736",
+      "text": "утро внедряем новый тасктрекер звонки письма день бухгалтер ндс наклейки встреча платежи фейсбучная-фудбо-лента #обычныйдень #своедело",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "обычныйдень",
+            "indices": [
+              112,
+              124
+            ]
+          },
+          {
+            "text": "своедело",
+            "indices": [
+              125,
+              134
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        232843330
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 21 16:58:50 +0000 2016",
+      "id": 745299951547191300,
+      "id_str": "745299951547191296",
+      "text": "Наглядно про agile. Это и про компанию, и про стартап, про что угодно. Больше и чаще небольших измеримых шагов! https://t.co/AfXt86OBn9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 745299664640020500,
+            "id_str": "745299664640020480",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/ClfWGKIWEAAktHI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ClfWGKIWEAAktHI.jpg",
+            "url": "https://t.co/AfXt86OBn9",
+            "display_url": "pic.twitter.com/AfXt86OBn9",
+            "expanded_url": "http://twitter.com/ceounderhood/status/745299951547191296/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 794,
+                "h": 531,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 455,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 794,
+                "h": 531,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 745299664640020500,
+            "id_str": "745299664640020480",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/ClfWGKIWEAAktHI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ClfWGKIWEAAktHI.jpg",
+            "url": "https://t.co/AfXt86OBn9",
+            "display_url": "pic.twitter.com/AfXt86OBn9",
+            "expanded_url": "http://twitter.com/ceounderhood/status/745299951547191296/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 794,
+                "h": 531,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 455,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 794,
+                "h": 531,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        232843330
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 21 18:35:19 +0000 2016",
+      "id": 745324233170034700,
+      "id_str": "745324233170034688",
+      "text": "@memphys никогда не оцениваем проект целиком (только оч и оч прикидочно), идем по проекту 2х-недельными итерациями, каждый раз уточняемся",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "memphys",
+            "name": "Roma Lapin",
+            "id": 17266543,
+            "id_str": "17266543",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 745312518059466800,
+      "in_reply_to_status_id_str": "745312518059466753",
+      "in_reply_to_user_id": 17266543,
+      "in_reply_to_user_id_str": "17266543",
+      "in_reply_to_screen_name": "memphys",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        232843330
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 21 18:38:50 +0000 2016",
+      "id": 745325119912972300,
+      "id_str": "745325119912972288",
+      "text": "@memphys иногда возвращаемся к ранее пройденным итерациям – меняем/дополняем/упрощяем ранее согласованные результаты",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "memphys",
+            "name": "Roma Lapin",
+            "id": 17266543,
+            "id_str": "17266543",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 745312518059466800,
+      "in_reply_to_status_id_str": "745312518059466753",
+      "in_reply_to_user_id": 17266543,
+      "in_reply_to_user_id_str": "17266543",
+      "in_reply_to_screen_name": "memphys",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        232843330
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 21 18:43:40 +0000 2016",
+      "id": 745326335132835800,
+      "id_str": "745326335132835840",
+      "text": "@memphys этот цикл можно крутить оч долго – на проектировании, на запуске, после запуска и тд",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "memphys",
+            "name": "Roma Lapin",
+            "id": 17266543,
+            "id_str": "17266543",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 745312518059466800,
+      "in_reply_to_status_id_str": "745312518059466753",
+      "in_reply_to_user_id": 17266543,
+      "in_reply_to_user_id_str": "17266543",
+      "in_reply_to_screen_name": "memphys",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        232843330
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
