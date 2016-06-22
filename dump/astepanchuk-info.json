@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 136,
+  "followers_count": 135,
   "friends_count": 0,
   "listed_count": 2,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
@@ -46,13 +46,13 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 315,
+  "statuses_count": 320,
   "lang": "en",
   "status": {
-    "created_at": "Wed Jun 22 10:03:01 +0000 2016",
-    "id": 745557699404894200,
-    "id_str": "745557699404894208",
-    "text": "Кнопка Cmd буквально кричит о любви к хоткеям. 6 лет не держал в руках мышь",
+    "created_at": "Wed Jun 22 15:00:42 +0000 2016",
+    "id": 745632613298143200,
+    "id_str": "745632613298143233",
+    "text": "С др стороны мозг предпринимателя - ушлый мозг, бывает придумывает идеи на грани фола, маневрирует изворачивается. Но кредит безусловное зло",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -69,9 +69,7 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      232843330
-    ],
+    "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
