@@ -46,13 +46,13 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 313,
+  "statuses_count": 315,
   "lang": "en",
   "status": {
-    "created_at": "Wed Jun 22 03:54:07 +0000 2016",
-    "id": 745464858871619600,
-    "id_str": "745464858871619591",
-    "text": "Сейчас по утрам «Вы или вас. Профессиональная эксплуатация подчиненных» А.Фридмана. Рекомендовано всем предпринимающим)",
+    "created_at": "Wed Jun 22 10:03:01 +0000 2016",
+    "id": 745557699404894200,
+    "id_str": "745557699404894208",
+    "text": "Кнопка Cmd буквально кричит о любви к хоткеям. 6 лет не держал в руках мышь",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -74,7 +74,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
