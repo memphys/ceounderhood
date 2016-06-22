@@ -46,37 +46,26 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 301,
+  "statuses_count": 313,
   "lang": "en",
   "status": {
-    "created_at": "Tue Jun 21 18:43:40 +0000 2016",
-    "id": 745326335132835800,
-    "id_str": "745326335132835840",
-    "text": "@memphys этот цикл можно крутить оч долго – на проектировании, на запуске, после запуска и тд",
+    "created_at": "Wed Jun 22 03:54:07 +0000 2016",
+    "id": 745464858871619600,
+    "id_str": "745464858871619591",
+    "text": "Сейчас по утрам «Вы или вас. Профессиональная эксплуатация подчиненных» А.Фридмана. Рекомендовано всем предпринимающим)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "memphys",
-          "name": "Roma Lapin",
-          "id": 17266543,
-          "id_str": "17266543",
-          "indices": [
-            0,
-            8
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 745312518059466800,
-    "in_reply_to_status_id_str": "745312518059466753",
-    "in_reply_to_user_id": 17266543,
-    "in_reply_to_user_id_str": "17266543",
-    "in_reply_to_screen_name": "memphys",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -85,7 +74,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
