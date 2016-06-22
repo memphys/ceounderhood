@@ -41,24 +41,34 @@
   "friends_count": 0,
   "listed_count": 2,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
-  "favourites_count": 4,
+  "favourites_count": 5,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 320,
+  "statuses_count": 326,
   "lang": "en",
   "status": {
-    "created_at": "Wed Jun 22 15:00:42 +0000 2016",
-    "id": 745632613298143200,
-    "id_str": "745632613298143233",
-    "text": "С др стороны мозг предпринимателя - ушлый мозг, бывает придумывает идеи на грани фола, маневрирует изворачивается. Но кредит безусловное зло",
+    "created_at": "Wed Jun 22 18:20:46 +0000 2016",
+    "id": 745682958988755000,
+    "id_str": "745682958988754945",
+    "text": "эмоционально - возможно. Экономически - нет, друзья как правило не выставляют проценты и не продают тебя коллекторам https://t.co/SlqN36ABeD",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/SlqN36ABeD",
+          "expanded_url": "https://twitter.com/memphys/status/745682237828513792",
+          "display_url": "twitter.com/memphys/status…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -69,12 +79,17 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
-    "is_quote_status": false,
+    "contributors": [
+      232843330
+    ],
+    "quoted_status_id": 745682237828513800,
+    "quoted_status_id_str": "745682237828513792",
+    "is_quote_status": true,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
