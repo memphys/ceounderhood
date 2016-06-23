@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 135,
+  "followers_count": 133,
   "friends_count": 0,
   "listed_count": 2,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
@@ -46,13 +46,13 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 326,
+  "statuses_count": 345,
   "lang": "en",
   "status": {
-    "created_at": "Wed Jun 22 18:20:46 +0000 2016",
-    "id": 745682958988755000,
-    "id_str": "745682958988754945",
-    "text": "эмоционально - возможно. Экономически - нет, друзья как правило не выставляют проценты и не продают тебя коллекторам https://t.co/SlqN36ABeD",
+    "created_at": "Thu Jun 23 10:53:19 +0000 2016",
+    "id": 745932742567821300,
+    "id_str": "745932742567821312",
+    "text": "тогда нам казалось, что месяца будет достаточно) А дольше тянуть их не хотели, да и не могли https://t.co/uthTE76HpP",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -60,12 +60,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/SlqN36ABeD",
-          "expanded_url": "https://twitter.com/memphys/status/745682237828513792",
-          "display_url": "twitter.com/memphys/status…",
+          "url": "https://t.co/uthTE76HpP",
+          "expanded_url": "https://twitter.com/dcromster/status/745929145029435392",
+          "display_url": "twitter.com/dcromster/stat…",
           "indices": [
-            117,
-            140
+            93,
+            116
           ]
         }
       ]
@@ -82,11 +82,11 @@
     "contributors": [
       232843330
     ],
-    "quoted_status_id": 745682237828513800,
-    "quoted_status_id_str": "745682237828513792",
+    "quoted_status_id": 745929145029435400,
+    "quoted_status_id_str": "745929145029435392",
     "is_quote_status": true,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
