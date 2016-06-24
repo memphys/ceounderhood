@@ -46,97 +46,19 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 357,
+  "statuses_count": 360,
   "lang": "en",
   "status": {
-    "created_at": "Thu Jun 23 20:42:57 +0000 2016",
-    "id": 746081128075894800,
-    "id_str": "746081128075894784",
-    "text": "началось https://t.co/ZREhXK9pb8",
+    "created_at": "Fri Jun 24 08:50:20 +0000 2016",
+    "id": 746264180555194400,
+    "id_str": "746264180555194368",
+    "text": "Домашние лекции - простая и полезная вещь - прокачивает у людей навык презентаций, коммуникаций, а окружающие узнают что-то новое",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
-        {
-          "id": 746081074921545700,
-          "id_str": "746081074921545728",
-          "indices": [
-            9,
-            32
-          ],
-          "media_url": "http://pbs.twimg.com/media/ClqcyORXIAAp7ba.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/ClqcyORXIAAp7ba.jpg",
-          "url": "https://t.co/ZREhXK9pb8",
-          "display_url": "pic.twitter.com/ZREhXK9pb8",
-          "expanded_url": "http://twitter.com/ceounderhood/status/746081128075894784/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 1200,
-              "h": 566,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 320,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1358,
-              "h": 640,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 746081074921545700,
-          "id_str": "746081074921545728",
-          "indices": [
-            9,
-            32
-          ],
-          "media_url": "http://pbs.twimg.com/media/ClqcyORXIAAp7ba.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/ClqcyORXIAAp7ba.jpg",
-          "url": "https://t.co/ZREhXK9pb8",
-          "display_url": "pic.twitter.com/ZREhXK9pb8",
-          "expanded_url": "http://twitter.com/ceounderhood/status/746081128075894784/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 1200,
-              "h": 566,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 320,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1358,
-              "h": 640,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -151,11 +73,10 @@
       232843330
     ],
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
