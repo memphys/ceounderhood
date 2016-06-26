@@ -46,19 +46,29 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 360,
+  "statuses_count": 378,
   "lang": "en",
   "status": {
-    "created_at": "Fri Jun 24 08:50:20 +0000 2016",
-    "id": 746264180555194400,
-    "id_str": "746264180555194368",
-    "text": "Домашние лекции - простая и полезная вещь - прокачивает у людей навык презентаций, коммуникаций, а окружающие узнают что-то новое",
+    "created_at": "Sun Jun 26 16:18:24 +0000 2016",
+    "id": 747101715967647700,
+    "id_str": "747101715967647745",
+    "text": "Всем пока и успешных дел! Если что, я тут – https://t.co/NmfX0D5Obi",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/NmfX0D5Obi",
+          "expanded_url": "https://www.facebook.com/Andrey.Stepanchuk",
+          "display_url": "facebook.com/Andrey.Stepanc…",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -77,6 +87,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
