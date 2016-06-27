@@ -2066,7 +2066,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
@@ -2700,6 +2700,2654 @@
         "favorite_count": 0,
         "favorited": false,
         "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 12:32:37 +0000 2016",
+      "id": 747407283043217400,
+      "id_str": "747407283043217408",
+      "text": "Что-то идет не так, если один договаривается,а другой делает. Потому что лишнее звено в коммуникации – всегда потери https://t.co/6sfmZiZeBa",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6sfmZiZeBa",
+            "expanded_url": "https://twitter.com/Sigiller/status/747406178984955904",
+            "display_url": "twitter.com/Sigiller/statu…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747406178984955900,
+      "quoted_status_id_str": "747406178984955904",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 12:28:13 +0000 2016",
+        "id": 747406178984955900,
+        "id_str": "747406178984955904",
+        "text": "@ceounderhood даже в маленьких командах это может что-то пойти не так, так что так лучше вообще никогда не делать.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 747405650687230000,
+        "in_reply_to_status_id_str": "747405650687229953",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 74059237,
+          "id_str": "74059237"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 12:34:51 +0000 2016",
+      "id": 747407844866146300,
+      "id_str": "747407844866146304",
+      "text": "Я ни разу не сказал, что ТЗ не нужно. Но вот должен ли его делать один человек, а выполнять другой? https://t.co/DFc1pU4ZP5",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DFc1pU4ZP5",
+            "expanded_url": "https://twitter.com/Sigiller/status/747407575629467649",
+            "display_url": "twitter.com/Sigiller/statu…",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747407575629467600,
+      "quoted_status_id_str": "747407575629467649",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 12:33:46 +0000 2016",
+        "id": 747407575629467600,
+        "id_str": "747407575629467649",
+        "text": "@ceounderhood поэтому и нужно ТЗ, которое утверждает общее видение проекта между заказчиком, менеджером и исполнителем.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 747407283043217400,
+        "in_reply_to_status_id_str": "747407283043217408",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 74059237,
+          "id_str": "74059237"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 12:36:56 +0000 2016",
+      "id": 747408369682546700,
+      "id_str": "747408369682546688",
+      "text": "Это почему? От перестановки мест слагаемых сумма не меняется. Важно просто построить правильную коммуникацию https://t.co/6a1EVXfsyL",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6a1EVXfsyL",
+            "expanded_url": "https://twitter.com/Sigiller/status/747407982862839808",
+            "display_url": "twitter.com/Sigiller/statu…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747407982862839800,
+      "quoted_status_id_str": "747407982862839808",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 12:35:23 +0000 2016",
+        "id": 747407982862839800,
+        "id_str": "747407982862839808",
+        "text": "@ceounderhood но правда если исполнитель будет и общаться с заказчиками и писать ТЗ, то у него не останется времени на свою работу",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 747407827367387100,
+        "in_reply_to_status_id_str": "747407827367387138",
+        "in_reply_to_user_id": 74059237,
+        "in_reply_to_user_id_str": "74059237",
+        "in_reply_to_screen_name": "Sigiller",
+        "user": {
+          "id": 74059237,
+          "id_str": "74059237"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 12:38:20 +0000 2016",
+      "id": 747408722348040200,
+      "id_str": "747408722348040193",
+      "text": "Если есть строгая последовательность: сначала ТЗ, потом работа, то срок не меняется от того, кто пишет ТЗ. https://t.co/4yvBxtFfDO",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4yvBxtFfDO",
+            "expanded_url": "https://twitter.com/Sigiller/status/747408333062103040",
+            "display_url": "twitter.com/Sigiller/statu…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747408333062103000,
+      "quoted_status_id_str": "747408333062103040",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 12:36:47 +0000 2016",
+        "id": 747408333062103000,
+        "id_str": "747408333062103040",
+        "text": "@ceounderhood должен, потому что если писать и согласовывать ТЗ будет исполнитель, то это увеличит сроки исполнения заказа",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 747407844866146300,
+        "in_reply_to_status_id_str": "747407844866146304",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 74059237,
+          "id_str": "74059237"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 12:39:33 +0000 2016",
+      "id": 747409027571712000,
+      "id_str": "747409027571712000",
+      "text": "Лучший отдых – смена деятельности. К тому же позволяет всесторонне развиваться. https://t.co/pipJfjZJXQ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pipJfjZJXQ",
+            "expanded_url": "https://twitter.com/Sigiller/status/747408558858207234",
+            "display_url": "twitter.com/Sigiller/statu…",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747408558858207200,
+      "quoted_status_id_str": "747408558858207234",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 12:37:41 +0000 2016",
+        "id": 747408558858207200,
+        "id_str": "747408558858207234",
+        "text": "@ceounderhood плюс переключение между разными видами деятельности, тоже всегда тратит время. короче это плохой вариант",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 747408333062103000,
+        "in_reply_to_status_id_str": "747408333062103040",
+        "in_reply_to_user_id": 74059237,
+        "in_reply_to_user_id_str": "74059237",
+        "in_reply_to_screen_name": "Sigiller",
+        "user": {
+          "id": 74059237,
+          "id_str": "74059237"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 12:42:39 +0000 2016",
+      "id": 747409810816008200,
+      "id_str": "747409810816008192",
+      "text": "Каждому свое. Кому-то хочется сидеть и делать одну операцию. Кому-то хочется разнообразия. https://t.co/V2bTEpE2zw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/V2bTEpE2zw",
+            "expanded_url": "https://twitter.com/Sigiller/status/747409482745929728",
+            "display_url": "twitter.com/Sigiller/statu…",
+            "indices": [
+              91,
+              114
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747409482745929700,
+      "quoted_status_id_str": "747409482745929728",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 12:41:21 +0000 2016",
+        "id": 747409482745929700,
+        "id_str": "747409482745929728",
+        "text": "@ceounderhood просто я уже наработался в своё время в студиях, где руководство мыслило также и это были плохие студии вот по этим причинам",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 747409203984117800,
+        "in_reply_to_status_id_str": "747409203984117760",
+        "in_reply_to_user_id": 74059237,
+        "in_reply_to_user_id_str": "74059237",
+        "in_reply_to_screen_name": "Sigiller",
+        "user": {
+          "id": 74059237,
+          "id_str": "74059237"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 12:43:19 +0000 2016",
+      "id": 747409977300574200,
+      "id_str": "747409977300574208",
+      "text": "Что именно ведет к выгоранию? Смена ролей или монотонная одинаковая работа? https://t.co/lq0yNyW6N8",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lq0yNyW6N8",
+            "expanded_url": "https://twitter.com/toivonens/status/747409245927251972",
+            "display_url": "twitter.com/toivonens/stat…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747409245927252000,
+      "quoted_status_id_str": "747409245927251972",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 12:40:25 +0000 2016",
+        "id": 747409245927252000,
+        "id_str": "747409245927251972",
+        "text": "@ceounderhood Прямой путь к выгоранию. Отдыхать тоже надо уметь.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 747409027571712000,
+        "in_reply_to_status_id_str": "747409027571712000",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 215559242,
+          "id_str": "215559242"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 12:45:19 +0000 2016",
+      "id": 747410479945900000,
+      "id_str": "747410479945900032",
+      "text": "Не сталкивались с проблемами ни разу. Все все понимают: не справляешься – ищи другую работу и никаких обид. https://t.co/CHZ71YRtrT",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CHZ71YRtrT",
+            "expanded_url": "https://twitter.com/toivonens/status/747409392245538816",
+            "display_url": "twitter.com/toivonens/stat…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747409392245538800,
+      "quoted_status_id_str": "747409392245538816",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 12:40:59 +0000 2016",
+        "id": 747409392245538800,
+        "id_str": "747409392245538816",
+        "text": "@ceounderhood Ну вот я про увольнения и спрашиваю. Ведь в России сделать это не так просто. Или у вас были временные контракты?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 747406156188946400,
+        "in_reply_to_status_id_str": "747406156188946432",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 215559242,
+          "id_str": "215559242"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 12:46:00 +0000 2016",
+      "id": 747410653971767300,
+      "id_str": "747410653971767297",
+      "text": "У нас обычный трудовой договор. https://t.co/CHZ71YRtrT",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CHZ71YRtrT",
+            "expanded_url": "https://twitter.com/toivonens/status/747409392245538816",
+            "display_url": "twitter.com/toivonens/stat…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747409392245538800,
+      "quoted_status_id_str": "747409392245538816",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 12:40:59 +0000 2016",
+        "id": 747409392245538800,
+        "id_str": "747409392245538816",
+        "text": "@ceounderhood Ну вот я про увольнения и спрашиваю. Ведь в России сделать это не так просто. Или у вас были временные контракты?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 747406156188946400,
+        "in_reply_to_status_id_str": "747406156188946432",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 215559242,
+          "id_str": "215559242"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 12:50:38 +0000 2016",
+      "id": 747411818482532400,
+      "id_str": "747411818482532352",
+      "text": "Да, именно так. https://t.co/dSWMYH5R8B",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dSWMYH5R8B",
+            "expanded_url": "https://twitter.com/toivonens/status/747411298816761856",
+            "display_url": "twitter.com/toivonens/stat…",
+            "indices": [
+              16,
+              39
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747411298816761900,
+      "quoted_status_id_str": "747411298816761856",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 12:48:34 +0000 2016",
+        "id": 747411298816761900,
+        "id_str": "747411298816761856",
+        "text": "@ceounderhood Ну то есть люди писали заявление об уходе по собственному желанию?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 747410479945900000,
+        "in_reply_to_status_id_str": "747410479945900032",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 215559242,
+          "id_str": "215559242"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 12:52:29 +0000 2016",
+      "id": 747412283777683500,
+      "id_str": "747412283777683456",
+      "text": "Ну вот по-мне фигово, когда каждый ответственен только за свою часть. Мы командой делаем общее дело, продукт. https://t.co/dh0pz7fqEe",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dh0pz7fqEe",
+            "expanded_url": "https://twitter.com/Sigiller/status/747411486167826432",
+            "display_url": "twitter.com/Sigiller/statu…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747411486167826400,
+      "quoted_status_id_str": "747411486167826432",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 12:49:19 +0000 2016",
+        "id": 747411486167826400,
+        "id_str": "747411486167826432",
+        "text": "@ceounderhood вопрос не в разнообразии, а в чётком разделении ответственности.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 747409810816008200,
+        "in_reply_to_status_id_str": "747409810816008192",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 74059237,
+          "id_str": "74059237"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 12:53:53 +0000 2016",
+      "id": 747412635545542700,
+      "id_str": "747412635545542656",
+      "text": "Если дизайнер видит косяк в верстке он не должен думать \"это не моя отвественность\". Он должен помочь его исправить. https://t.co/dh0pz7fqEe",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dh0pz7fqEe",
+            "expanded_url": "https://twitter.com/Sigiller/status/747411486167826432",
+            "display_url": "twitter.com/Sigiller/statu…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747411486167826400,
+      "quoted_status_id_str": "747411486167826432",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 12:49:19 +0000 2016",
+        "id": 747411486167826400,
+        "id_str": "747411486167826432",
+        "text": "@ceounderhood вопрос не в разнообразии, а в чётком разделении ответственности.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 747409810816008200,
+        "in_reply_to_status_id_str": "747409810816008192",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 74059237,
+          "id_str": "74059237"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 12:54:46 +0000 2016",
+      "id": 747412859257118700,
+      "id_str": "747412859257118720",
+      "text": "Вы затронули очень важную тему, кстати. Сейчас уже без реплая напишу подробнее. https://t.co/dh0pz7fqEe",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dh0pz7fqEe",
+            "expanded_url": "https://twitter.com/Sigiller/status/747411486167826432",
+            "display_url": "twitter.com/Sigiller/statu…",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747411486167826400,
+      "quoted_status_id_str": "747411486167826432",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 12:49:19 +0000 2016",
+        "id": 747411486167826400,
+        "id_str": "747411486167826432",
+        "text": "@ceounderhood вопрос не в разнообразии, а в чётком разделении ответственности.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 747409810816008200,
+        "in_reply_to_status_id_str": "747409810816008192",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 74059237,
+          "id_str": "74059237"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 13:51:24 +0000 2016",
+      "id": 747427112324214800,
+      "id_str": "747427112324214784",
+      "text": "Спасибо @Sigiller за наброс. Формат твиттера не позволяет раскрыть тему полностью, поэтому так: https://t.co/jzNMFEt5S6",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Sigiller",
+            "name": "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler",
+            "id": 74059237,
+            "id_str": "74059237",
+            "indices": [
+              8,
+              17
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jzNMFEt5S6",
+            "expanded_url": "https://goo.gl/VKrKk5",
+            "display_url": "goo.gl/VKrKk5",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 13:52:40 +0000 2016",
+      "id": 747427430105653200,
+      "id_str": "747427430105653250",
+      "text": "Я не знаю, как сохранить гармонию при расширении. Поэтому мы решили оставаться маленькими, насколько это получится. https://t.co/E25AMJ4SsJ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/E25AMJ4SsJ",
+            "expanded_url": "https://twitter.com/yurafil/status/747414134535426048",
+            "display_url": "twitter.com/yurafil/status…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747414134535426000,
+      "quoted_status_id_str": "747414134535426048",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 12:59:50 +0000 2016",
+        "id": 747414134535426000,
+        "id_str": "747414134535426048",
+        "text": "@ceounderhood а как сохранить гармонию при расширении бизнеса? или принять решение не расширять компанию, как создатели Basecamp?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 747399218944311300,
+        "in_reply_to_status_id_str": "747399218944311297",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 94280436,
+          "id_str": "94280436"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 13:58:37 +0000 2016",
+      "id": 747428928575332400,
+      "id_str": "747428928575332352",
+      "text": "Критериев много: стоимость и масштаб проектов,лиды, ЗП, прибыль. Все это растет без увеличения числа сотрудников. https://t.co/z0Z5pdc12l",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/z0Z5pdc12l",
+            "expanded_url": "https://twitter.com/5an/status/747415984701583360",
+            "display_url": "twitter.com/5an/status/747…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747415984701583400,
+      "quoted_status_id_str": "747415984701583360",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 13:07:11 +0000 2016",
+        "id": 747415984701583400,
+        "id_str": "747415984701583360",
+        "text": "@ceounderhood в чем вы измеряете рост компании ? Насколько выросли год к году?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 747388579374989300,
+        "in_reply_to_status_id_str": "747388579374989312",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 9398162,
+          "id_str": "9398162"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 13:59:37 +0000 2016",
+      "id": 747429178811682800,
+      "id_str": "747429178811682816",
+      "text": "За пару лет выросли в 2-3 раза по стоимости проекта. Это классно, потому что позволяет делать более крутые вещи. https://t.co/z0Z5pdc12l",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/z0Z5pdc12l",
+            "expanded_url": "https://twitter.com/5an/status/747415984701583360",
+            "display_url": "twitter.com/5an/status/747…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747415984701583400,
+      "quoted_status_id_str": "747415984701583360",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 13:07:11 +0000 2016",
+        "id": 747415984701583400,
+        "id_str": "747415984701583360",
+        "text": "@ceounderhood в чем вы измеряете рост компании ? Насколько выросли год к году?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 747388579374989300,
+        "in_reply_to_status_id_str": "747388579374989312",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 9398162,
+          "id_str": "9398162"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 14:00:44 +0000 2016",
+      "id": 747429460824100900,
+      "id_str": "747429460824100867",
+      "text": "Но главное: раньше мы не были уверены, что найдем деньги на следующую ЗП. Теперь все ок: 6ти-значная дебиторка ;) https://t.co/z0Z5pdc12l",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/z0Z5pdc12l",
+            "expanded_url": "https://twitter.com/5an/status/747415984701583360",
+            "display_url": "twitter.com/5an/status/747…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747415984701583400,
+      "quoted_status_id_str": "747415984701583360",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 13:07:11 +0000 2016",
+        "id": 747415984701583400,
+        "id_str": "747415984701583360",
+        "text": "@ceounderhood в чем вы измеряете рост компании ? Насколько выросли год к году?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 747388579374989300,
+        "in_reply_to_status_id_str": "747388579374989312",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 9398162,
+          "id_str": "9398162"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 14:02:35 +0000 2016",
+      "id": 747429925611671600,
+      "id_str": "747429925611671553",
+      "text": "Глобальная стратегия студии –стать бейскампом.Для начала нужен стабильный положительный финансовый поток-это реально https://t.co/z3XU8zHWK5",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/z3XU8zHWK5",
+            "expanded_url": "https://twitter.com/5an/status/747429085031305216",
+            "display_url": "twitter.com/5an/status/747…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747429085031305200,
+      "quoted_status_id_str": "747429085031305216",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 13:59:15 +0000 2016",
+        "id": 747429085031305200,
+        "id_str": "747429085031305216",
+        "text": "@ceounderhood @yurafil бейскамп — хорошо масштабируется без увеличения команды. Студия — нет",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "yurafil",
+              "name": "Юра Филимонов",
+              "id": 94280436,
+              "id_str": "94280436",
+              "indices": [
+                14,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 747427430105653200,
+        "in_reply_to_status_id_str": "747427430105653250",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 9398162,
+          "id_str": "9398162"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 14:06:23 +0000 2016",
+      "id": 747430882554712000,
+      "id_str": "747430882554712065",
+      "text": "Чтобы дружить с дедлайнами, мы стараемся иметь запасной вариант: урезанную версию проекта, которую запускаем в срок. https://t.co/ntnn02dHeu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ntnn02dHeu",
+            "expanded_url": "https://twitter.com/dcromster/status/747415206393843712",
+            "display_url": "twitter.com/dcromster/stat…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747415206393843700,
+      "quoted_status_id_str": "747415206393843712",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 13:04:06 +0000 2016",
+        "id": 747415206393843700,
+        "id_str": "747415206393843712",
+        "text": ".@ceounderhood как относитесь к дедлайнам? Особенно к прошедшим. https://t.co/revfSUNqaC",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                1,
+                14
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 747415119790018600,
+              "id_str": "747415119790018560",
+              "indices": [
+                65,
+                88
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cl9aF2rXEAAb_Fm.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cl9aF2rXEAAb_Fm.jpg",
+              "url": "https://t.co/revfSUNqaC",
+              "display_url": "pic.twitter.com/revfSUNqaC",
+              "expanded_url": "http://twitter.com/dcromster/status/747415206393843712/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 480,
+                  "h": 162,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 480,
+                  "h": 162,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 480,
+                  "h": 162,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 747415119790018600,
+              "id_str": "747415119790018560",
+              "indices": [
+                65,
+                88
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cl9aF2rXEAAb_Fm.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cl9aF2rXEAAb_Fm.jpg",
+              "url": "https://t.co/revfSUNqaC",
+              "display_url": "pic.twitter.com/revfSUNqaC",
+              "expanded_url": "http://twitter.com/dcromster/status/747415206393843712/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 480,
+                  "h": 162,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 480,
+                  "h": 162,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 480,
+                  "h": 162,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 81103006,
+          "id_str": "81103006"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 14:09:25 +0000 2016",
+      "id": 747431645410558000,
+      "id_str": "747431645410557952",
+      "text": "Только ЗП. Экспериментировали с разными KPI - не вышло (видимо поэтому: https://t.co/jzNMFEt5S6) https://t.co/z2stYpEXOE",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jzNMFEt5S6",
+            "expanded_url": "https://goo.gl/VKrKk5",
+            "display_url": "goo.gl/VKrKk5",
+            "indices": [
+              72,
+              95
+            ]
+          },
+          {
+            "url": "https://t.co/z2stYpEXOE",
+            "expanded_url": "https://twitter.com/dcromster/status/747430607068631040",
+            "display_url": "twitter.com/dcromster/stat…",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747430607068631000,
+      "quoted_status_id_str": "747430607068631040",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 14:05:17 +0000 2016",
+        "id": 747430607068631000,
+        "id_str": "747430607068631040",
+        "text": "@ceounderhood у Вас работники только на ЗП или заинтересованы чем-то другим?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 81103006,
+          "id_str": "81103006"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 14:17:18 +0000 2016",
+      "id": 747433628779454500,
+      "id_str": "747433628779454465",
+      "text": "Опцион в сервисной компании? :)  Прибыль чаще не подконтрольна работнику (простои, например). У нас только зарплата. https://t.co/7K9jc3ANqB",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7K9jc3ANqB",
+            "expanded_url": "https://twitter.com/dcromster/status/747432083669164034",
+            "display_url": "twitter.com/dcromster/stat…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747432083669164000,
+      "quoted_status_id_str": "747432083669164034",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 14:11:10 +0000 2016",
+        "id": 747432083669164000,
+        "id_str": "747432083669164034",
+        "text": "@ceounderhood я имею ввиду % с прибыли или там опциончик какой-нибудь.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 747431645410558000,
+        "in_reply_to_status_id_str": "747431645410557952",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 81103006,
+          "id_str": "81103006"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 14:40:17 +0000 2016",
+      "id": 747439412087185400,
+      "id_str": "747439412087185408",
+      "text": "Звучит очень классно, но как на деле объективно оценить усердность, если проекты не типовые? https://t.co/3wBsRU0NHU",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3wBsRU0NHU",
+            "expanded_url": "https://twitter.com/dcromster/status/747434064076902402",
+            "display_url": "twitter.com/dcromster/stat…",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747434064076902400,
+      "quoted_status_id_str": "747434064076902402",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 14:19:02 +0000 2016",
+        "id": 747434064076902400,
+        "id_str": "747434064076902402",
+        "text": "@ceounderhood чем усердней будет работать работник тем больше прибыль (ну не прямая зависимость конечно).",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 747433628779454500,
+        "in_reply_to_status_id_str": "747433628779454465",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 81103006,
+          "id_str": "81103006"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 14:42:41 +0000 2016",
+      "id": 747440016373092400,
+      "id_str": "747440016373092352",
+      "text": "Вот есть дедлайн и человек не успел. Как понять, был бы срок занижен или человек затупил? https://t.co/PXtGZABmaq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PXtGZABmaq",
+            "expanded_url": "https://twitter.com/dcromster/status/747439763288797184",
+            "display_url": "twitter.com/dcromster/stat…",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747439763288797200,
+      "quoted_status_id_str": "747439763288797184",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 14:41:40 +0000 2016",
+        "id": 747439763288797200,
+        "id_str": "747439763288797184",
+        "text": "@ceounderhood дедлайны и прочие метрики.Например Ч предложил что-то, что улучшило проект - ему бонус.Другой не смог - нет бонуса.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 747439412087185400,
+        "in_reply_to_status_id_str": "747439412087185408",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 81103006,
+          "id_str": "81103006"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 14:55:03 +0000 2016",
+      "id": 747443129117085700,
+      "id_str": "747443129117085696",
+      "text": "Мы верим. Но завязывать премирования можно только на прозрачные KPI. Иначе всегда будут обиды и демотивация. https://t.co/9FIPirBnm4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9FIPirBnm4",
+            "expanded_url": "https://twitter.com/Sigiller/status/747440499884068867",
+            "display_url": "twitter.com/Sigiller/statu…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747440499884068900,
+      "quoted_status_id_str": "747440499884068867",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 14:44:36 +0000 2016",
+        "id": 747440499884068900,
+        "id_str": "747440499884068867",
+        "text": "@ceounderhood в целом, если человек может внятно объяснить, почему так произошло, то скорее всего стоит ему поверить",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 747440016373092400,
+        "in_reply_to_status_id_str": "747440016373092352",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 74059237,
+          "id_str": "74059237"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 14:59:27 +0000 2016",
+      "id": 747444236014878700,
+      "id_str": "747444236014878720",
+      "text": "Продолжая про ответственность.Есть люди, которым все мешает: малый бизнес не поддерживают,кредиты не дают.Это тоже форма безответственности.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 14:59:44 +0000 2016",
+      "id": 747444308148518900,
+      "id_str": "747444308148518912",
+      "text": "Ответственность, это когда ты понимаешь, что все в твоих руках. Есть правила игры, задача разобраться в них и играть, а не ныть.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 15:01:52 +0000 2016",
+      "id": 747444845258518500,
+      "id_str": "747444845258518532",
+      "text": "Не нравится текущая работа?Возьми ответственность в свои руки: поговори с руководителем,попробуй что-то изменить,в конце концов смени работу",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 15:21:39 +0000 2016",
+      "id": 747449822240636900,
+      "id_str": "747449822240636928",
+      "text": "Согласен. Вообще рядового сотрудника такая схема отвлекает. Он хочет постоянства с ЗП иначе был бы предпринимателем. https://t.co/hM2sDvv5rW",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hM2sDvv5rW",
+            "expanded_url": "https://twitter.com/stepansvolkov/status/747443490775310336",
+            "display_url": "twitter.com/stepansvolkov/…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747443490775310300,
+      "quoted_status_id_str": "747443490775310336",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 14:56:29 +0000 2016",
+        "id": 747443490775310300,
+        "id_str": "747443490775310336",
+        "text": "@ceounderhood @dcromster и тут начнётся: у Ч была дырка в загрузке, и он что-то придумал. А у другого не было, не было времени рфлексировать",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "dcromster",
+              "name": "Roman Milovskiy",
+              "id": 81103006,
+              "id_str": "81103006",
+              "indices": [
+                14,
+                24
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 747440016373092400,
+        "in_reply_to_status_id_str": "747440016373092352",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 166634539,
+          "id_str": "166634539"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 15:24:35 +0000 2016",
+      "id": 747450559930630100,
+      "id_str": "747450559930630145",
+      "text": "Мы тоже стремимся расширять зону ответственности. Отказавшись от прибыли за работу и перенеся ее на результат: https://t.co/okG3ltJhHZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/okG3ltJhHZ",
+            "expanded_url": "http://goo.gl/w7FjJT",
+            "display_url": "goo.gl/w7FjJT",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 27 15:36:37 +0000 2016",
+      "id": 747453587911913500,
+      "id_str": "747453587911913473",
+      "text": "Один уже запилили, но его у нас благополучно отжали (с пистолетом;) Проект вышел на выручку в 5М/мес через 3 месяца. https://t.co/4Ess4HSc1u",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4Ess4HSc1u",
+            "expanded_url": "https://twitter.com/ceounderhood/status/747429925611671553",
+            "display_url": "twitter.com/ceounderhood/s…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747429925611671600,
+      "quoted_status_id_str": "747429925611671553",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 14:02:35 +0000 2016",
+        "id": 747429925611671600,
+        "id_str": "747429925611671553",
+        "text": "Глобальная стратегия студии –стать бейскампом.Для начала нужен стабильный положительный финансовый поток-это реально https://t.co/z3XU8zHWK5",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/z3XU8zHWK5",
+              "expanded_url": "https://twitter.com/5an/status/747429085031305216",
+              "display_url": "twitter.com/5an/status/747…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 718365702420328400,
+          "id_str": "718365702420328450"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 747429085031305200,
+        "quoted_status_id_str": "747429085031305216",
+        "is_quote_status": true,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
         "lang": "ru"
       },
       "is_quote_status": true,

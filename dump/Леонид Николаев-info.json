@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 157,
+  "followers_count": 168,
   "friends_count": 0,
-  "listed_count": 5,
+  "listed_count": 4,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
   "favourites_count": 13,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 416,
+  "statuses_count": 447,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jun 27 12:28:08 +0000 2016",
-    "id": 747406156188946400,
-    "id_str": "747406156188946432",
-    "text": "Да не было какой-то особенной процедуры. Брали чуть меньше проектов, самых слабых людей увольняли. https://t.co/2asLEAypYc",
+    "created_at": "Mon Jun 27 15:36:37 +0000 2016",
+    "id": 747453587911913500,
+    "id_str": "747453587911913473",
+    "text": "Один уже запилили, но его у нас благополучно отжали (с пистолетом;) Проект вышел на выручку в 5М/мес через 3 месяца. https://t.co/4Ess4HSc1u",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -60,12 +60,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/2asLEAypYc",
-          "expanded_url": "https://twitter.com/toivonens/status/747400574249869312",
-          "display_url": "twitter.com/toivonens/stat…",
+          "url": "https://t.co/4Ess4HSc1u",
+          "expanded_url": "https://twitter.com/ceounderhood/status/747429925611671553",
+          "display_url": "twitter.com/ceounderhood/s…",
           "indices": [
-            99,
-            122
+            117,
+            140
           ]
         }
       ]
@@ -80,8 +80,8 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "quoted_status_id": 747400574249869300,
-    "quoted_status_id_str": "747400574249869312",
+    "quoted_status_id": 747429925611671600,
+    "quoted_status_id_str": "747429925611671553",
     "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
