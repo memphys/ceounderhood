@@ -5357,6 +5357,1205 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 11:43:38 +0000 2016",
+      "id": 747757344302448600,
+      "id_str": "747757344302448640",
+      "text": "Всем привет. Кто вчера смотрел Исландию? Ребята поборолись, выглядели очень цельно! А сегодня, предлагаю поговорить о бизнес-моделях.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 11:44:03 +0000 2016",
+      "id": 747757448895815700,
+      "id_str": "747757448895815680",
+      "text": "Первое: самая хреновая бизнес-модель у студии, типа нашей ;) Сложный продукт, проблемы с масштабированием, все завязано на конкретных людях.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 11:44:42 +0000 2016",
+      "id": 747757613799084000,
+      "id_str": "747757613799084032",
+      "text": "Если цель – построить серьезный бизнес, то нужно выбирать сферы где зависимость от кадров минимальна. Или их легко готовить(пример: фастфуд)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 11:45:34 +0000 2016",
+      "id": 747757830405513200,
+      "id_str": "747757830405513221",
+      "text": "Говоря о зависимости от кадров я имею в виду, что нужно зарабатывать не напрямую на рабочем времени людей (как сервисные компании, типа нас)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 11:46:52 +0000 2016",
+      "id": 747758158941200400,
+      "id_str": "747758158941200384",
+      "text": "Доход от рабочего времени сотрудников должен многократно превышать затраты на ЗП. Тогда можно масштабировать. Пример: образовательные курсы",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 11:49:52 +0000 2016",
+      "id": 747758912850563100,
+      "id_str": "747758912850563072",
+      "text": "Интересная модель: https://t.co/cnp4CrOBYg. Минимальные затраты (материалы + оплата ведущего) дают около 20т.р. чистыми за мероприятие",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cnp4CrOBYg",
+            "expanded_url": "http://goo.gl/QqrTTZ",
+            "display_url": "goo.gl/QqrTTZ",
+            "indices": [
+              19,
+              42
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 11:51:44 +0000 2016",
+      "id": 747759382256029700,
+      "id_str": "747759382256029696",
+      "text": "Wow-формат, аренда бесплатно, контент для соцсетей генерится автоматически. Ребята проводят 20 мероприятий в неделю. https://t.co/84L9tBOhIu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/84L9tBOhIu",
+            "expanded_url": "https://twitter.com/ceounderhood/status/747758912850563072",
+            "display_url": "twitter.com/ceounderhood/s…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747758912850563100,
+      "quoted_status_id_str": "747758912850563072",
+      "quoted_status": {
+        "created_at": "Tue Jun 28 11:49:52 +0000 2016",
+        "id": 747758912850563100,
+        "id_str": "747758912850563072",
+        "text": "Интересная модель: https://t.co/cnp4CrOBYg. Минимальные затраты (материалы + оплата ведущего) дают около 20т.р. чистыми за мероприятие",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/cnp4CrOBYg",
+              "expanded_url": "http://goo.gl/QqrTTZ",
+              "display_url": "goo.gl/QqrTTZ",
+              "indices": [
+                19,
+                42
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 718365702420328400,
+          "id_str": "718365702420328450"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 11:53:40 +0000 2016",
+      "id": 747759868640104400,
+      "id_str": "747759868640104448",
+      "text": "Нет, не любой. Но если у тебя там не основная роль, то тебя можно выдавить (и без устрашения).У нас была не основная https://t.co/KCGzx0MKXh",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KCGzx0MKXh",
+            "expanded_url": "https://twitter.com/yurafil/status/747525366227546112",
+            "display_url": "twitter.com/yurafil/status…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747525366227546100,
+      "quoted_status_id_str": "747525366227546112",
+      "quoted_status": {
+        "created_at": "Mon Jun 27 20:21:50 +0000 2016",
+        "id": 747525366227546100,
+        "id_str": "747525366227546112",
+        "text": "@ceounderhood так получается любой бизнес можно отжать с пистолетом. Хотя клиентскую/партнерскую базу же не уведут?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 747453587911913500,
+        "in_reply_to_status_id_str": "747453587911913473",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 94280436,
+          "id_str": "94280436"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 11:59:32 +0000 2016",
+      "id": 747761345093840900,
+      "id_str": "747761345093840896",
+      "text": "Кстати, из русский препренимателей еще крутан @kotyrev.Человек с удивительной харизмой.Рассказывает про свои ошибки: https://t.co/OMem2xKDsi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kotyrev",
+            "name": "Sergey Kotyrev",
+            "id": 25048369,
+            "id_str": "25048369",
+            "indices": [
+              46,
+              54
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OMem2xKDsi",
+            "expanded_url": "https://goo.gl/6VzK6x",
+            "display_url": "goo.gl/6VzK6x",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 12:03:52 +0000 2016",
+      "id": 747762438859264000,
+      "id_str": "747762438859264000",
+      "text": "Подробнее в статье на ведомостях: https://t.co/QEOn9zkw6P\nКстати, мы сначала не поверили в идею :( Думали, что бред. https://t.co/84L9tBOhIu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QEOn9zkw6P",
+            "expanded_url": "https://goo.gl/qbe1K6",
+            "display_url": "goo.gl/qbe1K6",
+            "indices": [
+              34,
+              57
+            ]
+          },
+          {
+            "url": "https://t.co/84L9tBOhIu",
+            "expanded_url": "https://twitter.com/ceounderhood/status/747758912850563072",
+            "display_url": "twitter.com/ceounderhood/s…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747758912850563100,
+      "quoted_status_id_str": "747758912850563072",
+      "quoted_status": {
+        "created_at": "Tue Jun 28 11:49:52 +0000 2016",
+        "id": 747758912850563100,
+        "id_str": "747758912850563072",
+        "text": "Интересная модель: https://t.co/cnp4CrOBYg. Минимальные затраты (материалы + оплата ведущего) дают около 20т.р. чистыми за мероприятие",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/cnp4CrOBYg",
+              "expanded_url": "http://goo.gl/QqrTTZ",
+              "display_url": "goo.gl/QqrTTZ",
+              "indices": [
+                19,
+                42
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 718365702420328400,
+          "id_str": "718365702420328450"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 12:22:20 +0000 2016",
+      "id": 747767084432625700,
+      "id_str": "747767084432625664",
+      "text": "В аутсорсинге, да, нереально. Но если делаешь продукт, то более чем реально. В Google выручка $1M/чел (ЗПх10). https://t.co/o9wqVzpPt9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/o9wqVzpPt9",
+            "expanded_url": "https://twitter.com/dcromster/status/747762797514219520",
+            "display_url": "twitter.com/dcromster/stat…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747762797514219500,
+      "quoted_status_id_str": "747762797514219520",
+      "quoted_status": {
+        "created_at": "Tue Jun 28 12:05:18 +0000 2016",
+        "id": 747762797514219500,
+        "id_str": "747762797514219520",
+        "text": "@ceounderhood в IT это нереально",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 747758158941200400,
+        "in_reply_to_status_id_str": "747758158941200384",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 81103006,
+          "id_str": "81103006"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 12:23:42 +0000 2016",
+      "id": 747767427790929900,
+      "id_str": "747767427790929921",
+      "text": "А у кого из аутсорсеров доход на сотрудника больше затрат на ЗП на порядок? https://t.co/CWY9hZsBtm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CWY9hZsBtm",
+            "expanded_url": "https://twitter.com/memphys/status/747763716763062272",
+            "display_url": "twitter.com/memphys/status…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747763716763062300,
+      "quoted_status_id_str": "747763716763062272",
+      "quoted_status": {
+        "created_at": "Tue Jun 28 12:08:57 +0000 2016",
+        "id": 747763716763062300,
+        "id_str": "747763716763062272",
+        "text": "@dcromster @ceounderhood реально, но действительно сложно) Было бы нереально, не было бы столько крупных аутсорсеров и консалтингов.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "dcromster",
+              "name": "Roman Milovskiy",
+              "id": 81103006,
+              "id_str": "81103006",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                11,
+                24
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 747762797514219500,
+        "in_reply_to_status_id_str": "747762797514219520",
+        "in_reply_to_user_id": 81103006,
+        "in_reply_to_user_id_str": "81103006",
+        "in_reply_to_screen_name": "dcromster",
+        "user": {
+          "id": 17266543,
+          "id_str": "17266543"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 12:37:20 +0000 2016",
+      "id": 747770858891001900,
+      "id_str": "747770858891001856",
+      "text": "Как раз пишут про аутсорсеров: https://t.co/RFuCN6X1XF. Компания из 2000 сотрудников сделала 3,77 млрд. Это 1,8М/сотрудника, меньше х2 на ЗП",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RFuCN6X1XF",
+            "expanded_url": "https://vc.ru/p/russian-companies-2",
+            "display_url": "vc.ru/p/russian-comp…",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 13:36:35 +0000 2016",
+      "id": 747785770744844300,
+      "id_str": "747785770744844288",
+      "text": "Ниже ссылка на Painty - там рентабельность еще выше. https://t.co/GfAKM1Y7ke",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GfAKM1Y7ke",
+            "expanded_url": "https://twitter.com/PMarinchenko/status/747775564992356352",
+            "display_url": "twitter.com/PMarinchenko/s…",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747775564992356400,
+      "quoted_status_id_str": "747775564992356352",
+      "quoted_status": {
+        "created_at": "Tue Jun 28 12:56:02 +0000 2016",
+        "id": 747775564992356400,
+        "id_str": "747775564992356352",
+        "text": "@ceounderhood причем только продуктовый бизнес. Не видел, где услуги показывают такое. В IT рентабельность всегда выше, продукты - тем более",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 747767084432625700,
+        "in_reply_to_status_id_str": "747767084432625664",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 416591693,
+          "id_str": "416591693"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 18:59:19 +0000 2016",
+      "id": 747866990434459600,
+      "id_str": "747866990434459648",
+      "text": "Может и скучно, но в США аналогичный проект проводит 500 вечеринок в день. Если посчитать по текущей б-м это 10млн профита/день. @5an",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "5an",
+            "name": "Alexandr Kim",
+            "id": 9398162,
+            "id_str": "9398162",
+            "indices": [
+              129,
+              133
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 747806387196018700,
+      "in_reply_to_status_id_str": "747806387196018689",
+      "in_reply_to_user_id": 9398162,
+      "in_reply_to_user_id_str": "9398162",
+      "in_reply_to_screen_name": "5an",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 19:02:53 +0000 2016",
+      "id": 747867886966939600,
+      "id_str": "747867886966939648",
+      "text": "Кстати, а кто изначально верил в успех @qleanlife? Между прочим ребята планируют выручку 1млрд в 2016 году.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "qleanlife",
+            "name": "Qlean",
+            "id": 2782930069,
+            "id_str": "2782930069",
+            "indices": [
+              39,
+              49
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 19:05:15 +0000 2016",
+      "id": 747868480880382000,
+      "id_str": "747868480880381956",
+      "text": "Хотя если посмотреть, модель Qlean ущербна: заработок на маленькой комиссии, супер-узкая аудитория, люди не привыкли платить за уборку дома.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 19:06:13 +0000 2016",
+      "id": 747868725450317800,
+      "id_str": "747868725450317824",
+      "text": "Про аудиторию: люди с ЗП 100-250т.р. Если меньше, то 5-10т.р./мес жалко, если больше уже есть домработница. https://t.co/uMr7Bd7nt2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uMr7Bd7nt2",
+            "expanded_url": "https://twitter.com/ceounderhood/status/747868480880381956",
+            "display_url": "twitter.com/ceounderhood/s…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747868480880382000,
+      "quoted_status_id_str": "747868480880381956",
+      "quoted_status": {
+        "created_at": "Tue Jun 28 19:05:15 +0000 2016",
+        "id": 747868480880382000,
+        "id_str": "747868480880381956",
+        "text": "Хотя если посмотреть, модель Qlean ущербна: заработок на маленькой комиссии, супер-узкая аудитория, люди не привыкли платить за уборку дома.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 718365702420328400,
+          "id_str": "718365702420328450"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 19:08:56 +0000 2016",
+      "id": 747869410552057900,
+      "id_str": "747869410552057857",
+      "text": "Согласен отчасти. Но Painty дарит радость людям, разве это не может мотивировать? @5an",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "5an",
+            "name": "Alexandr Kim",
+            "id": 9398162,
+            "id_str": "9398162",
+            "indices": [
+              82,
+              86
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 747867737104523300,
+      "in_reply_to_status_id_str": "747867737104523264",
+      "in_reply_to_user_id": 9398162,
+      "in_reply_to_user_id_str": "9398162",
+      "in_reply_to_screen_name": "5an",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 19:11:55 +0000 2016",
+      "id": 747870160879489000,
+      "id_str": "747870160879489024",
+      "text": "Но вообще, такие деньги помогут реализовать любые другие идеи. Можно даже как Брэндсон, заняться развитием космического туризма @5an",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "5an",
+            "name": "Alexandr Kim",
+            "id": 9398162,
+            "id_str": "9398162",
+            "indices": [
+              128,
+              132
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 747867737104523300,
+      "in_reply_to_status_id_str": "747867737104523264",
+      "in_reply_to_user_id": 9398162,
+      "in_reply_to_user_id_str": "9398162",
+      "in_reply_to_screen_name": "5an",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 28 19:13:52 +0000 2016",
+      "id": 747870649830506500,
+      "id_str": "747870649830506496",
+      "text": "Да, и еще виральность: позовет друзей потусить. @5an",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "5an",
+            "name": "Alexandr Kim",
+            "id": 9398162,
+            "id_str": "9398162",
+            "indices": [
+              48,
+              52
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 747870469739716600,
+      "in_reply_to_status_id_str": "747870469739716609",
+      "in_reply_to_user_id": 9398162,
+      "in_reply_to_user_id_str": "9398162",
+      "in_reply_to_screen_name": "5an",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
