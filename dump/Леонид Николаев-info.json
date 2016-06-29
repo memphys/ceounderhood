@@ -37,55 +37,66 @@
     }
   },
   "protected": false,
-  "followers_count": 183,
+  "followers_count": 185,
   "friends_count": 0,
   "listed_count": 6,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
-  "favourites_count": 15,
+  "favourites_count": 21,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 468,
+  "statuses_count": 483,
   "lang": "en",
   "status": {
-    "created_at": "Tue Jun 28 19:13:52 +0000 2016",
-    "id": 747870649830506500,
-    "id_str": "747870649830506496",
-    "text": "Да, и еще виральность: позовет друзей потусить. @5an",
+    "created_at": "Wed Jun 29 16:03:45 +0000 2016",
+    "id": 748185193354256400,
+    "id_str": "748185193354256384",
+    "text": "Или, например, так: https://t.co/jFh4qNzHWF https://t.co/ly979N2NTK",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "5an",
-          "name": "Alexandr Kim",
-          "id": 9398162,
-          "id_str": "9398162",
+          "url": "https://t.co/jFh4qNzHWF",
+          "expanded_url": "http://goo.gl/lvPqxt",
+          "display_url": "goo.gl/lvPqxt",
           "indices": [
-            48,
-            52
+            20,
+            43
+          ]
+        },
+        {
+          "url": "https://t.co/ly979N2NTK",
+          "expanded_url": "https://twitter.com/dcromster/status/748159304709070848",
+          "display_url": "twitter.com/dcromster/stat…",
+          "indices": [
+            44,
+            67
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 747870469739716600,
-    "in_reply_to_status_id_str": "747870469739716609",
-    "in_reply_to_user_id": 9398162,
-    "in_reply_to_user_id_str": "9398162",
-    "in_reply_to_screen_name": "5an",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "quoted_status_id": 748159304709070800,
+    "quoted_status_id_str": "748159304709070848",
+    "is_quote_status": true,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,

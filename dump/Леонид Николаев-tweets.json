@@ -5895,7 +5895,7 @@
       },
       "is_quote_status": true,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
@@ -6555,6 +6555,828 @@
       "favorite_count": 0,
       "favorited": false,
       "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 29 09:11:39 +0000 2016",
+      "id": 748081486633513000,
+      "id_str": "748081486633512960",
+      "text": "Я ошибся, имел в виду 6 нулей или 7 знаков) https://t.co/OdsY7n4LxG",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OdsY7n4LxG",
+            "expanded_url": "https://twitter.com/SobolevSergej/status/747927450261274625",
+            "display_url": "twitter.com/SobolevSergej/…",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 747927450261274600,
+      "quoted_status_id_str": "747927450261274625",
+      "quoted_status": {
+        "created_at": "Tue Jun 28 22:59:34 +0000 2016",
+        "id": 747927450261274600,
+        "id_str": "747927450261274625",
+        "text": "@ceounderhood 100 тысяч - тоже шестизнак)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 747429460824100900,
+        "in_reply_to_status_id_str": "747429460824100867",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 113582769,
+          "id_str": "113582769"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 29 09:13:46 +0000 2016",
+      "id": 748082018773262300,
+      "id_str": "748082018773262336",
+      "text": "Ну так в 30% входит и маркетинг и материалы и расходы на офис. Скажем в торговле одеждой наценка начинается от 100%. @novativ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "novativ",
+            "name": "Dmitry Anisimov",
+            "id": 2428596112,
+            "id_str": "2428596112",
+            "indices": [
+              117,
+              125
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 747918867209527300,
+      "in_reply_to_status_id_str": "747918867209527297",
+      "in_reply_to_user_id": 2428596112,
+      "in_reply_to_user_id_str": "2428596112",
+      "in_reply_to_screen_name": "novativ",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 29 12:40:51 +0000 2016",
+      "id": 748134131960324100,
+      "id_str": "748134131960324096",
+      "text": "Дима, да, я ж на пальцах прикинул. Но вы молодцы, очень рад что все получается! @novativ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "novativ",
+            "name": "Dmitry Anisimov",
+            "id": 2428596112,
+            "id_str": "2428596112",
+            "indices": [
+              80,
+              88
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 748083286203850800,
+      "in_reply_to_status_id_str": "748083286203850752",
+      "in_reply_to_user_id": 2428596112,
+      "in_reply_to_user_id_str": "2428596112",
+      "in_reply_to_screen_name": "novativ",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 29 12:42:51 +0000 2016",
+      "id": 748134637399048200,
+      "id_str": "748134637399048192",
+      "text": "Выбирая идею для бизнеса сейчас я бы в первую очередь смотрел на виральность и контентность: чтобы бизнес сам генерил интересный ЦА контент",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 29 12:44:03 +0000 2016",
+      "id": 748134936188694500,
+      "id_str": "748134936188694528",
+      "text": "С точки зрения контента и виральности (и легкой модели) очень интересен https://t.co/s4OvzFUmDr. Вот где реально деньги из воздуха.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/s4OvzFUmDr",
+            "expanded_url": "http://vk.com/godnoten",
+            "display_url": "vk.com/godnoten",
+            "indices": [
+              72,
+              95
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 29 12:44:40 +0000 2016",
+      "id": 748135094645309400,
+      "id_str": "748135094645309440",
+      "text": "Ребята просто находят на AliExpress интересные вещи и постят их с партнерской ссылкой. https://t.co/OEegtcqZJZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OEegtcqZJZ",
+            "expanded_url": "https://twitter.com/ceounderhood/status/748134936188694528",
+            "display_url": "twitter.com/ceounderhood/s…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 748134936188694500,
+      "quoted_status_id_str": "748134936188694528",
+      "quoted_status": {
+        "created_at": "Wed Jun 29 12:44:03 +0000 2016",
+        "id": 748134936188694500,
+        "id_str": "748134936188694528",
+        "text": "С точки зрения контента и виральности (и легкой модели) очень интересен https://t.co/s4OvzFUmDr. Вот где реально деньги из воздуха.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/s4OvzFUmDr",
+              "expanded_url": "http://vk.com/godnoten",
+              "display_url": "vk.com/godnoten",
+              "indices": [
+                72,
+                95
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 718365702420328400,
+          "id_str": "718365702420328450"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 29 12:45:12 +0000 2016",
+      "id": 748135228951109600,
+      "id_str": "748135228951109632",
+      "text": "Кстати, модель можно масштабировать. Например, на дешевые авиабилеты. Но их сложнее искать. https://t.co/bUdBUkHqAy",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bUdBUkHqAy",
+            "expanded_url": "https://twitter.com/ceounderhood/status/748135094645309440",
+            "display_url": "twitter.com/ceounderhood/s…",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 748135094645309400,
+      "quoted_status_id_str": "748135094645309440",
+      "quoted_status": {
+        "created_at": "Wed Jun 29 12:44:40 +0000 2016",
+        "id": 748135094645309400,
+        "id_str": "748135094645309440",
+        "text": "Ребята просто находят на AliExpress интересные вещи и постят их с партнерской ссылкой. https://t.co/OEegtcqZJZ",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/OEegtcqZJZ",
+              "expanded_url": "https://twitter.com/ceounderhood/status/748134936188694528",
+              "display_url": "twitter.com/ceounderhood/s…",
+              "indices": [
+                87,
+                110
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 718365702420328400,
+          "id_str": "718365702420328450"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 748134936188694500,
+        "quoted_status_id_str": "748134936188694528",
+        "is_quote_status": true,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 29 13:47:09 +0000 2016",
+      "id": 748150817572667400,
+      "id_str": "748150817572667392",
+      "text": "Среди наших клиентов успешны: либо старики с большими ресурсами, либо новички с визуально-вкусным продуктом. Пример: https://t.co/TeegETS0gy",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TeegETS0gy",
+            "expanded_url": "http://goo.gl/JPYQKS",
+            "display_url": "goo.gl/JPYQKS",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 29 13:52:20 +0000 2016",
+      "id": 748152123918016500,
+      "id_str": "748152123918016512",
+      "text": "AI впервые победил военного летчика в симуляторе: https://t.co/ff5e3096kZ. А как вы думаете,куда заведет нас развитие AI в ближайшие 10 лет?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ff5e3096kZ",
+            "expanded_url": "http://goo.gl/KnS3xG",
+            "display_url": "goo.gl/KnS3xG",
+            "indices": [
+              50,
+              73
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 29 13:58:12 +0000 2016",
+      "id": 748153597788098600,
+      "id_str": "748153597788098560",
+      "text": "Что появится раньше, искусственный интеллект или расширенный (когда расширят возможности мозга). Если 2, то останемся ли мы собой?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 29 14:16:35 +0000 2016",
+      "id": 748158223446847500,
+      "id_str": "748158223446847488",
+      "text": "Кстати, весь хайп связанный с чатботами по-моему связан именно с развитием ИИ. Просто пишущий ИИ это первый шаг к говорящему и визуальному.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 29 14:42:02 +0000 2016",
+      "id": 748164629243756500,
+      "id_str": "748164629243756545",
+      "text": "Например, сделать платформу для разбора естественного языка. Кажется есть у microsoft. @dcromster",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              87,
+              97
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 748159304709070800,
+      "in_reply_to_status_id_str": "748159304709070848",
+      "in_reply_to_user_id": 81103006,
+      "in_reply_to_user_id_str": "81103006",
+      "in_reply_to_screen_name": "dcromster",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 29 14:42:36 +0000 2016",
+      "id": 748164771485196300,
+      "id_str": "748164771485196288",
+      "text": "Но по сути массово зарабатывать на этом начнут позже, когда появятся готовые платформы и технология станет доступнее @dcromster",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              117,
+              127
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 748164629243756500,
+      "in_reply_to_status_id_str": "748164629243756545",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 29 14:43:47 +0000 2016",
+      "id": 748165068546801700,
+      "id_str": "748165068546801664",
+      "text": "Хайп начался раньше, так что Дуров скорее присоединился, чем запустил тренд @PMarinchenko",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "PMarinchenko",
+            "name": "Pav",
+            "id": 416591693,
+            "id_str": "416591693",
+            "indices": [
+              76,
+              89
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 748164269850693600,
+      "in_reply_to_status_id_str": "748164269850693632",
+      "in_reply_to_user_id": 416591693,
+      "in_reply_to_user_id_str": "416591693",
+      "in_reply_to_screen_name": "PMarinchenko",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 29 16:03:45 +0000 2016",
+      "id": 748185193354256400,
+      "id_str": "748185193354256384",
+      "text": "Или, например, так: https://t.co/jFh4qNzHWF https://t.co/ly979N2NTK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jFh4qNzHWF",
+            "expanded_url": "http://goo.gl/lvPqxt",
+            "display_url": "goo.gl/lvPqxt",
+            "indices": [
+              20,
+              43
+            ]
+          },
+          {
+            "url": "https://t.co/ly979N2NTK",
+            "expanded_url": "https://twitter.com/dcromster/status/748159304709070848",
+            "display_url": "twitter.com/dcromster/stat…",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 748159304709070800,
+      "quoted_status_id_str": "748159304709070848",
+      "quoted_status": {
+        "created_at": "Wed Jun 29 14:20:53 +0000 2016",
+        "id": 748159304709070800,
+        "id_str": "748159304709070848",
+        "text": "@ceounderhood как на этом заработать? ;)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 748158223446847500,
+        "in_reply_to_status_id_str": "748158223446847488",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 81103006,
+          "id_str": "81103006"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
       "lang": "ru"
     }
   ]
