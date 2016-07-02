@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 185,
+  "followers_count": 186,
   "friends_count": 0,
   "listed_count": 6,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
@@ -46,37 +46,26 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 488,
+  "statuses_count": 492,
   "lang": "en",
   "status": {
-    "created_at": "Thu Jun 30 17:27:20 +0000 2016",
-    "id": 748568616921083900,
-    "id_str": "748568616921083905",
-    "text": "Слава богу в гуглдоках есть история изменений – откатим :) @Toshakins",
+    "created_at": "Fri Jul 01 16:55:27 +0000 2016",
+    "id": 748922980449677300,
+    "id_str": "748922980449677313",
+    "text": "А вы какой стратегии придерживаетесь? Все сами или тоже верите в человечество?",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "Toshakins",
-          "name": "Tony",
-          "id": 106805815,
-          "id_str": "106805815",
-          "indices": [
-            59,
-            69
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 748549571563794400,
-    "in_reply_to_status_id_str": "748549571563794433",
-    "in_reply_to_user_id": 106805815,
-    "in_reply_to_user_id_str": "106805815",
-    "in_reply_to_screen_name": "Toshakins",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
