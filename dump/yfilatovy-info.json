@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 186,
+  "followers_count": 188,
   "friends_count": 0,
   "listed_count": 6,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
@@ -46,13 +46,13 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 509,
+  "statuses_count": 511,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jul 04 20:27:20 +0000 2016",
-    "id": 750063466875088900,
-    "id_str": "750063466875088897",
-    "text": "Активно интересуюсь e-learning, неплохо понимаю про грузовые и пассажирские перевозки. \nОбо всем этом смело спрашивайте.",
+    "created_at": "Tue Jul 05 11:22:03 +0000 2016",
+    "id": 750288629868666900,
+    "id_str": "750288629868666880",
+    "text": "Частенько мы занимаемся подгонкой фактов под желаемую картинку действительности. \nКогда рынку надо просто, но очень хочется сделать красиво.",
     "truncated": false,
     "entities": {
       "hashtags": [],
