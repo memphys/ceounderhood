@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 187,
+  "followers_count": 209,
   "friends_count": 0,
   "listed_count": 6,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
@@ -46,48 +46,46 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 513,
+  "statuses_count": 537,
   "lang": "en",
   "status": {
-    "created_at": "Thu Jul 07 11:08:06 +0000 2016",
-    "id": 751009895307149300,
-    "id_str": "751009895307149312",
-    "text": "Будущие CEO, у кого есть идея продукта, мы для вас полезную штуку сделали – https://t.co/DEOlUzFZwk. Проверьте перед тем как вписываться.",
+    "created_at": "Sat Jul 09 15:02:24 +0000 2016",
+    "id": 751793631535718400,
+    "id_str": "751793631535718400",
+    "text": "И в это реально верится только когда сами начинают управлять in-house. Но упираются до последнего. @ceounderhood",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/DEOlUzFZwk",
-          "expanded_url": "http://goo.gl/HGs0jI",
-          "display_url": "goo.gl/HGs0jI",
+          "screen_name": "ceounderhood",
+          "name": "CEO Under Hood",
+          "id": 718365702420328400,
+          "id_str": "718365702420328450",
           "indices": [
-            76,
-            99
+            99,
+            112
           ]
         }
-      ]
+      ],
+      "urls": []
     },
-    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 751793225875222500,
+    "in_reply_to_status_id_str": "751793225875222529",
+    "in_reply_to_user_id": 718365702420328400,
+    "in_reply_to_user_id_str": "718365702420328450",
+    "in_reply_to_screen_name": "ceounderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      749586133236015100
-    ],
+    "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 2,
-    "favorite_count": 4,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
