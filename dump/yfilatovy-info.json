@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 209,
+  "followers_count": 217,
   "friends_count": 0,
   "listed_count": 6,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
@@ -46,44 +46,33 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 537,
+  "statuses_count": 539,
   "lang": "en",
   "status": {
-    "created_at": "Sat Jul 09 15:02:24 +0000 2016",
-    "id": 751793631535718400,
-    "id_str": "751793631535718400",
-    "text": "И в это реально верится только когда сами начинают управлять in-house. Но упираются до последнего. @ceounderhood",
+    "created_at": "Sun Jul 10 14:36:17 +0000 2016",
+    "id": 752149447929372700,
+    "id_str": "752149447929372673",
+    "text": "Не очень-то я умею вести Твиттер оказывается. Надеюсь было хоть чуть-чуть полезно. Всем спасибо и удачи.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "ceounderhood",
-          "name": "CEO Under Hood",
-          "id": 718365702420328400,
-          "id_str": "718365702420328450",
-          "indices": [
-            99,
-            112
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 751793225875222500,
-    "in_reply_to_status_id_str": "751793225875222529",
-    "in_reply_to_user_id": 718365702420328400,
-    "in_reply_to_user_id_str": "718365702420328450",
-    "in_reply_to_screen_name": "ceounderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
