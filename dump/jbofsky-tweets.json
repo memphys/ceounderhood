@@ -80,6 +80,621 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 11 07:47:10 +0000 2016",
+      "id": 752408877266772000,
+      "id_str": "752408877266771968",
+      "text": "Всем привет.) сегодня расскажу о том кто я такой и чем занимаюсь. Но перед этим мне нужно задать Вам несколько вопросов.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 11 07:48:44 +0000 2016",
+      "id": 752409273615933400,
+      "id_str": "752409273615933440",
+      "text": "И так, у нас 218 читателей. Это первые три вопроса. Они будут доступны всю неделю.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 11 07:50:07 +0000 2016",
+      "id": 752409620019372000,
+      "id_str": "752409620019372032",
+      "text": "Но так же меня интересует кто каким бизнесом занимается. В какой области компетенций и знаний. https://t.co/0YBHbmtrGB",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 752409597235855400,
+            "id_str": "752409597235855360",
+            "indices": [
+              95,
+              118
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CnEYitDWgAA2Plr.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CnEYitDWgAA2Plr.jpg",
+            "url": "https://t.co/0YBHbmtrGB",
+            "display_url": "pic.twitter.com/0YBHbmtrGB",
+            "expanded_url": "http://twitter.com/ceounderhood/status/752409620019372032/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 180,
+                "h": 228,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 180,
+                "h": 228,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 180,
+                "h": 228,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 752409597235855400,
+            "id_str": "752409597235855360",
+            "indices": [
+              95,
+              118
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CnEYitDWgAA2Plr.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CnEYitDWgAA2Plr.jpg",
+            "url": "https://t.co/0YBHbmtrGB",
+            "display_url": "pic.twitter.com/0YBHbmtrGB",
+            "expanded_url": "http://twitter.com/ceounderhood/status/752409620019372032/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "medium": {
+                "w": 180,
+                "h": 228,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 180,
+                "h": 228,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 180,
+                "h": 228,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                15,
+                19
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://pbs.twimg.com/tweet_video/CnEYitDWgAA2Plr.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 11 07:54:19 +0000 2016",
+      "id": 752410676719652900,
+      "id_str": "752410676719652866",
+      "text": "Через пару часов сниму статистику и начну знакомиться.) а пока взгляните это просто прекрасно https://t.co/6SDReVpNww",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6SDReVpNww",
+            "expanded_url": "http://andeinerseite.video",
+            "display_url": "andeinerseite.video",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 11 11:08:19 +0000 2016",
+      "id": 752459498602786800,
+      "id_str": "752459498602786816",
+      "text": "Начинаем знакомство.)) первая попытка, простите если что за технические проблемы. Ох уже \"интернеты\" https://t.co/sZdTokojpi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sZdTokojpi",
+            "expanded_url": "https://twitter.com/jbofsky/status/752459181471502336",
+            "display_url": "twitter.com/jbofsky/status…",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 752459181471502300,
+      "quoted_status_id_str": "752459181471502336",
+      "quoted_status": {
+        "created_at": "Mon Jul 11 11:07:03 +0000 2016",
+        "id": 752459181471502300,
+        "id_str": "752459181471502336",
+        "text": "Смотрите в #Periscope: Начинаем знакомиться. О себе. @ceounderhood https://t.co/z2Gzbe5Jsi",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Periscope",
+              "indices": [
+                11,
+                21
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                53,
+                66
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/z2Gzbe5Jsi",
+              "expanded_url": "https://www.periscope.tv/w/alIjwTFXZ0tnZ1JrQVlLdlB8MW1ueGVuZ01SVkVLWFyAVaRdW4SU5zzwSpHQoUrUjc5QtpuYb-JZwMW69jnQ",
+              "display_url": "periscope.tv/w/alIjwTFXZ0tn…",
+              "indices": [
+                67,
+                90
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 791225197,
+          "id_str": "791225197"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 11 12:29:47 +0000 2016",
+      "id": 752480002172653600,
+      "id_str": "752480002172653568",
+      "text": "Уважаемые, вижу первые ответы на свой вопрос. Продолжайте пожалуйста будто активнее.)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 11 12:48:59 +0000 2016",
+      "id": 752484835382423600,
+      "id_str": "752484835382423552",
+      "text": "Смотрите в #Periscope: Будни @jbofsky https://t.co/jiGk5oPrx1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Periscope",
+            "indices": [
+              11,
+              21
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jbofsky",
+            "name": "Яков Берковский",
+            "id": 791225197,
+            "id_str": "791225197",
+            "indices": [
+              29,
+              37
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jiGk5oPrx1",
+            "expanded_url": "https://www.periscope.tv/w/alI7dDFXZ0tnZ1JrQVlLdlB8MWt2SnBaeWdCck1LRSA2F2rU_t5oB1cbmkXN8T0KHLXdOxuBg7CPgmYWxX5G",
+            "display_url": "periscope.tv/w/alI7dDFXZ0tn…",
+            "indices": [
+              38,
+              61
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 11 17:13:21 +0000 2016",
+      "id": 752551361754099700,
+      "id_str": "752551361754099712",
+      "text": "@tkachenko_me самое главное не бояться.) если ты уже начал. Don't be afraid to fale. Be afraid not to try!) https://t.co/XuEA8T2P5u",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tkachenko_me",
+            "name": "Алексей Ткаченко",
+            "id": 191418372,
+            "id_str": "191418372",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 752551354355286000,
+            "id_str": "752551354355286016",
+            "indices": [
+              108,
+              131
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnGZeDeWAAAe12P.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnGZeDeWAAAe12P.jpg",
+            "url": "https://t.co/XuEA8T2P5u",
+            "display_url": "pic.twitter.com/XuEA8T2P5u",
+            "expanded_url": "http://twitter.com/ceounderhood/status/752551361754099712/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 500,
+                "h": 500,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 500,
+                "h": 500,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 500,
+                "h": 500,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 752551354355286000,
+            "id_str": "752551354355286016",
+            "indices": [
+              108,
+              131
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnGZeDeWAAAe12P.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnGZeDeWAAAe12P.jpg",
+            "url": "https://t.co/XuEA8T2P5u",
+            "display_url": "pic.twitter.com/XuEA8T2P5u",
+            "expanded_url": "http://twitter.com/ceounderhood/status/752551361754099712/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 500,
+                "h": 500,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 500,
+                "h": 500,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 500,
+                "h": 500,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 191418372,
+      "in_reply_to_user_id_str": "191418372",
+      "in_reply_to_screen_name": "tkachenko_me",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Jul 11 17:20:08 +0000 2016",
+      "id": 752553072786829300,
+      "id_str": "752553072786829312",
+      "text": "Смотрите в #Periscope: В данном видео https://t.co/RO4Ag7eFtU",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Periscope",
+            "indices": [
+              11,
+              21
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RO4Ag7eFtU",
+            "expanded_url": "https://www.periscope.tv/w/alJ7KDFXZ0tnZ1JrQVlLdlB8MU93R1dwWHZ3TlJKUaqZBgGQ47VTeFb2moiZgrUtSWQsqCco79SFV2saEvkf",
+            "display_url": "periscope.tv/w/alJ7KDFXZ0tn…",
+            "indices": [
+              38,
+              61
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
