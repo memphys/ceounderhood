@@ -246,7 +246,8 @@
                   "url": "https://pbs.twimg.com/tweet_video/CnEYitDWgAA2Plr.mp4"
                 }
               ]
-            }
+            },
+            "ext_alt_text": null
           }
         ]
       },
@@ -618,7 +619,8 @@
                 "h": 500,
                 "resize": "fit"
               }
-            }
+            },
+            "ext_alt_text": null
           }
         ]
       },
@@ -694,6 +696,1818 @@
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 12 09:19:27 +0000 2016",
+      "id": 752794490457514000,
+      "id_str": "752794490457513984",
+      "text": "Согласитесь у каждого дня недели свой окрас.\nhttps://t.co/op4ChJx9t1\nВторник чудесный день. https://t.co/eBafK1G1Zn",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/op4ChJx9t1",
+            "expanded_url": "https://soundcloud.com/jekaaa/02-1",
+            "display_url": "soundcloud.com/jekaaa/02-1",
+            "indices": [
+              45,
+              68
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 752794472329670700,
+            "id_str": "752794472329670656",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CnJ2lYgWcAAjKc8.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CnJ2lYgWcAAjKc8.jpg",
+            "url": "https://t.co/eBafK1G1Zn",
+            "display_url": "pic.twitter.com/eBafK1G1Zn",
+            "expanded_url": "http://twitter.com/ceounderhood/status/752794490457513984/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 220,
+                "h": 164,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 220,
+                "h": 164,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 220,
+                "h": 164,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 752794472329670700,
+            "id_str": "752794472329670656",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CnJ2lYgWcAAjKc8.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CnJ2lYgWcAAjKc8.jpg",
+            "url": "https://t.co/eBafK1G1Zn",
+            "display_url": "pic.twitter.com/eBafK1G1Zn",
+            "expanded_url": "http://twitter.com/ceounderhood/status/752794490457513984/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 220,
+                "h": 164,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 220,
+                "h": 164,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 220,
+                "h": 164,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                55,
+                41
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://pbs.twimg.com/tweet_video/CnJ2lYgWcAAjKc8.mp4"
+                }
+              ]
+            },
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 12 09:38:28 +0000 2016",
+      "id": 752799276212912100,
+      "id_str": "752799276212912128",
+      "text": "@SobolevSergej поправь если не прав.) в большинстве случаев Приложение для бизнеса - инструмент маркетинга?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SobolevSergej",
+            "name": "Sergej Sobolev",
+            "id": 113582769,
+            "id_str": "113582769",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 113582769,
+      "in_reply_to_user_id_str": "113582769",
+      "in_reply_to_screen_name": "SobolevSergej",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 12 10:30:49 +0000 2016",
+      "id": 752812449200480300,
+      "id_str": "752812449200480256",
+      "text": "Эй бизнесмены.) а что вы собственно думаете о Мариновиче? Вот кстати инверсная статья от него, https://t.co/f9xlT9yJu4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/f9xlT9yJu4",
+            "expanded_url": "http://blog.dp.ru/post/9205/",
+            "display_url": "blog.dp.ru/post/9205/",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 12 12:47:21 +0000 2016",
+      "id": 752846810121723900,
+      "id_str": "752846810121723904",
+      "text": "Смотрите в #Periscope: Про мобильные приложения.  Для @SobolevSergej  https://t.co/CsD4e4ekI4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Periscope",
+            "indices": [
+              11,
+              21
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SobolevSergej",
+            "name": "Sergej Sobolev",
+            "id": 113582769,
+            "id_str": "113582769",
+            "indices": [
+              54,
+              68
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CsD4e4ekI4",
+            "expanded_url": "https://www.periscope.tv/w/alOMrjFXZ0tnZ1JrQVlLdlB8MXlwS2RucXp3RExKVwrA9l1w22dDHpEATwRKLJQXHjmw7cNhqTJP8WiiIkj4",
+            "display_url": "periscope.tv/w/alOMrjFXZ0tn…",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 12 14:34:34 +0000 2016",
+      "id": 752873790732902400,
+      "id_str": "752873790732902400",
+      "text": "Смотрите в #Periscope: Ко всем вопрос.) https://t.co/gCHi8EvWRf",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Periscope",
+            "indices": [
+              11,
+              21
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gCHi8EvWRf",
+            "expanded_url": "https://www.periscope.tv/w/alOl5TFXZ0tnZ1JrQVlLdlB8MUJSSmpqZ2FxemFKd-nafAeTpaSAbfYl-trIiuqbfPKz7-SmT5mzTwVZ2v5f",
+            "display_url": "periscope.tv/w/alOl5TFXZ0tn…",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 12 15:38:16 +0000 2016",
+      "id": 752889822042349600,
+      "id_str": "752889822042349569",
+      "text": "Вот и я о том же.)) https://t.co/386IydaN40",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/386IydaN40",
+            "expanded_url": "https://twitter.com/memphys/status/752886154257657856",
+            "display_url": "twitter.com/memphys/status…",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 752886154257657900,
+      "quoted_status_id_str": "752886154257657856",
+      "quoted_status": {
+        "created_at": "Tue Jul 12 15:23:41 +0000 2016",
+        "id": 752886154257657900,
+        "id_str": "752886154257657856",
+        "text": "@ceounderhood реалити-шоу было бы огненно, имхо)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 752873790732902400,
+        "in_reply_to_status_id_str": "752873790732902400",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 17266543,
+          "id_str": "17266543"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 09:43:14 +0000 2016",
+      "id": 753162864144285700,
+      "id_str": "753162864144285697",
+      "text": "А что вы делаете если клиент садится на шею? \"а можно вот тут исправить? Ну это же не сложно, бесплатно сделаете?\" https://t.co/ZTl0cSf55F",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 753162811392585700,
+            "id_str": "753162811392585728",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CnPFlicW8AAUXTZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CnPFlicW8AAUXTZ.jpg",
+            "url": "https://t.co/ZTl0cSf55F",
+            "display_url": "pic.twitter.com/ZTl0cSf55F",
+            "expanded_url": "http://twitter.com/ceounderhood/status/753162864144285697/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 240,
+                "h": 196,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 240,
+                "h": 196,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 240,
+                "h": 196,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 753162811392585700,
+            "id_str": "753162811392585728",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CnPFlicW8AAUXTZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CnPFlicW8AAUXTZ.jpg",
+            "url": "https://t.co/ZTl0cSf55F",
+            "display_url": "pic.twitter.com/ZTl0cSf55F",
+            "expanded_url": "http://twitter.com/ceounderhood/status/753162864144285697/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "medium": {
+                "w": 240,
+                "h": 196,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 240,
+                "h": 196,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 240,
+                "h": 196,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                60,
+                49
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://pbs.twimg.com/tweet_video/CnPFlicW8AAUXTZ.mp4"
+                }
+              ]
+            },
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 10:37:40 +0000 2016",
+      "id": 753176561604522000,
+      "id_str": "753176561604521984",
+      "text": "А мы из какого города?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 11:04:37 +0000 2016",
+      "id": 753183343550824400,
+      "id_str": "753183343550824449",
+      "text": "Ну и что москвичи, как бизнес там в столице?))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 15:12:29 +0000 2016",
+      "id": 753245722502398000,
+      "id_str": "753245722502397952",
+      "text": "Люблю их за такие подборки. А вы все смотрели?) Самые популярные рекламные ролики в российском YouTube в июне: https://t.co/dgmV6pzJsE",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dgmV6pzJsE",
+            "expanded_url": "https://vc.ru/p/leaderboard-3",
+            "display_url": "vc.ru/p/leaderboard-3",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 15:14:36 +0000 2016",
+      "id": 753246254679851000,
+      "id_str": "753246254679851008",
+      "text": "Забавно что Вассерман был в сериале \"Крыша мира\", в роли себя. но там как раз отказывался что либо рекламировать.) https://t.co/hxraujESKa",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hxraujESKa",
+            "expanded_url": "https://twitter.com/ceounderhood/status/753245722502397952",
+            "display_url": "twitter.com/ceounderhood/s…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          59.93050466,
+          30.31815346
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          30.31815346,
+          59.93050466
+        ]
+      },
+      "place": {
+        "id": "a76c0cd7d56c4836",
+        "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+        "place_type": "city",
+        "name": "Saint Petersburg",
+        "full_name": "Saint Petersburg, Russia",
+        "country_code": "RU",
+        "country": "Russia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                30.0896894,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                60.0921253
+              ],
+              [
+                30.0896894,
+                60.0921253
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 753245722502398000,
+      "quoted_status_id_str": "753245722502397952",
+      "quoted_status": {
+        "created_at": "Wed Jul 13 15:12:29 +0000 2016",
+        "id": 753245722502398000,
+        "id_str": "753245722502397952",
+        "text": "Люблю их за такие подборки. А вы все смотрели?) Самые популярные рекламные ролики в российском YouTube в июне: https://t.co/dgmV6pzJsE",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/dgmV6pzJsE",
+              "expanded_url": "https://vc.ru/p/leaderboard-3",
+              "display_url": "vc.ru/p/leaderboard-3",
+              "indices": [
+                111,
+                134
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 718365702420328400,
+          "id_str": "718365702420328450"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 15:23:34 +0000 2016",
+      "id": 753248512851210200,
+      "id_str": "753248512851210241",
+      "text": "Раз Питер набрал больше.) поговорим о допинге для бизнесменов? Есть такие препараты ноотропы! Пробовал кто-нибудь? https://t.co/VPybZqPz4i",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VPybZqPz4i",
+            "expanded_url": "https://twitter.com/ceounderhood/status/753176561604521984",
+            "display_url": "twitter.com/ceounderhood/s…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "a76c0cd7d56c4836",
+        "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+        "place_type": "city",
+        "name": "Saint Petersburg",
+        "full_name": "Saint Petersburg, Russia",
+        "country_code": "RU",
+        "country": "Russia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                30.0896894,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                60.0921253
+              ],
+              [
+                30.0896894,
+                60.0921253
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 753176561604522000,
+      "quoted_status_id_str": "753176561604521984",
+      "quoted_status": {
+        "created_at": "Wed Jul 13 10:37:40 +0000 2016",
+        "id": 753176561604522000,
+        "id_str": "753176561604521984",
+        "text": "А мы из какого города?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 718365702420328400,
+          "id_str": "718365702420328450"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 16:03:36 +0000 2016",
+      "id": 753258584469803000,
+      "id_str": "753258584469803008",
+      "text": "Нет конечно.) это разрешённые препараты.) https://t.co/wtolQTOgmj",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wtolQTOgmj",
+            "expanded_url": "https://twitter.com/onotoly/status/753256350537420800",
+            "display_url": "twitter.com/onotoly/status…",
+            "indices": [
+              42,
+              65
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "a76c0cd7d56c4836",
+        "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+        "place_type": "city",
+        "name": "Saint Petersburg",
+        "full_name": "Saint Petersburg, Russia",
+        "country_code": "RU",
+        "country": "Russia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                30.0896894,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                60.0921253
+              ],
+              [
+                30.0896894,
+                60.0921253
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 753256350537420800,
+      "quoted_status_id_str": "753256350537420800",
+      "quoted_status": {
+        "created_at": "Wed Jul 13 15:54:43 +0000 2016",
+        "id": 753256350537420800,
+        "id_str": "753256350537420800",
+        "text": "@ceounderhood наркоман, штоле?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 753248512851210200,
+        "in_reply_to_status_id_str": "753248512851210241",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 203867936,
+          "id_str": "203867936"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "sr"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 17:51:42 +0000 2016",
+      "id": 753285789723795500,
+      "id_str": "753285789723795459",
+      "text": "@MaryaKucher ноотропы.)) глицин.) чай например.)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MaryaKucher",
+            "name": "Мария Кучер",
+            "id": 233243561,
+            "id_str": "233243561",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 753281346496147500,
+      "in_reply_to_status_id_str": "753281346496147460",
+      "in_reply_to_user_id": 233243561,
+      "in_reply_to_user_id_str": "233243561",
+      "in_reply_to_screen_name": "MaryaKucher",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "a76c0cd7d56c4836",
+        "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+        "place_type": "city",
+        "name": "Saint Petersburg",
+        "full_name": "Saint Petersburg, Russia",
+        "country_code": "RU",
+        "country": "Russia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                30.0896894,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                60.0921253
+              ],
+              [
+                30.0896894,
+                60.0921253
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 14 10:38:45 +0000 2016",
+      "id": 753539221462380500,
+      "id_str": "753539221462380544",
+      "text": "В моем сегменте очень мало закупок, а у Вас? https://t.co/frMMgoKszD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/frMMgoKszD",
+            "expanded_url": "https://twitter.com/jbofsky/status/753539038192295937",
+            "display_url": "twitter.com/jbofsky/status…",
+            "indices": [
+              45,
+              68
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 753539038192296000,
+      "quoted_status_id_str": "753539038192295937",
+      "quoted_status": {
+        "created_at": "Thu Jul 14 10:38:01 +0000 2016",
+        "id": 753539038192296000,
+        "id_str": "753539038192295937",
+        "text": "Уважаю ФАС за такие вещи. Вообще кто из вас сталкивается в своей работе с официальными закупками?  https://t.co/VORQWH3ACR",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/VORQWH3ACR",
+              "expanded_url": "https://twitter.com/rus_fas/status/753533377396039680",
+              "display_url": "twitter.com/rus_fas/status…",
+              "indices": [
+                99,
+                122
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 791225197,
+          "id_str": "791225197"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 753533377396039700,
+        "quoted_status_id_str": "753533377396039680",
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 14 16:07:13 +0000 2016",
+      "id": 753621884357541900,
+      "id_str": "753621884357541888",
+      "text": "Смотрите в #Periscope: Пакет Яровой и мы. #конституция #бизнесияровая #яровая  https://t.co/qLN0kTDjL9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Periscope",
+            "indices": [
+              11,
+              21
+            ]
+          },
+          {
+            "text": "конституция",
+            "indices": [
+              42,
+              54
+            ]
+          },
+          {
+            "text": "бизнесияровая",
+            "indices": [
+              55,
+              69
+            ]
+          },
+          {
+            "text": "яровая",
+            "indices": [
+              70,
+              77
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qLN0kTDjL9",
+            "expanded_url": "https://www.periscope.tv/w/alZehzFXZ0tnZ1JrQVlLdlB8MUx5eEJiZWtibU94TgoqRHuFfelL0u2qqK3aJ0ax9tHzp6NC2tn_px8Mf3ML",
+            "display_url": "periscope.tv/w/alZehzFXZ0tn…",
+            "indices": [
+              79,
+              102
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "a76c0cd7d56c4836",
+        "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+        "place_type": "city",
+        "name": "Saint Petersburg",
+        "full_name": "Saint Petersburg, Russia",
+        "country_code": "RU",
+        "country": "Russia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                30.0896894,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                60.0921253
+              ],
+              [
+                30.0896894,
+                60.0921253
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 14 17:54:32 +0000 2016",
+      "id": 753648891195695100,
+      "id_str": "753648891195695104",
+      "text": "Теперь правильно.)) а вы подпишете петицию против закона Яровой? https://t.co/Ki9fJRmKj0",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ki9fJRmKj0",
+            "expanded_url": "https://twitter.com/ceounderhood/status/753621884357541888",
+            "display_url": "twitter.com/ceounderhood/s…",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 753621884357541900,
+      "quoted_status_id_str": "753621884357541888",
+      "quoted_status": {
+        "created_at": "Thu Jul 14 16:07:13 +0000 2016",
+        "id": 753621884357541900,
+        "id_str": "753621884357541888",
+        "text": "Смотрите в #Periscope: Пакет Яровой и мы. #конституция #бизнесияровая #яровая  https://t.co/qLN0kTDjL9",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Periscope",
+              "indices": [
+                11,
+                21
+              ]
+            },
+            {
+              "text": "конституция",
+              "indices": [
+                42,
+                54
+              ]
+            },
+            {
+              "text": "бизнесияровая",
+              "indices": [
+                55,
+                69
+              ]
+            },
+            {
+              "text": "яровая",
+              "indices": [
+                70,
+                77
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/qLN0kTDjL9",
+              "expanded_url": "https://www.periscope.tv/w/alZehzFXZ0tnZ1JrQVlLdlB8MUx5eEJiZWtibU94TgoqRHuFfelL0u2qqK3aJ0ax9tHzp6NC2tn_px8Mf3ML",
+              "display_url": "periscope.tv/w/alZehzFXZ0tn…",
+              "indices": [
+                79,
+                102
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 718365702420328400,
+          "id_str": "718365702420328450"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "a76c0cd7d56c4836",
+          "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+          "place_type": "city",
+          "name": "Saint Petersburg",
+          "full_name": "Saint Petersburg, Russia",
+          "country_code": "RU",
+          "country": "Russia",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  30.0896894,
+                  59.7761714
+                ],
+                [
+                  30.5677067,
+                  59.7761714
+                ],
+                [
+                  30.5677067,
+                  60.0921253
+                ],
+                [
+                  30.0896894,
+                  60.0921253
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 15 09:42:06 +0000 2016",
+      "id": 753887352863490000,
+      "id_str": "753887352863490048",
+      "text": "Создатели игр world of tanks и т.д. Создали первый портал по видеомаркетингу! Надеюсь наши кейсы скоро там появятся. https://t.co/k6woUsmGwL",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/k6woUsmGwL",
+            "expanded_url": "http://worldofvideo.ru/",
+            "display_url": "worldofvideo.ru",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 15 13:28:01 +0000 2016",
+      "id": 753944209556635600,
+      "id_str": "753944209556635648",
+      "text": "Использовали в своём бизнесе видео? в любом виде.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 15 14:13:56 +0000 2016",
+      "id": 753955763744280600,
+      "id_str": "753955763744280577",
+      "text": "Очень жаль что не помогло видео. Вероятнее всего не правильно была выбрана задача для него. Закон \"как\" надо блюсти. https://t.co/BY13pAgGFc",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BY13pAgGFc",
+            "expanded_url": "https://twitter.com/ceounderhood/status/753944209556635648",
+            "display_url": "twitter.com/ceounderhood/s…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 753944209556635600,
+      "quoted_status_id_str": "753944209556635648",
+      "quoted_status": {
+        "created_at": "Fri Jul 15 13:28:01 +0000 2016",
+        "id": 753944209556635600,
+        "id_str": "753944209556635648",
+        "text": "Использовали в своём бизнесе видео? в любом виде.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 718365702420328400,
+          "id_str": "718365702420328450"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 15 14:16:15 +0000 2016",
+      "id": 753956344789622800,
+      "id_str": "753956344789622786",
+      "text": "А это глаз человека который смотрит много видео, снят в макро на iphon6. @AntonKovalevsky https://t.co/nVj1GCwObN",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AntonKovalevsky",
+            "name": "Антон Ковалевский",
+            "id": 15457331,
+            "id_str": "15457331",
+            "indices": [
+              73,
+              89
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 753956318927528000,
+            "id_str": "753956318927527936",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnaXRwXWIAAtzeF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnaXRwXWIAAtzeF.jpg",
+            "url": "https://t.co/nVj1GCwObN",
+            "display_url": "pic.twitter.com/nVj1GCwObN",
+            "expanded_url": "http://twitter.com/ceounderhood/status/753956344789622786/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 753956318927528000,
+            "id_str": "753956318927527936",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnaXRwXWIAAtzeF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnaXRwXWIAAtzeF.jpg",
+            "url": "https://t.co/nVj1GCwObN",
+            "display_url": "pic.twitter.com/nVj1GCwObN",
+            "expanded_url": "http://twitter.com/ceounderhood/status/753956344789622786/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "ext_alt_text": null
+          },
+          {
+            "id": 753956318940102700,
+            "id_str": "753956318940102656",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnaXRwaWAAAe6AT.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnaXRwaWAAAe6AT.jpg",
+            "url": "https://t.co/nVj1GCwObN",
+            "display_url": "pic.twitter.com/nVj1GCwObN",
+            "expanded_url": "http://twitter.com/ceounderhood/status/753956344789622786/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            },
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 15 16:02:34 +0000 2016",
+      "id": 753983103534760000,
+      "id_str": "753983103534759936",
+      "text": "О базовой философии. Что главное в лидере?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
       "lang": "ru"
     }
   ]
