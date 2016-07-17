@@ -2198,7 +2198,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
@@ -2505,9 +2505,475 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 16 10:23:04 +0000 2016",
+      "id": 754260053432164400,
+      "id_str": "754260053432164357",
+      "text": "Моё мнение, что видение главное, но без остальных качеств далеко не дойти.  https://t.co/juuH8HmuSa",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/juuH8HmuSa",
+            "expanded_url": "https://twitter.com/ceounderhood/status/753983103534759936",
+            "display_url": "twitter.com/ceounderhood/s…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 753983103534760000,
+      "quoted_status_id_str": "753983103534759936",
+      "quoted_status": {
+        "created_at": "Fri Jul 15 16:02:34 +0000 2016",
+        "id": 753983103534760000,
+        "id_str": "753983103534759936",
+        "text": "О базовой философии. Что главное в лидере?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 718365702420328400,
+          "id_str": "718365702420328450"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
       "favorite_count": 0,
       "favorited": false,
       "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 16 10:24:16 +0000 2016",
+      "id": 754260352917991400,
+      "id_str": "754260352917991424",
+      "text": "Вот интересный материал, удаленное ведение бизнеса. В своём бизнесе вы можете представить такую модель?\nhttps://t.co/Dsj99AgEAz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Dsj99AgEAz",
+            "expanded_url": "http://youtu.be/X1SHUshbXcg",
+            "display_url": "youtu.be/X1SHUshbXcg",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 16 14:23:28 +0000 2016",
+      "id": 754320550160375800,
+      "id_str": "754320550160375808",
+      "text": "Считаю что очень важно сохранить \"глаза ребёнка\" в себе.) увидел это определение у Михаила Дашкиева. Но ведь прав!!!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jul 16 14:23:43 +0000 2016",
+      "id": 754320612152242200,
+      "id_str": "754320612152242177",
+      "text": "А вот и видео на тему. https://t.co/maOdr2UhAj https://t.co/gfw7LAUgYP",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/maOdr2UhAj",
+            "expanded_url": "https://youtu.be/86ePX-Xl0GU",
+            "display_url": "youtu.be/86ePX-Xl0GU",
+            "indices": [
+              23,
+              46
+            ]
+          },
+          {
+            "url": "https://t.co/gfw7LAUgYP",
+            "expanded_url": "https://twitter.com/ceounderhood/status/754320550160375808",
+            "display_url": "twitter.com/ceounderhood/s…",
+            "indices": [
+              47,
+              70
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 754320550160375800,
+      "quoted_status_id_str": "754320550160375808",
+      "quoted_status": {
+        "created_at": "Sat Jul 16 14:23:28 +0000 2016",
+        "id": 754320550160375800,
+        "id_str": "754320550160375808",
+        "text": "Считаю что очень важно сохранить \"глаза ребёнка\" в себе.) увидел это определение у Михаила Дашкиева. Но ведь прав!!!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 718365702420328400,
+          "id_str": "718365702420328450"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jul 17 14:05:06 +0000 2016",
+      "id": 754678318050451500,
+      "id_str": "754678318050451456",
+      "text": "Смотрите в #Periscope: То чувство когда последний день ведешь коллективный Твиттер.)) но говоришь о видеомаркетинге. https://t.co/O7HA8fqaJc",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Periscope",
+            "indices": [
+              11,
+              21
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/O7HA8fqaJc",
+            "expanded_url": "https://www.periscope.tv/w/alo2ZzFXZ0tnZ1JrQVlLdlB8MWxEeExRWWJiWmtLbZTO8WoOZ2Wz8tRB89CsONmTYW2qr94dCIzNuc5xcUqG",
+            "display_url": "periscope.tv/w/alo2ZzFXZ0tn…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jul 17 14:41:19 +0000 2016",
+      "id": 754687431157379100,
+      "id_str": "754687431157379072",
+      "text": "Смотрите в #Periscope: Пришёл Яресько, спорт Пит, инт.маркетинг, restor. https://t.co/DlGnza2i3N",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Periscope",
+            "indices": [
+              11,
+              21
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DlGnza2i3N",
+            "expanded_url": "https://www.periscope.tv/w/alo_AzFXZ0tnZ1JrQVlLdlB8MUx5eEJicG12WXJ4ToBjGWjPTvk6qy5PrlpCbOym_SycXTYNJ06yj4EqITXi",
+            "display_url": "periscope.tv/w/alo_AzFXZ0tn…",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "a76c0cd7d56c4836",
+        "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+        "place_type": "city",
+        "name": "Saint Petersburg",
+        "full_name": "Saint Petersburg, Russia",
+        "country_code": "RU",
+        "country": "Russia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                30.0896894,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                60.0921253
+              ],
+              [
+                30.0896894,
+                60.0921253
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jul 17 18:21:20 +0000 2016",
+      "id": 754742799686312000,
+      "id_str": "754742799686311936",
+      "text": "Смотрите в #Periscope: Последняя моя запись.))) спасибо, мне понравилось.)) https://t.co/jzf88xbeKB",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Periscope",
+            "indices": [
+              11,
+              21
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jzf88xbeKB",
+            "expanded_url": "https://www.periscope.tv/w/alpyUjFXZ0tnZ1JrQVlLdlB8MW1ueGVrQmpMYVdHWBJx93iyTg5PYkgnYzWxb_P_1s4_7Unnt8jyX2wYPklQ",
+            "display_url": "periscope.tv/w/alpyUjFXZ0tn…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "a76c0cd7d56c4836",
+        "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+        "place_type": "city",
+        "name": "Saint Petersburg",
+        "full_name": "Saint Petersburg, Russia",
+        "country_code": "RU",
+        "country": "Russia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                30.0896894,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                59.7761714
+              ],
+              [
+                30.5677067,
+                60.0921253
+              ],
+              [
+                30.0896894,
+                60.0921253
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
       "lang": "ru"
     }
   ]
