@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 215,
+  "followers_count": 216,
   "friends_count": 0,
   "listed_count": 6,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
@@ -46,26 +46,37 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 596,
+  "statuses_count": 614,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jul 18 11:12:28 +0000 2016",
-    "id": 754997258043723800,
-    "id_str": "754997258043723776",
-    "text": "Поиграем в американский детективный сериал.",
+    "created_at": "Mon Jul 18 19:33:07 +0000 2016",
+    "id": 755123252234686500,
+    "id_str": "755123252234686464",
+    "text": "@skonovalov Сначала только русские. Потом случайно попался русский американец. С тех пор соотношение 70/30 (иностранцев меньше).",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "skonovalov",
+          "name": "Sergey Konovalov",
+          "id": 10380002,
+          "id_str": "10380002",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 754997081685753900,
-    "in_reply_to_status_id_str": "754997081685753856",
-    "in_reply_to_user_id": 718365702420328400,
-    "in_reply_to_user_id_str": "718365702420328450",
-    "in_reply_to_screen_name": "ceounderhood",
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 755122851150172200,
+    "in_reply_to_status_id_str": "755122851150172160",
+    "in_reply_to_user_id": 10380002,
+    "in_reply_to_user_id_str": "10380002",
+    "in_reply_to_screen_name": "skonovalov",
     "geo": null,
     "coordinates": null,
     "place": null,
