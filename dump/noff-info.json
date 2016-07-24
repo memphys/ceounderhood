@@ -46,13 +46,13 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 667,
+  "statuses_count": 668,
   "lang": "en",
   "status": {
-    "created_at": "Sun Jul 24 15:24:24 +0000 2016",
-    "id": 757234986865029100,
-    "id_str": "757234986865029120",
-    "text": "Ну и напоследок: вы по выходным работаете?",
+    "created_at": "Sun Jul 24 20:47:49 +0000 2016",
+    "id": 757316377611006000,
+    "id_str": "757316377611005954",
+    "text": "Вот и все. Всем счастливо, молчаливые вы мои. Текущая неделя обещает быть тяжелой. Удачного бизнеса. А если у вас зомби-стартап – убейте его",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -60,7 +60,7 @@
       "user_mentions": [],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
