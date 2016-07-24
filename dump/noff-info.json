@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 230,
+  "followers_count": 231,
   "friends_count": 0,
   "listed_count": 6,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
@@ -46,13 +46,13 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 666,
+  "statuses_count": 667,
   "lang": "en",
   "status": {
-    "created_at": "Sun Jul 24 07:22:25 +0000 2016",
-    "id": 757113693238857700,
-    "id_str": "757113693238857728",
-    "text": "День седьмой. Один из сотрудников, поклявшийся не работать по выходным, фигачит в субботу ночью. Мотивация.",
+    "created_at": "Sun Jul 24 15:24:24 +0000 2016",
+    "id": 757234986865029100,
+    "id_str": "757234986865029120",
+    "text": "Ну и напоследок: вы по выходным работаете?",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -72,7 +72,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
