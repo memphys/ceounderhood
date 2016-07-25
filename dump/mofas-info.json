@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 235,
+  "followers_count": 242,
   "friends_count": 0,
   "listed_count": 6,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
@@ -46,13 +46,13 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 673,
+  "statuses_count": 713,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jul 25 09:03:52 +0000 2016",
-    "id": 757501611925209100,
-    "id_str": "757501611925209088",
-    "text": "На неделе мы поговорим про разработку ПО, про личные воркфлоу, про найм, про кадры, про рабочие процессы, про клиентов",
+    "created_at": "Mon Jul 25 15:37:23 +0000 2016",
+    "id": 757600643079176200,
+    "id_str": "757600643079176192",
+    "text": "Свои продукты это и возможность занять разработчика в паузе между заказными продуктами, чтобы он не скучал",
     "truncated": false,
     "entities": {
       "hashtags": [],
