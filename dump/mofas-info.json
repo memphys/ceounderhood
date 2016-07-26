@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 242,
+  "followers_count": 247,
   "friends_count": 0,
   "listed_count": 6,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
@@ -46,13 +46,13 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 713,
+  "statuses_count": 715,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jul 25 15:37:23 +0000 2016",
-    "id": 757600643079176200,
-    "id_str": "757600643079176192",
-    "text": "Свои продукты это и возможность занять разработчика в паузе между заказными продуктами, чтобы он не скучал",
+    "created_at": "Mon Jul 25 16:04:02 +0000 2016",
+    "id": 757607350492692500,
+    "id_str": "757607350492692480",
+    "text": "Вместе у нас солидная экспертиза и опыт, чтобы планировать стратегию и принимать судьбоносные решения раз в 1-2 месяца на Совете Директоров",
     "truncated": false,
     "entities": {
       "hashtags": [],
