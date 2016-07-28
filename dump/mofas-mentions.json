@@ -1687,6 +1687,321 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 28 07:33:54 +0000 2016",
+      "id": 758566135918985200,
+      "id_str": "758566135918985216",
+      "text": "Больше андерхудов для бога андерхудов! @ceounderhood",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              39,
+              52
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 56080508,
+        "id_str": "56080508"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 28 07:36:34 +0000 2016",
+      "id": 758566807259246600,
+      "id_str": "758566807259246592",
+      "text": "@vedmich @ceounderhood @catunderhood",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vedmich",
+            "name": "Matsukaze",
+            "id": 56080508,
+            "id_str": "56080508",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              9,
+              22
+            ]
+          },
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              23,
+              36
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 758566135918985200,
+      "in_reply_to_status_id_str": "758566135918985216",
+      "in_reply_to_user_id": 56080508,
+      "in_reply_to_user_id_str": "56080508",
+      "in_reply_to_screen_name": "vedmich",
+      "user": {
+        "id": 180295173,
+        "id_str": "180295173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Jul 28 07:37:09 +0000 2016",
+      "id": 758566950918361100,
+      "id_str": "758566950918361088",
+      "text": "@antonfrolovsky @ceounderhood @catunderhood да, котиков уже видел :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "antonfrolovsky",
+            "name": "Frant",
+            "id": 180295173,
+            "id_str": "180295173",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              16,
+              29
+            ]
+          },
+          {
+            "screen_name": "catunderhood",
+            "name": "catunderhood",
+            "id": 739569483556225000,
+            "id_str": "739569483556225025",
+            "indices": [
+              30,
+              43
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 758566807259246600,
+      "in_reply_to_status_id_str": "758566807259246592",
+      "in_reply_to_user_id": 180295173,
+      "in_reply_to_user_id_str": "180295173",
+      "in_reply_to_screen_name": "antonfrolovsky",
+      "user": {
+        "id": 56080508,
+        "id_str": "56080508"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 28 09:01:40 +0000 2016",
+      "id": 758588219562795000,
+      "id_str": "758588219562795008",
+      "text": "@ceounderhood ок. Я считаю, что сотрудников надо удерживать. С чего начнем?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 758583874175770600,
+      "in_reply_to_status_id_str": "758583874175770625",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 82667063,
+        "id_str": "82667063"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 28 11:35:45 +0000 2016",
+      "id": 758626997836873700,
+      "id_str": "758626997836873728",
+      "text": "@ceounderhood но тем не менее, зп не привязывается напрямую к KPI, как у продажников?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 758622217693438000,
+      "in_reply_to_status_id_str": "758622217693437952",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 94280436,
+        "id_str": "94280436"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 28 11:50:08 +0000 2016",
+      "id": 758630616141295600,
+      "id_str": "758630616141295616",
+      "text": "@ceounderhood во-во, см. https://t.co/6OHsJJuTOw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6OHsJJuTOw",
+            "expanded_url": "http://2k.livejournal.com/663480.html",
+            "display_url": "2k.livejournal.com/663480.html",
+            "indices": [
+              25,
+              48
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 758629331585335300,
+      "in_reply_to_status_id_str": "758629331585335296",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 14437308,
+        "id_str": "14437308"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
