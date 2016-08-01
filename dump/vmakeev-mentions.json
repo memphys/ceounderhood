@@ -1,0 +1,303 @@
+{
+  "mentions": [
+    {
+      "created_at": "Mon Aug 01 08:33:08 +0000 2016",
+      "id": 760030590905221100,
+      "id_str": "760030590905221121",
+      "text": "@ceounderhood Про бизнес в целом. Про IT тут и так каждый второй знает, как что делать.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 760030267058847700,
+      "in_reply_to_status_id_str": "760030267058847744",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 39471997,
+        "id_str": "39471997"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 08:40:12 +0000 2016",
+      "id": 760032371030822900,
+      "id_str": "760032371030822912",
+      "text": "@ceounderhood про становление компании с нуля интересно.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 760030267058847700,
+      "in_reply_to_status_id_str": "760030267058847744",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 14373780,
+        "id_str": "14373780"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 09:04:44 +0000 2016",
+      "id": 760038545738334200,
+      "id_str": "760038545738334208",
+      "text": "@ceounderhood я за \"применительно к IT\"",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+      "in_reply_to_status_id": 760030267058847700,
+      "in_reply_to_status_id_str": "760030267058847744",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 9311562,
+        "id_str": "9311562"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 09:09:54 +0000 2016",
+      "id": 760039844353638400,
+      "id_str": "760039844353638400",
+      "text": "@ceounderhood можно голосовалку сделать. Я за IT, но интересные кейсы из других индустрий тоже ок.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 760030267058847700,
+      "in_reply_to_status_id_str": "760030267058847744",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 2248341073,
+        "id_str": "2248341073"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 09:13:08 +0000 2016",
+      "id": 760040658828656600,
+      "id_str": "760040658828656640",
+      "text": "@ceounderhood странные у вас переносы на сайте https://t.co/cmtNyjsjhD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 760040649966182400,
+            "id_str": "760040649966182400",
+            "indices": [
+              47,
+              70
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cow08bwXYAAn4mD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cow08bwXYAAn4mD.jpg",
+            "url": "https://t.co/cmtNyjsjhD",
+            "display_url": "pic.twitter.com/cmtNyjsjhD",
+            "expanded_url": "http://twitter.com/YarKravtsov/status/760040658828656640/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 640,
+                "h": 1136,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 640,
+                "h": 1136,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 760040649966182400,
+            "id_str": "760040649966182400",
+            "indices": [
+              47,
+              70
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cow08bwXYAAn4mD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cow08bwXYAAn4mD.jpg",
+            "url": "https://t.co/cmtNyjsjhD",
+            "display_url": "pic.twitter.com/cmtNyjsjhD",
+            "expanded_url": "http://twitter.com/YarKravtsov/status/760040658828656640/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 640,
+                "h": 1136,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 640,
+                "h": 1136,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 760029772688793600,
+      "in_reply_to_status_id_str": "760029772688793600",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 2248341073,
+        "id_str": "2248341073"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
