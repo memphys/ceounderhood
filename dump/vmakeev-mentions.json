@@ -1106,6 +1106,1269 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 15:21:58 +0000 2016",
+      "id": 760133478776184800,
+      "id_str": "760133478776184832",
+      "text": "@ceounderhood к ит конечно",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 760030267058847700,
+      "in_reply_to_status_id_str": "760030267058847744",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 85138393,
+        "id_str": "85138393"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 15:36:06 +0000 2016",
+      "id": 760137034061254700,
+      "id_str": "760137034061254656",
+      "text": "@ceounderhood попахивает самохвальством",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 760136258135949300,
+      "in_reply_to_status_id_str": "760136258135949312",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 12040962,
+        "id_str": "12040962"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 15:43:18 +0000 2016",
+      "id": 760138845665030100,
+      "id_str": "760138845665030144",
+      "text": "@ceounderhood мне показалось что книга — про сумасшедшего, который не умел получать удовольствие от жизни.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 760137610794852400,
+      "in_reply_to_status_id_str": "760137610794852352",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 15667098,
+        "id_str": "15667098"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 15:44:34 +0000 2016",
+      "id": 760139164373450800,
+      "id_str": "760139164373450757",
+      "text": "@YarKravtsov @valerypopoff @ceounderhood ха-ха, уже не актуально",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "YarKravtsov",
+            "name": "Yaroslav Kravtsov",
+            "id": 2248341073,
+            "id_str": "2248341073",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "valerypopoff",
+            "name": "Valera Popov",
+            "id": 321956125,
+            "id_str": "321956125",
+            "indices": [
+              13,
+              26
+            ]
+          },
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              27,
+              40
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 760040658828656600,
+      "in_reply_to_status_id_str": "760040658828656640",
+      "in_reply_to_user_id": 2248341073,
+      "in_reply_to_user_id_str": "2248341073",
+      "in_reply_to_screen_name": "YarKravtsov",
+      "user": {
+        "id": 20366241,
+        "id_str": "20366241"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 15:50:18 +0000 2016",
+      "id": 760140610229731300,
+      "id_str": "760140610229731328",
+      "text": "@ceounderhood садист",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 760140401483407400,
+      "in_reply_to_status_id_str": "760140401483407360",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 9921452,
+        "id_str": "9921452"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "3eb2c704fe8a50cb",
+        "url": "https://api.twitter.com/1.1/geo/id/3eb2c704fe8a50cb.json",
+        "place_type": "city",
+        "name": "City of London",
+        "full_name": "City of London, London",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -0.112442,
+                51.5068
+              ],
+              [
+                -0.0733794,
+                51.5068
+              ],
+              [
+                -0.0733794,
+                51.522161
+              ],
+              [
+                -0.112442,
+                51.522161
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Mon Aug 01 16:19:27 +0000 2016",
+      "id": 760147945685708800,
+      "id_str": "760147945685708800",
+      "text": "@ceounderhood а skyeng не пробовал?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 760146206475554800,
+      "in_reply_to_status_id_str": "760146206475554821",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 170259336,
+        "id_str": "170259336"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 16:20:58 +0000 2016",
+      "id": 760148326872444900,
+      "id_str": "760148326872444933",
+      "text": "@ceounderhood пытаюсь фиксировать время, но часто забываю вносить записи, особенно по мелким задачам. Посоветуешь какое-то решение?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 760142666906660900,
+      "in_reply_to_status_id_str": "760142666906660865",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 216727918,
+        "id_str": "216727918"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 16:26:29 +0000 2016",
+      "id": 760149712544694300,
+      "id_str": "760149712544694273",
+      "text": "@ceounderhood а чем трекают свое время сотрудники? И трекаешь ли ты время в этом же трекере?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 760147529342263300,
+      "in_reply_to_status_id_str": "760147529342263296",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 12040962,
+        "id_str": "12040962"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 16:29:07 +0000 2016",
+      "id": 760150375861215200,
+      "id_str": "760150375861215232",
+      "text": "@ceounderhood Прекрасный и интересный монолог, уже заставило задуматься :-)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "in_reply_to_status_id": 760147529342263300,
+      "in_reply_to_status_id_str": "760147529342263296",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 82539109,
+        "id_str": "82539109"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 16:35:39 +0000 2016",
+      "id": 760152022649827300,
+      "id_str": "760152022649827328",
+      "text": "@ceounderhood а что насчет увеличения навыков чтения?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 760145389056102400,
+      "in_reply_to_status_id_str": "760145389056102401",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 43521595,
+        "id_str": "43521595"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 16:37:44 +0000 2016",
+      "id": 760152543783710700,
+      "id_str": "760152543783710721",
+      "text": "@ceounderhood где шарится ктулху с моим мозгом? :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 760147529342263300,
+      "in_reply_to_status_id_str": "760147529342263296",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 62336528,
+        "id_str": "62336528"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 16:46:10 +0000 2016",
+      "id": 760154669641560000,
+      "id_str": "760154669641560064",
+      "text": "@ceounderhood Хе, у меня все наоборот - skyeng и duolingo",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 760145389056102400,
+      "in_reply_to_status_id_str": "760145389056102401",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 125436818,
+        "id_str": "125436818"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Aug 01 16:47:11 +0000 2016",
+      "id": 760154922776141800,
+      "id_str": "760154922776141825",
+      "text": "@ceounderhood проще наоборот - вы спрашиваете, а мы отвечаем, а затем начинаем спорить друг с другом, обсуждать чужие ответы :о)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 760147529342263300,
+      "in_reply_to_status_id_str": "760147529342263296",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 2248341073,
+        "id_str": "2248341073"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 16:48:04 +0000 2016",
+      "id": 760155146898772000,
+      "id_str": "760155146898771968",
+      "text": "@ceounderhood я об английском",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 760154989809500200,
+      "in_reply_to_status_id_str": "760154989809500160",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 43521595,
+        "id_str": "43521595"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 16:50:05 +0000 2016",
+      "id": 760155654552158200,
+      "id_str": "760155654552158208",
+      "text": "@ceounderhood пытаюсь все очень интересное для себя читать на английском. Не хватает какого-то приложения чтобы оперативно смотреть словарь.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 760155254570770400,
+      "in_reply_to_status_id_str": "760155254570770432",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 43521595,
+        "id_str": "43521595"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 16:50:59 +0000 2016",
+      "id": 760155880772034600,
+      "id_str": "760155880772034560",
+      "text": "@ceounderhood задним числом и в тогле можно. Вопрос в том, как выработать привычку делать это сразу. Первое время помогали пуш-уведомления",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 760154264954110000,
+      "in_reply_to_status_id_str": "760154264954109952",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 216727918,
+        "id_str": "216727918"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 16:53:19 +0000 2016",
+      "id": 760156465642504200,
+      "id_str": "760156465642504193",
+      "text": "@ceounderhood а если это pdf?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 760155503280394200,
+      "in_reply_to_status_id_str": "760155503280394240",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 43521595,
+        "id_str": "43521595"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 16:54:08 +0000 2016",
+      "id": 760156674221084700,
+      "id_str": "760156674221084672",
+      "text": "@ceounderhood https://t.co/DJKctR7V7c (если не видел, кстати)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DJKctR7V7c",
+            "expanded_url": "http://context.reverso.net/translation",
+            "display_url": "context.reverso.net/translation",
+            "indices": [
+              14,
+              37
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 760156179444228100,
+      "in_reply_to_status_id_str": "760156179444228096",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 43521595,
+        "id_str": "43521595"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 17:05:24 +0000 2016",
+      "id": 760159508559700000,
+      "id_str": "760159508559699969",
+      "text": "@ceounderhood это платные занятия или \"по обмену\" ?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 760145636847128600,
+      "in_reply_to_status_id_str": "760145636847128576",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 29657792,
+        "id_str": "29657792"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 17:47:45 +0000 2016",
+      "id": 760170164100931600,
+      "id_str": "760170164100931584",
+      "text": "@ceounderhood для руководителя компании срок в 3 месяца катастрофически мал. Пол года-год. Иначе хаос, метания, поиск работы",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 760135485180215300,
+      "in_reply_to_status_id_str": "760135485180215296",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 82667063,
+        "id_str": "82667063"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 18:16:34 +0000 2016",
+      "id": 760177419441545200,
+      "id_str": "760177419441545216",
+      "text": "@ceounderhood будет ли востребовано мобильное приложение в виде квестов по городу с привязкой к гео меткам? :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 191418372,
+        "id_str": "191418372"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 18:50:49 +0000 2016",
+      "id": 760186035821277200,
+      "id_str": "760186035821277184",
+      "text": "@ceounderhood вот пытаюсь придумать свою реакцию на подобное поведение своих друзей, или наоборот. как-то стрёмно представляется",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 760136258135949300,
+      "in_reply_to_status_id_str": "760136258135949312",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 229812906,
+        "id_str": "229812906"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 19:49:35 +0000 2016",
+      "id": 760200825973174300,
+      "id_str": "760200825973174272",
+      "text": "@ceounderhood а какая у вас численность?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 760193190863437800,
+      "in_reply_to_status_id_str": "760193190863437824",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 82667063,
+        "id_str": "82667063"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 19:56:09 +0000 2016",
+      "id": 760202477438398500,
+      "id_str": "760202477438398464",
+      "text": "@ceounderhood это всё штат или есть попроектные ребята?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 760201629010235400,
+      "in_reply_to_status_id_str": "760201629010235393",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 286593061,
+        "id_str": "286593061"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 01 22:06:33 +0000 2016",
+      "id": 760235294230708200,
+      "id_str": "760235294230708225",
+      "text": "@ceounderhood https://t.co/cS4njDnhMW эээ!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/cS4njDnhMW",
+            "expanded_url": "https://www.dropbox.com/s/6p7m0geiv3ybdtl/Screenshot%202016-08-02%2001.05.51.png?dl=0",
+            "display_url": "dropbox.com/s/6p7m0geiv3yb…",
+            "indices": [
+              14,
+              37
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 760074292361068500,
+      "in_reply_to_status_id_str": "760074292361068544",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 24960202,
+        "id_str": "24960202"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 02 04:47:15 +0000 2016",
+      "id": 760336135092572200,
+      "id_str": "760336135092572160",
+      "text": "@ceounderhood спасибо)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 760192839645007900,
+      "in_reply_to_status_id_str": "760192839645007878",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 191418372,
+        "id_str": "191418372"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Aug 02 05:46:04 +0000 2016",
+      "id": 760350934694322200,
+      "id_str": "760350934694322176",
+      "text": "@ceounderhood с таким подходом в ванне с пенкой не полежишь с утра, чтобы себя человеком чувствовать!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 760350684080279600,
+      "in_reply_to_status_id_str": "760350684080279553",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 1033011720,
+        "id_str": "1033011720"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
