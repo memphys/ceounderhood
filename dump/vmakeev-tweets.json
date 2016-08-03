@@ -340,7 +340,7 @@
       ],
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
@@ -556,7 +556,7 @@
       ],
       "is_quote_status": false,
       "retweet_count": 2,
-      "favorite_count": 11,
+      "favorite_count": 13,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
@@ -1670,7 +1670,7 @@
       ],
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 3,
+      "favorite_count": 4,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
@@ -1786,7 +1786,7 @@
       ],
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 6,
+      "favorite_count": 8,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
@@ -1867,7 +1867,7 @@
       ],
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 5,
+      "favorite_count": 6,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
@@ -1948,7 +1948,7 @@
       ],
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 9,
+      "favorite_count": 12,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
@@ -2259,7 +2259,7 @@
       ],
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 5,
+      "favorite_count": 6,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
@@ -2511,7 +2511,7 @@
       ],
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 2,
+      "favorite_count": 4,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
@@ -2730,7 +2730,7 @@
       ],
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 3,
+      "favorite_count": 4,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
@@ -2969,7 +2969,7 @@
       ],
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 12,
+      "favorite_count": 13,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
@@ -3061,7 +3061,7 @@
       ],
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
@@ -3107,7 +3107,7 @@
       ],
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 1,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
@@ -4208,7 +4208,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
@@ -5359,7 +5359,7 @@
         "lang": "ru"
       },
       "retweet_count": 0,
-      "favorite_count": 0,
+      "favorite_count": 2,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
@@ -5751,7 +5751,7 @@
         "contributors": null,
         "is_quote_status": false,
         "retweet_count": 1,
-        "favorite_count": 0,
+        "favorite_count": 2,
         "favorited": false,
         "retweeted": true,
         "possibly_sensitive": false,
@@ -5793,7 +5793,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
@@ -5826,9 +5826,2150 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 07:36:47 +0000 2016",
+      "id": 760741185338142700,
+      "id_str": "760741185338142720",
+      "text": "Делюсь шаблоном таблицы для персонального учета времени. Внутри — лист «Инструкция»\nhttps://t.co/Eu84B0kReu https://t.co/Drigtx5Ubf",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Eu84B0kReu",
+            "expanded_url": "https://docs.google.com/spreadsheets/d/1-OPQXDinFzEK9Tlx_3g4seEEDaqzGjyoBvDfCBv3bqI/edit#gid=0",
+            "display_url": "docs.google.com/spreadsheets/d…",
+            "indices": [
+              84,
+              107
+            ]
+          },
+          {
+            "url": "https://t.co/Drigtx5Ubf",
+            "expanded_url": "https://twitter.com/MikhaylovS/status/760651842812452864",
+            "display_url": "twitter.com/MikhaylovS/sta…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 760651842812452900,
+      "quoted_status_id_str": "760651842812452864",
+      "quoted_status": {
+        "created_at": "Wed Aug 03 01:41:46 +0000 2016",
+        "id": 760651842812452900,
+        "id_str": "760651842812452864",
+        "text": "@ceounderhood а можешь поделиться темплейтом таблички своей?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 760143338523729900,
+        "in_reply_to_status_id_str": "760143338523729920",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 165365061,
+          "id_str": "165365061"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 07:37:55 +0000 2016",
+      "id": 760741473650434000,
+      "id_str": "760741473650434049",
+      "text": "Задавайте вопросы, если есть. Таблицу можно скопировать себе в Google Drive. https://t.co/2XUQk4tOCW",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2XUQk4tOCW",
+            "expanded_url": "https://twitter.com/ceounderhood/status/760741185338142720",
+            "display_url": "twitter.com/ceounderhood/s…",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 760741185338142700,
+      "quoted_status_id_str": "760741185338142720",
+      "quoted_status": {
+        "created_at": "Wed Aug 03 07:36:47 +0000 2016",
+        "id": 760741185338142700,
+        "id_str": "760741185338142720",
+        "text": "Делюсь шаблоном таблицы для персонального учета времени. Внутри — лист «Инструкция»\nhttps://t.co/Eu84B0kReu https://t.co/Drigtx5Ubf",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/Eu84B0kReu",
+              "expanded_url": "https://docs.google.com/spreadsheets/d/1-OPQXDinFzEK9Tlx_3g4seEEDaqzGjyoBvDfCBv3bqI/edit#gid=0",
+              "display_url": "docs.google.com/spreadsheets/d…",
+              "indices": [
+                84,
+                107
+              ]
+            },
+            {
+              "url": "https://t.co/Drigtx5Ubf",
+              "expanded_url": "https://twitter.com/MikhaylovS/status/760651842812452864",
+              "display_url": "twitter.com/MikhaylovS/sta…",
+              "indices": [
+                108,
+                131
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 718365702420328400,
+          "id_str": "718365702420328450"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": [
+          191560496
+        ],
+        "is_quote_status": true,
+        "quoted_status_id": 760651842812452900,
+        "quoted_status_id_str": "760651842812452864",
+        "retweet_count": 0,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
       "favorite_count": 0,
       "favorited": false,
       "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 07:39:52 +0000 2016",
+      "id": 760741961431220200,
+      "id_str": "760741961431220224",
+      "text": "Разработчики и QA используют https://t.co/NqEOxAFMAg. В настольном приложении видны все твои задачи, нажимаешь ▶. https://t.co/Q9mTIa6gn2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NqEOxAFMAg",
+            "expanded_url": "http://rmclient.org/",
+            "display_url": "rmclient.org",
+            "indices": [
+              29,
+              52
+            ]
+          },
+          {
+            "url": "https://t.co/Q9mTIa6gn2",
+            "expanded_url": "https://twitter.com/erlyvideo/status/760600303238537216",
+            "display_url": "twitter.com/erlyvideo/stat…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 760600303238537200,
+      "quoted_status_id_str": "760600303238537216",
+      "quoted_status": {
+        "created_at": "Tue Aug 02 22:16:58 +0000 2016",
+        "id": 760600303238537200,
+        "id_str": "760600303238537216",
+        "text": "@ceounderhood как вы трекаете в редмайне время разработчиков? Поделитесь пожалуйста опытом.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 760431738359193600,
+        "in_reply_to_status_id_str": "760431738359193600",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 98653653,
+          "id_str": "98653653"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 07:44:18 +0000 2016",
+      "id": 760743079548780500,
+      "id_str": "760743079548780544",
+      "text": "Люди должны быть разными, чтобы друг друга дополнять. https://t.co/60jJD3gZP1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/60jJD3gZP1",
+            "expanded_url": "https://twitter.com/loOoi/status/760565663341670400",
+            "display_url": "twitter.com/loOoi/status/7…",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 760565663341670400,
+      "quoted_status_id_str": "760565663341670400",
+      "quoted_status": {
+        "created_at": "Tue Aug 02 19:59:19 +0000 2016",
+        "id": 760565663341670400,
+        "id_str": "760565663341670400",
+        "text": "@ceounderhood так ты не ответил, какие параметры для сотрудников то?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 760425769369800700,
+        "in_reply_to_status_id_str": "760425769369800704",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 24960202,
+          "id_str": "24960202"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 07:44:57 +0000 2016",
+      "id": 760743241260077000,
+      "id_str": "760743241260077056",
+      "text": "@loOoi, если об управлении, то в разных этапах жизненного цикла компании нужны разные стили менеджеров. https://t.co/iedVsxHOtR",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "loOoi",
+            "name": "Arthur Arsyonov",
+            "id": 24960202,
+            "id_str": "24960202",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 760743139187519500,
+            "id_str": "760743139187519488",
+            "indices": [
+              104,
+              127
+            ],
+            "media_url": "http://pbs.twimg.com/media/Co6z2sCWcAA9g3N.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Co6z2sCWcAA9g3N.jpg",
+            "url": "https://t.co/iedVsxHOtR",
+            "display_url": "pic.twitter.com/iedVsxHOtR",
+            "expanded_url": "http://twitter.com/ceounderhood/status/760743241260077056/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 539,
+                "h": 283,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 539,
+                "h": 283,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 539,
+                "h": 283,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 760743139187519500,
+            "id_str": "760743139187519488",
+            "indices": [
+              104,
+              127
+            ],
+            "media_url": "http://pbs.twimg.com/media/Co6z2sCWcAA9g3N.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Co6z2sCWcAA9g3N.jpg",
+            "url": "https://t.co/iedVsxHOtR",
+            "display_url": "pic.twitter.com/iedVsxHOtR",
+            "expanded_url": "http://twitter.com/ceounderhood/status/760743241260077056/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 539,
+                "h": 283,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 539,
+                "h": 283,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 539,
+                "h": 283,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 760565663341670400,
+      "in_reply_to_status_id_str": "760565663341670400",
+      "in_reply_to_user_id": 24960202,
+      "in_reply_to_user_id_str": "24960202",
+      "in_reply_to_screen_name": "loOoi",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 07:46:21 +0000 2016",
+      "id": 760743593824976900,
+      "id_str": "760743593824976896",
+      "text": "Дизайнеры не ведут тайм шиты. За них отмечают время менеджеры, с которыми они работают. https://t.co/lDTwDO6mUY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lDTwDO6mUY",
+            "expanded_url": "https://twitter.com/gn0me/status/760557855883886592",
+            "display_url": "twitter.com/gn0me/status/7…",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 760557855883886600,
+      "quoted_status_id_str": "760557855883886592",
+      "quoted_status": {
+        "created_at": "Tue Aug 02 19:28:17 +0000 2016",
+        "id": 760557855883886600,
+        "id_str": "760557855883886592",
+        "text": "@ceounderhood расскажи, дизайнеры у вас ведут тайм шиты? Записывают сколько просидели на дрибббле и бихансе?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 9921452,
+          "id_str": "9921452"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "038247c1b5bb34c9",
+          "url": "https://api.twitter.com/1.1/geo/id/038247c1b5bb34c9.json",
+          "place_type": "city",
+          "name": "Greenwich",
+          "full_name": "Greenwich, London",
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -0.0335507,
+                  51.436221
+                ],
+                [
+                  0.06353,
+                  51.436221
+                ],
+                [
+                  0.06353,
+                  51.506788
+                ],
+                [
+                  -0.0335507,
+                  51.506788
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 07:46:55 +0000 2016",
+      "id": 760743736951337000,
+      "id_str": "760743736951336960",
+      "text": "@gn0me, а если вас уже 40, и хочется стать еще больше )?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gn0me",
+            "name": "gn0me",
+            "id": 9921452,
+            "id_str": "9921452",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 760557229317754900,
+      "in_reply_to_status_id_str": "760557229317754880",
+      "in_reply_to_user_id": 9921452,
+      "in_reply_to_user_id_str": "9921452",
+      "in_reply_to_screen_name": "gn0me",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 07:50:35 +0000 2016",
+      "id": 760744660117708800,
+      "id_str": "760744660117708800",
+      "text": "@SlmacH, @gn0me, \n1. Слишком одухотворенные парни. \n2. Они работают не в Redmine, нет нормального тайм-трекера.\n3. Проще руками менеджерам.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SlmacH",
+            "name": "Sergey Simanov",
+            "id": 66472725,
+            "id_str": "66472725",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "gn0me",
+            "name": "gn0me",
+            "id": 9921452,
+            "id_str": "9921452",
+            "indices": [
+              9,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 760744070775988200,
+      "in_reply_to_status_id_str": "760744070775988224",
+      "in_reply_to_user_id": 66472725,
+      "in_reply_to_user_id_str": "66472725",
+      "in_reply_to_screen_name": "SlmacH",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 07:51:13 +0000 2016",
+      "id": 760744817555112000,
+      "id_str": "760744817555111936",
+      "text": "Про что сегодня поговорим?\n1. Найм и развитие сотрудников\n2. Тренды IT\n3. Инструменты студии",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:30:29 +0000 2016",
+      "id": 760830200020074500,
+      "id_str": "760830200020074496",
+      "text": "Ok, про кадры. Мы находимся в Воронеже, рынок более узкий, чем в Москве. По сути, всех людей давно знаешь лично.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:31:36 +0000 2016",
+      "id": 760830477746004000,
+      "id_str": "760830477746003968",
+      "text": "Вопрос с разработчиками мы решаем тем, что начали работать с удаленными ребятами по всей стране. Мы оформляем их официально, фултайм. Все ok",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:33:01 +0000 2016",
+      "id": 760830836560293900,
+      "id_str": "760830836560293888",
+      "text": "Еще учим старшекурсников. Собираем 20 кандидатов, из них отбираем 2-5, и учим этих парней в офисе несколько месяцев. Далее по результатам.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:33:49 +0000 2016",
+      "id": 760831039040286700,
+      "id_str": "760831039040286720",
+      "text": "Начинали мы с того, что я 3,5 года работал преподавателем в вузе. У нас получилось так собрать очень сильную и мотивированную команду.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:34:38 +0000 2016",
+      "id": 760831241356775400,
+      "id_str": "760831241356775424",
+      "text": "Как удерживаете разработчиков? Есть ли в вашей компании система уровней и т.п.?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:35:21 +0000 2016",
+      "id": 760831421107896300,
+      "id_str": "760831421107896320",
+      "text": "С менеджерами несколько сложнее. Удаленных не практикуем, а найти в городе крайне сложно. Осенью попробуем провести практику и учить.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:36:16 +0000 2016",
+      "id": 760831652935467000,
+      "id_str": "760831652935467008",
+      "text": "Сибирикс рассказывает о своем опыте: https://t.co/sk4r5FjODc. По-моему, не самый позитивный результат.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sk4r5FjODc",
+            "expanded_url": "http://blog.sibirix.ru/2016/08/02/pm-interns/",
+            "display_url": "blog.sibirix.ru/2016/08/02/pm-…",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:36:47 +0000 2016",
+      "id": 760831785618042900,
+      "id_str": "760831785618042880",
+      "text": "@GraySergey, а что означает не отторгаемый продукт? https://t.co/NeCs9ZDvMz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GraySergey",
+            "name": "Sergey Konischev",
+            "id": 49032919,
+            "id_str": "49032919",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/NeCs9ZDvMz",
+            "expanded_url": "https://twitter.com/GraySergey/status/760831590398304256",
+            "display_url": "twitter.com/GraySergey/sta…",
+            "indices": [
+              52,
+              75
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 49032919,
+      "in_reply_to_user_id_str": "49032919",
+      "in_reply_to_screen_name": "GraySergey",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 760831590398304300,
+      "quoted_status_id_str": "760831590398304256",
+      "quoted_status": {
+        "created_at": "Wed Aug 03 13:36:01 +0000 2016",
+        "id": 760831590398304300,
+        "id_str": "760831590398304256",
+        "text": "@ceounderhood на сфере ответсвенности, когда продукт не отторгаемый, а остается в ответственности тех, кто его написал.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 760831241356775400,
+        "in_reply_to_status_id_str": "760831241356775424",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 49032919,
+          "id_str": "49032919"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:37:24 +0000 2016",
+      "id": 760831938756284400,
+      "id_str": "760831938756284416",
+      "text": "Был ли у вас опыт выращивания менеджеров?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:38:21 +0000 2016",
+      "id": 760832176082518000,
+      "id_str": "760832176082518016",
+      "text": "Около 2 месяцев: теоретическая часть и практика + опытный наставник. Есть внутренний образовательный курс. https://t.co/OKwNy9omLh",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OKwNy9omLh",
+            "expanded_url": "https://twitter.com/vovudebosh/status/760831960793088000",
+            "display_url": "twitter.com/vovudebosh/sta…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 760831960793088000,
+      "quoted_status_id_str": "760831960793088000",
+      "quoted_status": {
+        "created_at": "Wed Aug 03 13:37:29 +0000 2016",
+        "id": 760831960793088000,
+        "id_str": "760831960793088000",
+        "text": "@ceounderhood как построен процесс обучения? сколько длится стажировка?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 760830836560293900,
+        "in_reply_to_status_id_str": "760830836560293888",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 216727918,
+          "id_str": "216727918"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:39:26 +0000 2016",
+      "id": 760832451124027400,
+      "id_str": "760832451124027392",
+      "text": "Еще сложнее с продукт-менеджерами. Т.к. хотим отделить отдел проектирования от производства, нужны ярко-выраженные прОдукты.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:40:06 +0000 2016",
+      "id": 760832617436549100,
+      "id_str": "760832617436549121",
+      "text": "Как вырастить продукт-менеджера? Вообще бывают ли продукт-менеджеры? Или это фантастика?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:40:33 +0000 2016",
+      "id": 760832732792520700,
+      "id_str": "760832732792520704",
+      "text": "Наставники совмещают со своей работой. Это не занимает более часа в день. https://t.co/pO9po54zly",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pO9po54zly",
+            "expanded_url": "https://twitter.com/vovudebosh/status/760832565146247168",
+            "display_url": "twitter.com/vovudebosh/sta…",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 760832565146247200,
+      "quoted_status_id_str": "760832565146247168",
+      "quoted_status": {
+        "created_at": "Wed Aug 03 13:39:53 +0000 2016",
+        "id": 760832565146247200,
+        "id_str": "760832565146247168",
+        "text": "@ceounderhood наставники занимаются обучением фултайм или совмещают с основными обязанностями?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 760832176082518000,
+        "in_reply_to_status_id_str": "760832176082518016",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 216727918,
+          "id_str": "216727918"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:41:38 +0000 2016",
+      "id": 760833005254504400,
+      "id_str": "760833005254504448",
+      "text": "Как-то коллеги по цеху сказали, что прОдуктов не бывает, а нужно делать продуктовые комитеты: PM, дизайнер, lead. Что думаете?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:42:21 +0000 2016",
+      "id": 760833183441162200,
+      "id_str": "760833183441162240",
+      "text": "RT @GraySergey: @ceounderhood это из трудов Маркса про отчуждение: https://t.co/dQFC7DANpA\n\nПрограммисты связывают и ассоциируют себя с зап…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GraySergey",
+            "name": "Sergey Konischev",
+            "id": 49032919,
+            "id_str": "49032919",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              16,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dQFC7DANpA",
+            "expanded_url": "https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D1%87%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_(%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F)",
+            "display_url": "ru.wikipedia.org/wiki/%D0%9E%D1…",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "retweeted_status": {
+        "created_at": "Wed Aug 03 13:42:05 +0000 2016",
+        "id": 760833115665338400,
+        "id_str": "760833115665338368",
+        "text": "@ceounderhood это из трудов Маркса про отчуждение: https://t.co/dQFC7DANpA\n\nПрограммисты связывают и ассоциируют себя с запущенным продуктом",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/dQFC7DANpA",
+              "expanded_url": "https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D1%87%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_(%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F)",
+              "display_url": "ru.wikipedia.org/wiki/%D0%9E%D1…",
+              "indices": [
+                51,
+                74
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 760831785618042900,
+        "in_reply_to_status_id_str": "760831785618042880",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 49032919,
+          "id_str": "49032919"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:47:16 +0000 2016",
+      "id": 760834422161678300,
+      "id_str": "760834422161678336",
+      "text": "К сожалению, чаще всего это так. Но давно ощущаю потребность делегировать эту функцию. https://t.co/jv3HTy0gkq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jv3HTy0gkq",
+            "expanded_url": "https://twitter.com/GraySergey/status/760833825924587520",
+            "display_url": "twitter.com/GraySergey/sta…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 760833825924587500,
+      "quoted_status_id_str": "760833825924587520",
+      "quoted_status": {
+        "created_at": "Wed Aug 03 13:44:54 +0000 2016",
+        "id": 760833825924587500,
+        "id_str": "760833825924587520",
+        "text": "@ceounderhood я думаю для НЕ гигантских IT компаний продукт-менеджер это владелец бизнеса, остальные в компании транслируют его виденье",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 760832617436549100,
+        "in_reply_to_status_id_str": "760832617436549121",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 49032919,
+          "id_str": "49032919"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:49:08 +0000 2016",
+      "id": 760834893546975200,
+      "id_str": "760834893546975232",
+      "text": "Объявления в ВУЗе, в соцсетях в пабликах факультетов, в своей группе в VK. Обычно 20 человек находим. https://t.co/tyHDSkGQjm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tyHDSkGQjm",
+            "expanded_url": "https://twitter.com/GraySergey/status/760834330012815361",
+            "display_url": "twitter.com/GraySergey/sta…",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 760834330012815400,
+      "quoted_status_id_str": "760834330012815361",
+      "quoted_status": {
+        "created_at": "Wed Aug 03 13:46:54 +0000 2016",
+        "id": 760834330012815400,
+        "id_str": "760834330012815361",
+        "text": "@ceounderhood а на студентов как выходите как кандидатов? Через вуз, преподов или через объявления?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 760830200020074500,
+        "in_reply_to_status_id_str": "760830200020074496",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 49032919,
+          "id_str": "49032919"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:50:19 +0000 2016",
+      "id": 760835188859560000,
+      "id_str": "760835188859559936",
+      "text": "Пока &lt;20%. https://t.co/IGvBQDmKJX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IGvBQDmKJX",
+            "expanded_url": "https://twitter.com/5an/status/760834938400870400",
+            "display_url": "twitter.com/5an/status/760…",
+            "indices": [
+              14,
+              37
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 760834938400870400,
+      "quoted_status_id_str": "760834938400870400",
+      "quoted_status": {
+        "created_at": "Wed Aug 03 13:49:19 +0000 2016",
+        "id": 760834938400870400,
+        "id_str": "760834938400870400",
+        "text": "@ceounderhood сколько % работает удалённо?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 760830477746004000,
+        "in_reply_to_status_id_str": "760830477746003968",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 9398162,
+          "id_str": "9398162"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:52:34 +0000 2016",
+      "id": 760835755321225200,
+      "id_str": "760835755321225216",
+      "text": "Нижеупомянутый https://t.co/NqEOxAFMAg. Но мы не сильно запариваемся, все сознательные люди. https://t.co/cxLKPlDmaj",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NqEOxAFMAg",
+            "expanded_url": "http://rmclient.org/",
+            "display_url": "rmclient.org",
+            "indices": [
+              15,
+              38
+            ]
+          },
+          {
+            "url": "https://t.co/cxLKPlDmaj",
+            "expanded_url": "https://twitter.com/vovudebosh/status/760835447950041088",
+            "display_url": "twitter.com/vovudebosh/sta…",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 760835447950041100,
+      "quoted_status_id_str": "760835447950041088",
+      "quoted_status": {
+        "created_at": "Wed Aug 03 13:51:21 +0000 2016",
+        "id": 760835447950041100,
+        "id_str": "760835447950041088",
+        "text": "@ceounderhood какими инструментами пользуетесь для трекинга рабочего времени удаленных сотрудников?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 760835188859560000,
+        "in_reply_to_status_id_str": "760835188859559936",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 216727918,
+          "id_str": "216727918"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:53:23 +0000 2016",
+      "id": 760835962117169200,
+      "id_str": "760835962117169152",
+      "text": "Для ведения базы кандидатов недавно наткнулись на https://t.co/MuHu3rk6NF. Уверены, что это лучший подобный продукт.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MuHu3rk6NF",
+            "expanded_url": "https://huntflow.ru/",
+            "display_url": "huntflow.ru",
+            "indices": [
+              50,
+              73
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:54:36 +0000 2016",
+      "id": 760836266946617300,
+      "id_str": "760836266946617344",
+      "text": "Skype никуда не годится.\nЧто посоветуете взамен для аудио/видео конференций? Хочу запись в облако. В идеале, звонки на телефон.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Aug 03 13:57:41 +0000 2016",
+      "id": 760837045304619000,
+      "id_str": "760837045304619008",
+      "text": "Платите за Slack? \nМеня жаба душит $8*40=$320/мес. за болталку. А хранение истории переписки — обязательно. https://t.co/PxxjLu93VP",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PxxjLu93VP",
+            "expanded_url": "https://twitter.com/vovudebosh/status/760836634225045504",
+            "display_url": "twitter.com/vovudebosh/sta…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        191560496
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 760836634225045500,
+      "quoted_status_id_str": "760836634225045504",
+      "quoted_status": {
+        "created_at": "Wed Aug 03 13:56:03 +0000 2016",
+        "id": 760836634225045500,
+        "id_str": "760836634225045504",
+        "text": "@ceounderhood перешли на Slack, как только там появились конф-коллы, кайфуем. Для телефонных звонков пробовали разные виртуальные АТС",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 760836266946617300,
+        "in_reply_to_status_id_str": "760836266946617344",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 216727918,
+          "id_str": "216727918"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
       "lang": "ru"
     }
   ]
