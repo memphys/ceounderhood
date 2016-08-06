@@ -295,8 +295,8 @@ tr {
 }
 
 .author-image {
-  width: 64px;
-  height: 64px;
+  width: 96px;
+  height: 96px;
   float: left;
   margin: 0.5em 1em 0px auto;
   background-size: cover;
