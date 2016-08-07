@@ -9968,6 +9968,236 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 06 15:45:43 +0000 2016",
+      "id": 761951395834630100,
+      "id_str": "761951395834630144",
+      "text": "@ceounderhood гуляю с женой и друзьями в парке",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 761799482690277400,
+      "in_reply_to_status_id_str": "761799482690277376",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 9398162,
+        "id_str": "9398162"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 07 09:08:57 +0000 2016",
+      "id": 762213930777346000,
+      "id_str": "762213930777346048",
+      "text": "@ceounderhood выгоднее варить мет",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 762197780634927100,
+      "in_reply_to_status_id_str": "762197780634927104",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 3763031175,
+        "id_str": "3763031175"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 07 10:40:30 +0000 2016",
+      "id": 762236973591429100,
+      "id_str": "762236973591429120",
+      "text": "@ceounderhood клиенту важна финальная цифра, но меньшая ставка дается ему имхо психологически проще",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 762197780634927100,
+      "in_reply_to_status_id_str": "762197780634927104",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 9291782,
+        "id_str": "9291782"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 07 13:03:21 +0000 2016",
+      "id": 762272920844599300,
+      "id_str": "762272920844599296",
+      "text": "@ceounderhood а чо не наоборот, \"приближать, раскрывая\"?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 762272346304503800,
+      "in_reply_to_status_id_str": "762272346304503809",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 97734647,
+        "id_str": "97734647"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 07 13:09:04 +0000 2016",
+      "id": 762274358488367100,
+      "id_str": "762274358488367104",
+      "text": "@meowthsli @ceounderhood потому что компания специализируется именно на технологиях, но а люди в будущем - побочный эффект)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "meowthsli",
+            "name": "Беспощадный Митя",
+            "id": 97734647,
+            "id_str": "97734647",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              11,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 762272920844599300,
+      "in_reply_to_status_id_str": "762272920844599296",
+      "in_reply_to_user_id": 97734647,
+      "in_reply_to_user_id_str": "97734647",
+      "in_reply_to_screen_name": "meowthsli",
+      "user": {
+        "id": 1033011720,
+        "id_str": "1033011720"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
