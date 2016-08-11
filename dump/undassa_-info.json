@@ -37,35 +37,55 @@
     }
   },
   "protected": false,
-  "followers_count": 409,
+  "followers_count": 416,
   "friends_count": 0,
-  "listed_count": 9,
+  "listed_count": 10,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
   "favourites_count": 84,
   "utc_offset": 10800,
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 1053,
+  "statuses_count": 1085,
   "lang": "en",
   "status": {
-    "created_at": "Tue Aug 09 08:03:57 +0000 2016",
-    "id": 762922349599547400,
-    "id_str": "762922349599547392",
-    "text": "Всем привет и хорошего дня! Наткнулся на днях на заметку: https://t.co/gxM3WFubBE . Что думаете? Плоская структура организации наше будущее?",
+    "created_at": "Wed Aug 10 20:19:14 +0000 2016",
+    "id": 763469778421948400,
+    "id_str": "763469778421948416",
+    "text": "Этому обучали во ФРИИ, и вот хорошая статья от ребят, которые тоже там были:\nhttps://t.co/e3hl6JQszK\n@iam_aishek\n https://t.co/AMxOtNMT01",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "iam_aishek",
+          "name": "Alexandr Borisov",
+          "id": 85138393,
+          "id_str": "85138393",
+          "indices": [
+            101,
+            112
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/gxM3WFubBE",
-          "expanded_url": "http://rusbase.com/opinion/biryuza/",
-          "display_url": "rusbase.com/opinion/biryuz…",
+          "url": "https://t.co/e3hl6JQszK",
+          "expanded_url": "https://vc.ru/p/hadi-growth",
+          "display_url": "vc.ru/p/hadi-growth",
           "indices": [
-            58,
-            81
+            77,
+            100
+          ]
+        },
+        {
+          "url": "https://t.co/AMxOtNMT01",
+          "expanded_url": "https://twitter.com/iam_aishek/status/763445118070317064",
+          "display_url": "twitter.com/iam_aishek/sta…",
+          "indices": [
+            114,
+            137
           ]
         }
       ]
@@ -82,9 +102,11 @@
     "contributors": [
       2444039534
     ],
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 763445118070317000,
+    "quoted_status_id_str": "763445118070317064",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
