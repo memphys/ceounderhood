@@ -2883,6 +2883,1518 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 13 07:26:14 +0000 2016",
+      "id": 764362409721094100,
+      "id_str": "764362409721094144",
+      "text": "Привет. Прошу прощения, вчера был форс мажор. Но сегодня я доступен..",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        2444039534
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 13 07:27:55 +0000 2016",
+      "id": 764362833727479800,
+      "id_str": "764362833727479808",
+      "text": "Мы нашли через инвесторов. Дали задачи интересные + перспективы. Это к вопросу о том что надо работать с партнёрами https://t.co/SbLJpFCEpL",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/SbLJpFCEpL",
+            "expanded_url": "https://twitter.com/ShapovalovTS/status/763799162374807552",
+            "display_url": "twitter.com/ShapovalovTS/s…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        2444039534
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 763799162374807600,
+      "quoted_status_id_str": "763799162374807552",
+      "quoted_status": {
+        "created_at": "Thu Aug 11 18:08:05 +0000 2016",
+        "id": 763799162374807600,
+        "id_str": "763799162374807552",
+        "text": "@ceounderhood Как вы искали? Как убедили на вас работать?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 763796019733786600,
+        "in_reply_to_status_id_str": "763796019733786624",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 86214115,
+          "id_str": "86214115"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 13 07:29:22 +0000 2016",
+      "id": 764363200494207000,
+      "id_str": "764363200494206977",
+      "text": "Так же - умение мотивировать и вызывать интерес к проекту - одно из самых необходимых качеств CEO https://t.co/SbLJpFCEpL",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/SbLJpFCEpL",
+            "expanded_url": "https://twitter.com/ShapovalovTS/status/763799162374807552",
+            "display_url": "twitter.com/ShapovalovTS/s…",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        2444039534
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 763799162374807600,
+      "quoted_status_id_str": "763799162374807552",
+      "quoted_status": {
+        "created_at": "Thu Aug 11 18:08:05 +0000 2016",
+        "id": 763799162374807600,
+        "id_str": "763799162374807552",
+        "text": "@ceounderhood Как вы искали? Как убедили на вас работать?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 763796019733786600,
+        "in_reply_to_status_id_str": "763796019733786624",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 86214115,
+          "id_str": "86214115"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 13 07:36:12 +0000 2016",
+      "id": 764364918904787000,
+      "id_str": "764364918904786944",
+      "text": "Кто знает - что это такое? https://t.co/9lqUokBEtB",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764364915415064600,
+            "id_str": "764364915415064576",
+            "indices": [
+              27,
+              50
+            ],
+            "media_url": "http://pbs.twimg.com/media/CpuR1z4WIAAFALe.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CpuR1z4WIAAFALe.jpg",
+            "url": "https://t.co/9lqUokBEtB",
+            "display_url": "pic.twitter.com/9lqUokBEtB",
+            "expanded_url": "http://twitter.com/ceounderhood/status/764364918904786944/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 964,
+                "h": 1364,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 848,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 481,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764364915415064600,
+            "id_str": "764364915415064576",
+            "indices": [
+              27,
+              50
+            ],
+            "media_url": "http://pbs.twimg.com/media/CpuR1z4WIAAFALe.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CpuR1z4WIAAFALe.jpg",
+            "url": "https://t.co/9lqUokBEtB",
+            "display_url": "pic.twitter.com/9lqUokBEtB",
+            "expanded_url": "http://twitter.com/ceounderhood/status/764364918904786944/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 964,
+                "h": 1364,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 848,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 481,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        2444039534
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 13 07:39:57 +0000 2016",
+      "id": 764365861058666500,
+      "id_str": "764365861058666496",
+      "text": "Бинго!\nСамый популярный продукт самого популярного промдизайнера Philippe Starck - https://t.co/tDUyaVNuij https://t.co/Qr4V9KKy97",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tDUyaVNuij",
+            "expanded_url": "http://www.starck.com/en",
+            "display_url": "starck.com/en",
+            "indices": [
+              83,
+              106
+            ]
+          },
+          {
+            "url": "https://t.co/Qr4V9KKy97",
+            "expanded_url": "https://twitter.com/nd_gndn/status/764365212556337152",
+            "display_url": "twitter.com/nd_gndn/status…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        2444039534
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 764365212556337200,
+      "quoted_status_id_str": "764365212556337152",
+      "quoted_status": {
+        "created_at": "Sat Aug 13 07:37:22 +0000 2016",
+        "id": 764365212556337200,
+        "id_str": "764365212556337152",
+        "text": "@ceounderhood соковыжималка?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": 764364918904787000,
+        "in_reply_to_status_id_str": "764364918904786944",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 249060959,
+          "id_str": "249060959"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 13 07:41:45 +0000 2016",
+      "id": 764366313871511600,
+      "id_str": "764366313871511552",
+      "text": "Вчера выдалась редкая возможность остаться наедине самим с собой. 400км дороги от города Казань до Нижнего Новгорода. Послезавтра - Москва.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        2444039534
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 13 07:42:24 +0000 2016",
+      "id": 764366479089369100,
+      "id_str": "764366479089369088",
+      "text": "А как вы скрашиваете время за рулём в длительных поездках?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        2444039534
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 13 07:52:15 +0000 2016",
+      "id": 764368957658820600,
+      "id_str": "764368957658820608",
+      "text": "Это здорово! Единственное, как у вас получается выкраивать время для саморазвития? Чем жертвовать?\n https://t.co/28JrjtfSYI",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/28JrjtfSYI",
+            "expanded_url": "https://twitter.com/naikomikhail/status/764366842429333504",
+            "display_url": "twitter.com/naikomikhail/s…",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        2444039534
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 764366842429333500,
+      "quoted_status_id_str": "764366842429333504",
+      "quoted_status": {
+        "created_at": "Sat Aug 13 07:43:51 +0000 2016",
+        "id": 764366842429333500,
+        "id_str": "764366842429333504",
+        "text": "@ceounderhood слишком легко ))",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 764364918904787000,
+        "in_reply_to_status_id_str": "764364918904786944",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 125436818,
+          "id_str": "125436818"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 13 08:23:50 +0000 2016",
+      "id": 764376906787647500,
+      "id_str": "764376906787647489",
+      "text": "Ну а если на работу за рулём? https://t.co/yGUazF9d8q",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yGUazF9d8q",
+            "expanded_url": "https://twitter.com/naikomikhail/status/764373450588839936",
+            "display_url": "twitter.com/naikomikhail/s…",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 764373450588840000,
+      "quoted_status_id_str": "764373450588839936",
+      "quoted_status": {
+        "created_at": "Sat Aug 13 08:10:06 +0000 2016",
+        "id": 764373450588840000,
+        "id_str": "764373450588839936",
+        "text": "@ceounderhood тоже времени нет особо, читаю в дороге на работу и перед сном немного + англ учу с репетитором, больше ни на что времени нет",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 764368957658820600,
+        "in_reply_to_status_id_str": "764368957658820608",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 125436818,
+          "id_str": "125436818"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 13 08:24:24 +0000 2016",
+      "id": 764377048139829200,
+      "id_str": "764377048139829248",
+      "text": "А давайте составим список интересных подкастов? А то у меня сугубо технические :( https://t.co/fKlXE0EJND",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fKlXE0EJND",
+            "expanded_url": "https://twitter.com/pilot34/status/764375780369588224",
+            "display_url": "twitter.com/pilot34/status…",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 764375780369588200,
+      "quoted_status_id_str": "764375780369588224",
+      "quoted_status": {
+        "created_at": "Sat Aug 13 08:19:22 +0000 2016",
+        "id": 764375780369588200,
+        "id_str": "764375780369588224",
+        "text": "@ceounderhood подкасты и передачи с Эха",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": 764366479089369100,
+        "in_reply_to_status_id_str": "764366479089369088",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 9291782,
+          "id_str": "9291782"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 13 08:49:02 +0000 2016",
+      "id": 764383246272569300,
+      "id_str": "764383246272569344",
+      "text": "Ну я думаю и развлекательного и полезного ) https://t.co/i0i49tuzwP",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/i0i49tuzwP",
+            "expanded_url": "https://twitter.com/babkintolya/status/764380001609379840",
+            "display_url": "twitter.com/babkintolya/st…",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 764380001609379800,
+      "quoted_status_id_str": "764380001609379840",
+      "quoted_status": {
+        "created_at": "Sat Aug 13 08:36:08 +0000 2016",
+        "id": 764380001609379800,
+        "id_str": "764380001609379840",
+        "text": "@ceounderhood @nd_gndn Самого популярного? Лоуи в шоке:)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "nd_gndn",
+              "name": "Andrey Golovin",
+              "id": 249060959,
+              "id_str": "249060959",
+              "indices": [
+                14,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": 764365861058666500,
+        "in_reply_to_status_id_str": "764365861058666496",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 617430899,
+          "id_str": "617430899"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 13 08:52:06 +0000 2016",
+      "id": 764384017659592700,
+      "id_str": "764384017659592704",
+      "text": "Интересная версия - правда надо понять как именно этим воспользоваться для этой цели ) https://t.co/9XN7iOjw3s",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9XN7iOjw3s",
+            "expanded_url": "https://twitter.com/kira_gandhi/status/764365291249950720",
+            "display_url": "twitter.com/kira_gandhi/st…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 764365291249950700,
+      "quoted_status_id_str": "764365291249950720",
+      "quoted_status": {
+        "created_at": "Sat Aug 13 07:37:41 +0000 2016",
+        "id": 764365291249950700,
+        "id_str": "764365291249950720",
+        "text": "Пробка для алкоголя, тадаааам https://t.co/UQ44KIXbzV",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/UQ44KIXbzV",
+              "expanded_url": "https://twitter.com/ceounderhood/status/764364918904786944",
+              "display_url": "twitter.com/ceounderhood/s…",
+              "indices": [
+                30,
+                53
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 262232658,
+          "id_str": "262232658"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 764364918904787000,
+        "quoted_status_id_str": "764364918904786944",
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "uk"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 13 10:02:24 +0000 2016",
+      "id": 764401711805005800,
+      "id_str": "764401711805005824",
+      "text": "Ну на следующей неделе я хотя бы буду дома в СПб а не кататься по России )) Так что я не против https://t.co/hWOfFzyKC7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hWOfFzyKC7",
+            "expanded_url": "https://twitter.com/arturdubro/status/764392276697214976",
+            "display_url": "twitter.com/arturdubro/sta…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 764392276697215000,
+      "quoted_status_id_str": "764392276697214976",
+      "quoted_status": {
+        "created_at": "Sat Aug 13 09:24:55 +0000 2016",
+        "id": 764392276697215000,
+        "id_str": "764392276697214976",
+        "text": "@memphys @ceounderhood можно текущего просто оставить, если он может.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "memphys",
+              "name": "Roma Lapin",
+              "id": 17266543,
+              "id_str": "17266543",
+              "indices": [
+                0,
+                8
+              ]
+            },
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                9,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 764141308579577900,
+        "in_reply_to_status_id_str": "764141308579577856",
+        "in_reply_to_user_id": 17266543,
+        "in_reply_to_user_id_str": "17266543",
+        "in_reply_to_screen_name": "memphys",
+        "user": {
+          "id": 14465598,
+          "id_str": "14465598"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 13 10:02:49 +0000 2016",
+      "id": 764401817061093400,
+      "id_str": "764401817061093376",
+      "text": "Ну а почему бы и нет) очень даже похоже ) https://t.co/gC5ZSlAFxo",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gC5ZSlAFxo",
+            "expanded_url": "https://twitter.com/paveldemyanenko/status/764401206965985280",
+            "display_url": "twitter.com/paveldemyanenk…",
+            "indices": [
+              42,
+              65
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 764401206965985300,
+      "quoted_status_id_str": "764401206965985280",
+      "quoted_status": {
+        "created_at": "Sat Aug 13 10:00:24 +0000 2016",
+        "id": 764401206965985300,
+        "id_str": "764401206965985280",
+        "text": "@ceounderhood это космический корабль из людей в чёрном",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 764364918904787000,
+        "in_reply_to_status_id_str": "764364918904786944",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 331108707,
+          "id_str": "331108707"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "a76c0cd7d56c4836",
+          "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+          "place_type": "city",
+          "name": "Saint Petersburg",
+          "full_name": "Saint Petersburg, Russia",
+          "country_code": "RU",
+          "country": "Russia",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  30.0896894,
+                  59.7761714
+                ],
+                [
+                  30.5677067,
+                  59.7761714
+                ],
+                [
+                  30.5677067,
+                  60.0921253
+                ],
+                [
+                  30.0896894,
+                  60.0921253
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 13 10:03:42 +0000 2016",
+      "id": 764402037304004600,
+      "id_str": "764402037304004608",
+      "text": "Ну она же не плотно будет заходить ) ещё варианты? https://t.co/YOeuXMmm7y",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YOeuXMmm7y",
+            "expanded_url": "https://twitter.com/arturdubro/status/764393722402443264",
+            "display_url": "twitter.com/arturdubro/sta…",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 764393722402443300,
+      "quoted_status_id_str": "764393722402443264",
+      "quoted_status": {
+        "created_at": "Sat Aug 13 09:30:39 +0000 2016",
+        "id": 764393722402443300,
+        "id_str": "764393722402443264",
+        "text": "@ceounderhood @kira_gandhi просто сверху поставить на открытую бутылку)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "kira_gandhi",
+              "name": "Indira's daughter",
+              "id": 262232658,
+              "id_str": "262232658",
+              "indices": [
+                14,
+                26
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 764384017659592700,
+        "in_reply_to_status_id_str": "764384017659592704",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 14465598,
+          "id_str": "14465598"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 13 10:12:25 +0000 2016",
+      "id": 764404230874693600,
+      "id_str": "764404230874693633",
+      "text": "Давайте давайте накидывайте подкастов, мне ещё 1200км ехать 😏",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 13 10:57:52 +0000 2016",
+      "id": 764415667927932900,
+      "id_str": "764415667927932928",
+      "text": "RT @BabkinTolya: @ceounderhood 1. Чесалка для головы",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BabkinTolya",
+            "name": "Anatoliy Babkin",
+            "id": 617430899,
+            "id_str": "617430899",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              17,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat Aug 13 10:27:59 +0000 2016",
+        "id": 764408149487022100,
+        "id_str": "764408149487022080",
+        "text": "@ceounderhood 1. Чесалка для головы",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": 764364918904787000,
+        "in_reply_to_status_id_str": "764364918904786944",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 617430899,
+          "id_str": "617430899"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 13 10:58:00 +0000 2016",
+      "id": 764415702052773900,
+      "id_str": "764415702052773888",
+      "text": "Для очень маленькой головы )) https://t.co/lpOdwPULkG",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lpOdwPULkG",
+            "expanded_url": "https://twitter.com/babkintolya/status/764408149487022080",
+            "display_url": "twitter.com/babkintolya/st…",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 764408149487022100,
+      "quoted_status_id_str": "764408149487022080",
+      "quoted_status": {
+        "created_at": "Sat Aug 13 10:27:59 +0000 2016",
+        "id": 764408149487022100,
+        "id_str": "764408149487022080",
+        "text": "@ceounderhood 1. Чесалка для головы",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": 764364918904787000,
+        "in_reply_to_status_id_str": "764364918904786944",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 617430899,
+          "id_str": "617430899"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
