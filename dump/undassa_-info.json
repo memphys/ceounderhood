@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 418,
+  "followers_count": 420,
   "friends_count": 0,
   "listed_count": 10,
   "created_at": "Fri Apr 08 09:11:44 +0000 2016",
@@ -46,26 +46,37 @@
   "time_zone": "Volgograd",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 1115,
+  "statuses_count": 1120,
   "lang": "en",
   "status": {
-    "created_at": "Sat Aug 13 18:55:58 +0000 2016",
-    "id": 764535988333019100,
-    "id_str": "764535988333019136",
-    "text": "Я 8 лет работал серверным разработчиком и не могу сказать что это не правда)) что-то в этом есть ) https://t.co/KeGbQ0ktiJ",
+    "created_at": "Sun Aug 14 20:05:37 +0000 2016",
+    "id": 764915901904846800,
+    "id_str": "764915901904846848",
+    "text": "Я всегда доступен в FB:\nhttps://t.co/DGy1qlBYIp и TW @undassa_ . Давайте дружить. Завтра в МСК, а так я в СПб) Буду рад встречам. Успехов!:)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "undassa_",
+          "name": "Alexander Kaloshin",
+          "id": 114707992,
+          "id_str": "114707992",
+          "indices": [
+            53,
+            62
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/KeGbQ0ktiJ",
-          "expanded_url": "https://twitter.com/gaserd123/status/764493548452478977",
-          "display_url": "twitter.com/gaserd123/stat…",
+          "url": "https://t.co/DGy1qlBYIp",
+          "expanded_url": "https://www.facebook.com/alexander.kaloshin",
+          "display_url": "facebook.com/alexander.kalo…",
           "indices": [
-            99,
-            122
+            24,
+            47
           ]
         }
       ]
@@ -82,11 +93,9 @@
     "contributors": [
       2444039534
     ],
-    "is_quote_status": true,
-    "quoted_status_id": 764493548452479000,
-    "quoted_status_id_str": "764493548452478977",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
