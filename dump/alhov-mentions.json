@@ -1,0 +1,459 @@
+{
+  "mentions": [
+    {
+      "created_at": "Mon Aug 15 18:17:24 +0000 2016",
+      "id": 765251058876682200,
+      "id_str": "765251058876682240",
+      "text": "@ceounderhood @alhov @courseburg_ru @villagemsk привет дорогой :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "alhov",
+            "name": "Alhov Alexander",
+            "id": 138320638,
+            "id_str": "138320638",
+            "indices": [
+              14,
+              20
+            ]
+          },
+          {
+            "screen_name": "courseburg_ru",
+            "name": "Courseburg_ru",
+            "id": 719496791352324100,
+            "id_str": "719496791352324097",
+            "indices": [
+              21,
+              35
+            ]
+          },
+          {
+            "screen_name": "villagemsk",
+            "name": "The Village",
+            "id": 124433969,
+            "id_str": "124433969",
+            "indices": [
+              36,
+              47
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 765250858619666400,
+      "in_reply_to_status_id_str": "765250858619666432",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 113131428,
+        "id_str": "113131428"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "544762ebf7fda780",
+        "url": "https://api.twitter.com/1.1/geo/id/544762ebf7fda780.json",
+        "place_type": "city",
+        "name": "Islington",
+        "full_name": "Islington, London",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -0.1420579,
+                51.5185518
+              ],
+              [
+                -0.076305,
+                51.5185518
+              ],
+              [
+                -0.076305,
+                51.575301
+              ],
+              [
+                -0.1420579,
+                51.575301
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 18:27:16 +0000 2016",
+      "id": 765253540784857100,
+      "id_str": "765253540784857088",
+      "text": "@ceounderhood @alhov @courseburg_ru и первый же вопрос: вы просто даёте знания ака провайдер или планируете как-то изменять образование?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "alhov",
+            "name": "Alhov Alexander",
+            "id": 138320638,
+            "id_str": "138320638",
+            "indices": [
+              14,
+              20
+            ]
+          },
+          {
+            "screen_name": "courseburg_ru",
+            "name": "Courseburg_ru",
+            "id": 719496791352324100,
+            "id_str": "719496791352324097",
+            "indices": [
+              21,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 765250858619666400,
+      "in_reply_to_status_id_str": "765250858619666432",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 14465598,
+        "id_str": "14465598"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 18:36:16 +0000 2016",
+      "id": 765255806468124700,
+      "id_str": "765255806468124672",
+      "text": "@ceounderhood @alhov @courseburg_ru это в принципе интересная дискуссия о том как и что надо преподавать людям. Рассказывайте, что можете)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "alhov",
+            "name": "Alhov Alexander",
+            "id": 138320638,
+            "id_str": "138320638",
+            "indices": [
+              14,
+              20
+            ]
+          },
+          {
+            "screen_name": "courseburg_ru",
+            "name": "Courseburg_ru",
+            "id": 719496791352324100,
+            "id_str": "719496791352324097",
+            "indices": [
+              21,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 765254633472290800,
+      "in_reply_to_status_id_str": "765254633472290817",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 14465598,
+        "id_str": "14465598"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 18:43:20 +0000 2016",
+      "id": 765257583376658400,
+      "id_str": "765257583376658432",
+      "text": "@ceounderhood то есть у вас есть некий ценз?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 765256725721149400,
+      "in_reply_to_status_id_str": "765256725721149440",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 14465598,
+        "id_str": "14465598"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 18:44:09 +0000 2016",
+      "id": 765257788910080000,
+      "id_str": "765257788910080000",
+      "text": "@ceounderhood есть некая статистика? Она как-то соотносится с портретом аудитории и вашего ассортимента?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 765257185001631700,
+      "in_reply_to_status_id_str": "765257185001631744",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 14465598,
+        "id_str": "14465598"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 19:03:57 +0000 2016",
+      "id": 765262774448652300,
+      "id_str": "765262774448652288",
+      "text": "@ceounderhood отвечай плиз цитатой, чтобы было понятно, на что ответ :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765260918364205000,
+      "in_reply_to_status_id_str": "765260918364205056",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 9291782,
+        "id_str": "9291782"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 19:06:07 +0000 2016",
+      "id": 765263319557083100,
+      "id_str": "765263319557083136",
+      "text": "@ceounderhood 👌",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 765263054959415300,
+      "in_reply_to_status_id_str": "765263054959415297",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 9291782,
+        "id_str": "9291782"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Aug 15 19:08:39 +0000 2016",
+      "id": 765263953459023900,
+      "id_str": "765263953459023872",
+      "text": "@ceounderhood да, конечно, расскажи, интересно)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ceounderhood",
+            "name": "CEO Under Hood",
+            "id": 718365702420328400,
+            "id_str": "718365702420328450",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 765260918364205000,
+      "in_reply_to_status_id_str": "765260918364205056",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 14465598,
+        "id_str": "14465598"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Aug 15 18:16:37 +0000 2016",
+      "id": 765250858619666400,
+      "id_str": "765250858619666432",
+      "text": "Сегодня честь вести этот твиттер перешла мне. Я @alhov CEO @courseburg_ru. Минутка хвастовства о нас написал: https://t.co/g1nG2GClvt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alhov",
+            "name": "Alhov Alexander",
+            "id": 138320638,
+            "id_str": "138320638",
+            "indices": [
+              48,
+              54
+            ]
+          },
+          {
+            "screen_name": "courseburg_ru",
+            "name": "Courseburg_ru",
+            "id": 719496791352324100,
+            "id_str": "719496791352324097",
+            "indices": [
+              59,
+              73
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/g1nG2GClvt",
+            "expanded_url": "http://www.the-village.ru/village/business/job-question/243025-summer",
+            "display_url": "the-village.ru/village/busine…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 18:29:36 +0000 2016",
+      "id": 765254128088088600,
+      "id_str": "765254128088088576",
+      "text": "Привет Англичанам :) @ruxeg @alhov @courseburg_ru @villagemsk",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ruxeg",
+            "name": "ruX",
+            "id": 113131428,
+            "id_str": "113131428",
+            "indices": [
+              21,
+              27
+            ]
+          },
+          {
+            "screen_name": "alhov",
+            "name": "Alhov Alexander",
+            "id": 138320638,
+            "id_str": "138320638",
+            "indices": [
+              28,
+              34
+            ]
+          },
+          {
+            "screen_name": "courseburg_ru",
+            "name": "Courseburg_ru",
+            "id": 719496791352324100,
+            "id_str": "719496791352324097",
+            "indices": [
+              35,
+              49
+            ]
+          },
+          {
+            "screen_name": "villagemsk",
+            "name": "The Village",
+            "id": 124433969,
+            "id_str": "124433969",
+            "indices": [
+              50,
+              61
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 765251058876682200,
+      "in_reply_to_status_id_str": "765251058876682240",
+      "in_reply_to_user_id": 113131428,
+      "in_reply_to_user_id_str": "113131428",
+      "in_reply_to_screen_name": "ruxeg",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 18:31:37 +0000 2016",
+      "id": 765254633472290800,
+      "id_str": "765254633472290817",
+      "text": "Артур, сейчас мы просто маркетплейс городских офлайн курсов, но это пока. Через 2 месяца будет интереснее @arturdubro @alhov @courseburg_ru",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "arturdubro",
+            "name": "Артур Дубро",
+            "id": 14465598,
+            "id_str": "14465598",
+            "indices": [
+              106,
+              117
+            ]
+          },
+          {
+            "screen_name": "alhov",
+            "name": "Alhov Alexander",
+            "id": 138320638,
+            "id_str": "138320638",
+            "indices": [
+              118,
+              124
+            ]
+          },
+          {
+            "screen_name": "courseburg_ru",
+            "name": "Courseburg_ru",
+            "id": 719496791352324100,
+            "id_str": "719496791352324097",
+            "indices": [
+              125,
+              139
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 765253540784857100,
+      "in_reply_to_status_id_str": "765253540784857088",
+      "in_reply_to_user_id": 14465598,
+      "in_reply_to_user_id_str": "14465598",
+      "in_reply_to_screen_name": "arturdubro",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 18:39:55 +0000 2016",
+      "id": 765256725721149400,
+      "id_str": "765256725721149440",
+      "text": "Сейчас рынок офлайн курсов очень хаотичный и много дилетантов. Мы уже отсеяли не сколько контор только на этапе общения @arturdubro",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "arturdubro",
+            "name": "Артур Дубро",
+            "id": 14465598,
+            "id_str": "14465598",
+            "indices": [
+              120,
+              131
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 765255806468124700,
+      "in_reply_to_status_id_str": "765255806468124672",
+      "in_reply_to_user_id": 14465598,
+      "in_reply_to_user_id_str": "14465598",
+      "in_reply_to_screen_name": "arturdubro",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 18:41:45 +0000 2016",
+      "id": 765257185001631700,
+      "id_str": "765257185001631744",
+      "text": "А люди к стати хотят очень милых и простых вещей, вроде курсы массажа и прочее. Програмистами хотят быть очень мало народу :( @arturdubro",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "arturdubro",
+            "name": "Артур Дубро",
+            "id": 14465598,
+            "id_str": "14465598",
+            "indices": [
+              126,
+              137
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 765255806468124700,
+      "in_reply_to_status_id_str": "765255806468124672",
+      "in_reply_to_user_id": 14465598,
+      "in_reply_to_user_id_str": "14465598",
+      "in_reply_to_screen_name": "arturdubro",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 18:48:44 +0000 2016",
+      "id": 765258940976394200,
+      "id_str": "765258940976394242",
+      "text": "Есть типЫ которые нанимают абы кого и плохо учат. Но тут это черевато, человек просто бросит учебу и не станет тем кем хотел @arturdubro",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "arturdubro",
+            "name": "Артур Дубро",
+            "id": 14465598,
+            "id_str": "14465598",
+            "indices": [
+              125,
+              136
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 765255806468124700,
+      "in_reply_to_status_id_str": "765255806468124672",
+      "in_reply_to_user_id": 14465598,
+      "in_reply_to_user_id_str": "14465598",
+      "in_reply_to_screen_name": "arturdubro",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 18:50:01 +0000 2016",
+      "id": 765259264319492100,
+      "id_str": "765259264319492098",
+      "text": "@arturdubro да статистика есть. Например дедушки ищут курсы английского для внуков, а бабушки нет, там иногда кино и немцы :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "arturdubro",
+            "name": "Артур Дубро",
+            "id": 14465598,
+            "id_str": "14465598",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 765257788910080000,
+      "in_reply_to_status_id_str": "765257788910080000",
+      "in_reply_to_user_id": 14465598,
+      "in_reply_to_user_id_str": "14465598",
+      "in_reply_to_screen_name": "arturdubro",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 18:56:35 +0000 2016",
+      "id": 765260918364205000,
+      "id_str": "765260918364205056",
+      "text": "В основном учиться хотят девушки 25 -35 лет, но есть категории курсов где побольше мужчин. Могу рассказать как изучать соцдем @arturdubro",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "arturdubro",
+            "name": "Артур Дубро",
+            "id": 14465598,
+            "id_str": "14465598",
+            "indices": [
+              126,
+              137
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 765259264319492100,
+      "in_reply_to_status_id_str": "765259264319492098",
+      "in_reply_to_user_id": 718365702420328400,
+      "in_reply_to_user_id_str": "718365702420328450",
+      "in_reply_to_screen_name": "ceounderhood",
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 15 19:05:04 +0000 2016",
+      "id": 765263054959415300,
+      "id_str": "765263054959415297",
+      "text": "ok, так правильно? https://t.co/iAOOylr1xF",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iAOOylr1xF",
+            "expanded_url": "https://twitter.com/pilot34/status/765262774448652288",
+            "display_url": "twitter.com/pilot34/status…",
+            "indices": [
+              19,
+              42
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 765262774448652300,
+      "quoted_status_id_str": "765262774448652288",
+      "quoted_status": {
+        "created_at": "Mon Aug 15 19:03:57 +0000 2016",
+        "id": 765262774448652300,
+        "id_str": "765262774448652288",
+        "text": "@ceounderhood отвечай плиз цитатой, чтобы было понятно, на что ответ :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 765260918364205000,
+        "in_reply_to_status_id_str": "765260918364205056",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 9291782,
+          "id_str": "9291782"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
