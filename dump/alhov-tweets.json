@@ -59,7 +59,7 @@
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 0,
-      "favorite_count": 3,
+      "favorite_count": 2,
       "favorited": false,
       "retweeted": false,
       "possibly_sensitive": false,
@@ -748,7 +748,7 @@
         "quoted_status_id": 765656464975355900,
         "quoted_status_id_str": "765656464975355905",
         "retweet_count": 0,
-        "favorite_count": 0,
+        "favorite_count": 1,
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,
@@ -771,6 +771,931 @@
         "hashtags": [],
         "symbols": [],
         "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 18 21:00:19 +0000 2016",
+      "id": 766379221136576500,
+      "id_str": "766379221136576512",
+      "text": "результат за день: отсебеседованы и приняты 2 стажера в отдел контент-маркетинга это хорошо, не приняли наш комент в СМИ это плохо",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 18 21:01:27 +0000 2016",
+      "id": 766379507511136300,
+      "id_str": "766379507511136262",
+      "text": "помню за мной должек по анализу рынка, статья в процессе. я помню",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 18 21:03:03 +0000 2016",
+      "id": 766379910155862000,
+      "id_str": "766379910155862016",
+      "text": "к стати гугл на днях поднасрал: данных давать будут меньше, если вы не тратите на рекламу меньше нескольких тысяч долларов в месяц",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 18 21:21:50 +0000 2016",
+      "id": 766384636641640400,
+      "id_str": "766384636641640448",
+      "text": "нет, на удивление есть люди готовые работать за опыт, но надо хорошо и детально описать их плюсы https://t.co/FOkmySb190",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FOkmySb190",
+            "expanded_url": "https://twitter.com/5an/status/766379787682283520",
+            "display_url": "twitter.com/5an/status/766…",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766379787682283500,
+      "quoted_status_id_str": "766379787682283520",
+      "quoted_status": {
+        "created_at": "Thu Aug 18 21:02:34 +0000 2016",
+        "id": 766379787682283500,
+        "id_str": "766379787682283520",
+        "text": "@ceounderhood стажерам платите деньги ?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 766379221136576500,
+        "in_reply_to_status_id_str": "766379221136576512",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 9398162,
+          "id_str": "9398162"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 18 21:25:01 +0000 2016",
+      "id": 766385437514592300,
+      "id_str": "766385437514592261",
+      "text": "а секс-то чем не угодил? фотки редко постят или по политическим мотивам? https://t.co/ss6INoFYUm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ss6INoFYUm",
+            "expanded_url": "https://twitter.com/7rulnik/status/766039188374511616",
+            "display_url": "twitter.com/7rulnik/status…",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766039188374511600,
+      "quoted_status_id_str": "766039188374511616",
+      "quoted_status": {
+        "created_at": "Wed Aug 17 22:29:09 +0000 2016",
+        "id": 766039188374511600,
+        "id_str": "766039188374511616",
+        "text": "Отписался от @spbunderhood\nСледующие видать @ceounderhood и @sexsecrethood",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                13,
+                26
+              ]
+            },
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                44,
+                57
+              ]
+            },
+            {
+              "screen_name": "sexsecrethood",
+              "name": "Sex Secrethood",
+              "id": 743173486164607000,
+              "id_str": "743173486164606976",
+              "indices": [
+                60,
+                74
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 449464925,
+          "id_str": "449464925"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 18 22:04:11 +0000 2016",
+      "id": 766395292015063000,
+      "id_str": "766395292015063041",
+      "text": "без воды, братух. ты все перепутал. а чай, кофе настоящий и печенки в офисе без ограничений https://t.co/iyzd24gC9g",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iyzd24gC9g",
+            "expanded_url": "https://twitter.com/strizhechenko/status/766385038309089282",
+            "display_url": "twitter.com/strizhechenko/…",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766385038309089300,
+      "quoted_status_id_str": "766385038309089282",
+      "quoted_status": {
+        "created_at": "Thu Aug 18 21:23:26 +0000 2016",
+        "id": 766385038309089300,
+        "id_str": "766385038309089282",
+        "text": "Не понимаю, как можно работать за опыт, если через 3 дня без еды люди обычно отъезжают. https://t.co/wxYzsiWjML",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/wxYzsiWjML",
+              "expanded_url": "https://twitter.com/ceounderhood/status/766384636641640448",
+              "display_url": "twitter.com/ceounderhood/s…",
+              "indices": [
+                88,
+                111
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1033011720,
+          "id_str": "1033011720"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 766384636641640400,
+        "quoted_status_id_str": "766384636641640448",
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 08:43:58 +0000 2016",
+      "id": 766918689752879100,
+      "id_str": "766918689752879104",
+      "text": "на хх.ру и суперджобе при регистрации есть возможность  разместить бесплатно вакансии стажеров+ у себя в соц сетях https://t.co/INrbc4mTAP",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/INrbc4mTAP",
+            "expanded_url": "https://twitter.com/ShapovalovTS/status/766541598628773888",
+            "display_url": "twitter.com/ShapovalovTS/s…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766541598628773900,
+      "quoted_status_id_str": "766541598628773888",
+      "quoted_status": {
+        "created_at": "Fri Aug 19 07:45:33 +0000 2016",
+        "id": 766541598628773900,
+        "id_str": "766541598628773888",
+        "text": "@ceounderhood Где и как вы ищите стажеров?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 766379221136576500,
+        "in_reply_to_status_id_str": "766379221136576512",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 86214115,
+          "id_str": "86214115"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 08:44:30 +0000 2016",
+      "id": 766918820011216900,
+      "id_str": "766918820011216896",
+      "text": "мы зато делимся знаниями которые им потом позволят заработать больше https://t.co/eAjXxqu3UQ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eAjXxqu3UQ",
+            "expanded_url": "https://twitter.com/tvoybraza/status/766512466272608256",
+            "display_url": "twitter.com/tvoybraza/stat…",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766512466272608300,
+      "quoted_status_id_str": "766512466272608256",
+      "quoted_status": {
+        "created_at": "Fri Aug 19 05:49:47 +0000 2016",
+        "id": 766512466272608300,
+        "id_str": "766512466272608256",
+        "text": "@strizhechenko @mr_The @ceounderhood я никогда не был падок на бесплатную работу))) корыстная падла))",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "strizhechenko",
+              "name": "(((*Code && *Acid)))",
+              "id": 1033011720,
+              "id_str": "1033011720",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "mr_The",
+              "name": "mr.The",
+              "id": 53967484,
+              "id_str": "53967484",
+              "indices": [
+                15,
+                22
+              ]
+            },
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                23,
+                36
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 766386121626583000,
+        "in_reply_to_status_id_str": "766386121626583040",
+        "in_reply_to_user_id": 1033011720,
+        "in_reply_to_user_id_str": "1033011720",
+        "in_reply_to_screen_name": "strizhechenko",
+        "user": {
+          "id": 2919306341,
+          "id_str": "2919306341"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 08:45:39 +0000 2016",
+      "id": 766919112366829600,
+      "id_str": "766919112366829568",
+      "text": "жизнь боль, аж прям заинтриговали что там не так с девочками https://t.co/bruCSzw93T",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bruCSzw93T",
+            "expanded_url": "https://twitter.com/mkn8rd/status/766387140167102464",
+            "display_url": "twitter.com/mkn8rd/status/…",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766387140167102500,
+      "quoted_status_id_str": "766387140167102464",
+      "quoted_status": {
+        "created_at": "Thu Aug 18 21:31:47 +0000 2016",
+        "id": 766387140167102500,
+        "id_str": "766387140167102464",
+        "text": "@ceounderhood в спб и сексе неадекватные пациентки на этой неделе.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 766385437514592300,
+        "in_reply_to_status_id_str": "766385437514592261",
+        "in_reply_to_user_id": 718365702420328400,
+        "in_reply_to_user_id_str": "718365702420328450",
+        "in_reply_to_screen_name": "ceounderhood",
+        "user": {
+          "id": 247242874,
+          "id_str": "247242874"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 08:49:25 +0000 2016",
+      "id": 766920061298683900,
+      "id_str": "766920061298683904",
+      "text": "красавец, а я начал карьеру с админа в комп клубе. первый раз в жизни мне платили за то что я играл в CS https://t.co/C5Jj0Ixa21",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/C5Jj0Ixa21",
+            "expanded_url": "https://twitter.com/strizhechenko/status/766519181005033473",
+            "display_url": "twitter.com/strizhechenko/…",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766519181005033500,
+      "quoted_status_id_str": "766519181005033473",
+      "quoted_status": {
+        "created_at": "Fri Aug 19 06:16:28 +0000 2016",
+        "id": 766519181005033500,
+        "id_str": "766519181005033473",
+        "text": "@mr_The @ceounderhood ну я ради хоть какого-то опыта за 6к/месяц полгода эникейщиком работал, лол)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "mr_The",
+              "name": "mr.The",
+              "id": 53967484,
+              "id_str": "53967484",
+              "indices": [
+                0,
+                7
+              ]
+            },
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                8,
+                21
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": 766517521751040000,
+        "in_reply_to_status_id_str": "766517521751040004",
+        "in_reply_to_user_id": 53967484,
+        "in_reply_to_user_id_str": "53967484",
+        "in_reply_to_screen_name": "mr_The",
+        "user": {
+          "id": 1033011720,
+          "id_str": "1033011720"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 08:57:45 +0000 2016",
+      "id": 766922156538069000,
+      "id_str": "766922156538068993",
+      "text": "а девушек куда водишь? или по старинке сам справляешься? https://t.co/2mKBFsCcrZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2mKBFsCcrZ",
+            "expanded_url": "https://twitter.com/mr_The/status/766517521751040004",
+            "display_url": "twitter.com/mr_The/status/…",
+            "indices": [
+              57,
+              80
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 718365702420328400,
+        "id_str": "718365702420328450"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 766517521751040000,
+      "quoted_status_id_str": "766517521751040004",
+      "quoted_status": {
+        "created_at": "Fri Aug 19 06:09:53 +0000 2016",
+        "id": 766517521751040000,
+        "id_str": "766517521751040004",
+        "text": "@strizhechenko @ceounderhood с родителями жил, хех. Но это мне ещё даже 18 не было.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "strizhechenko",
+              "name": "(((*Code && *Acid)))",
+              "id": 1033011720,
+              "id_str": "1033011720",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "ceounderhood",
+              "name": "CEO Under Hood",
+              "id": 718365702420328400,
+              "id_str": "718365702420328450",
+              "indices": [
+                15,
+                28
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 766386121626583000,
+        "in_reply_to_status_id_str": "766386121626583040",
+        "in_reply_to_user_id": 1033011720,
+        "in_reply_to_user_id_str": "1033011720",
+        "in_reply_to_screen_name": "strizhechenko",
+        "user": {
+          "id": 53967484,
+          "id_str": "53967484"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 21 20:40:44 +0000 2016",
+      "id": 767461454731763700,
+      "id_str": "767461454731763712",
+      "text": "Сдаю вахту, управления этим акком. Сейчас дописываю статью  как обещал. Yа той неделе она выйдет в одном из СМИ. следите за @courseburg_ru",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "courseburg_ru",
+            "name": "Courseburg_ru",
+            "id": 719496791352324100,
+            "id_str": "719496791352324097",
+            "indices": [
+              124,
+              138
+            ]
+          }
+        ],
         "urls": []
       },
       "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
