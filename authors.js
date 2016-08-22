@@ -1,7 +1,7 @@
 /* eslint-disable no-multi-spaces */
 
 export default [
-    // { realname: '', company: '', username: '', start: '22 Aug 2016', first: '', post: false },
+    { realname: 'Михаил Трофимов', company: 'Revealytics', username: 'trof', start: '22 Aug 2016', first: '767733606286520320', post: false },
     { realname: 'Александр Альхов', company: 'Courseburg', username: 'alhov', start: '15 Aug 2016', first: '765250858619666432' },
     { realname: 'Александр Калошин', company: 'Last.Backend', username: 'undassa_', start: '7 Aug 2016', first: '762550898094698496' },
     { realname: 'Владимир Макеев', company: 'Surf', username: 'vmakeev', start: '1 Aug 2016', first: '760029772688793600' },
