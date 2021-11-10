@@ -37,4 +37,8 @@
 * `pages/` — маркдаун страницы на сайте
 * `migration/` — миграции для старых проектов
 
-[![Build Status](https://travis-ci.org/memphys/ceounderhood.svg?branch=master)](https://travis-ci.org/memphys/ceounderhood)
+[![Build Status](https://travis-ci.org/memphys/ceounderhood.svg?branch=master)](https://travis-ci.org/memphys/ceounderhood)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmemphys%2Fceounderhood.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmemphys%2Fceounderhood?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmemphys%2Fceounderhood.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmemphys%2Fceounderhood?ref=badge_large)
